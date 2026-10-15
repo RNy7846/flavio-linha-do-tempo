@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="pt-BR" class="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flávio Bolsonaro: linha do tempo, dados e plano de governo</title>
+  <meta name="description" content="Mapeamento interativo de investigações, decisões judiciais e controvérsias públicas envolvendo o senador Flávio Bolsonaro e a família, com explorador de nomes e valores e as críticas publicadas ao plano de governo, todos com fontes verificáveis.">
+  <meta name="color-scheme" content="dark">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind via CDN (utilitários de layout); o visual do gráfico está em style.css -->
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="page">
+  <a class="skip" href="#conteudo">Ir para o conteúdo</a>
+
+  <header class="masthead wrap">
+    <p class="kicker">Dados públicos · Mapeamento temporal</p>
+    <h1>Flávio Bolsonaro e a família: investigações e controvérsias, de 2003 a 2026</h1>
+    <p class="dek">
+      <span id="total">67</span> fatos desfavoráveis a Flávio e casos que envolvem parentes dele, noticiados pela imprensa
+      e registrados pela Justiça, organizados por tema e por valor citado. Há também uma aba com o plano de governo do candidato e o que foi apontado de negativo em cada declaração.
+    </p>
+  </header>
+
+  <div class="tabbar">
+    <div class="wrap">
+      <div class="tabs" id="tabs" role="tablist" aria-label="Seções do painel">
+        <button type="button" role="tab" id="tab-linha" data-tab="linha" aria-controls="panel-linha" aria-selected="true">Linha do tempo</button>
+        <button type="button" role="tab" id="tab-explorar" data-tab="explorar" aria-controls="panel-explorar" aria-selected="false" tabindex="-1">Explorar</button>
+        <button type="button" role="tab" id="tab-plano" data-tab="plano" aria-controls="panel-plano" aria-selected="false" tabindex="-1">Plano de governo</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap" id="conteudo" tabindex="-1">
+
+    <!-- ============ ABA 1: LINHA DO TEMPO ============ -->
+    <div id="panel-linha" class="panel" role="tabpanel" aria-labelledby="tab-linha">
+      <section class="controls" aria-label="Filtros do gráfico">
+        <div class="filter-group">
+          <span class="filter-label" id="lbl-cat">Tema</span>
+          <div class="chips" id="chips-cat" role="group" aria-labelledby="lbl-cat"></div>
+        </div>
+        <div class="filter-bar">
+          <div class="seg" id="seg-basis" role="group" aria-label="Posição das bolhas no eixo do tempo">
+            <button type="button" data-basis="noticia" aria-pressed="true">Quando foi noticiado</button>
+            <button type="button" data-basis="fato" aria-pressed="false">Quando ocorreu</button>
+          </div>
+          <div class="seg" id="seg-period" role="group" aria-label="Período exibido">
+            <button type="button" data-period="all" aria-pressed="true">2003–2026</button>
+            <button type="button" data-period="recent" aria-pressed="false">Foco: 2018 em diante</button>
+          </div>
+          <button type="button" class="btn-ghost" id="btn-reset">Limpar filtros</button>
+          <p class="count" id="count" aria-live="polite"></p>
+        </div>
+        <div class="hl-banner" id="hl-banner" role="status" hidden>
+          <span class="hl-dot" aria-hidden="true"></span>
+          <span>Em destaque: <strong id="hl-text"></strong></span>
+          <button type="button" class="btn-ghost" id="hl-clear">Limpar destaque</button>
+        </div>
+      </section>
+
+      <section id="grafico" class="chart-card" aria-labelledby="chart-title">
+        <div class="chart-head">
+          <h2 id="chart-title">Linha do tempo por tema</h2>
+          <p>Cada bolha é um fato. Tamanho: valor citado (escala logarítmica). Passe o mouse para ler o resumo; clique para fixar o cartão e abrir a fonte. Use "Quando ocorreu" para ver os fatos na época em que teriam acontecido, e não na data em que foram noticiados.</p>
+          <p class="axis-note" id="axis-note" hidden>Atenção ao eixo: o trecho hachurado omite 2006–2017, período sem eventos mapeados. As escalas antes e depois dele são lineares.</p>
+        </div>
+        <div id="chart" class="chart-scroll" role="group" aria-label="Gráfico de dispersão: eventos por data e tema"></div>
+        <div class="size-legend" id="size-legend" aria-label="Legenda de tamanho"></div>
+      </section>
+
+      <section class="table-card" aria-label="Tabela de eventos">
+        <details id="table-details">
+          <summary>Ver os eventos em tabela, com links para as fontes</summary>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Data</th>
+                  <th scope="col">Evento</th>
+                  <th scope="col">Valor citado</th>
+                  <th scope="col">Fonte</th>
+                </tr>
+              </thead>
+              <tbody id="table-body"></tbody>
+            </table>
+          </div>
+        </details>
+      </section>
+
+      <section class="method" aria-label="Metodologia">
+        <div>
+          <h2>Como ler</h2>
+          <p>O eixo horizontal é o tempo. Cada linha agrupa fatos de um mesmo tema. Passar o mouse, tocar ou focar uma bolha com o teclado abre o cartão; clique ou Enter fixa o cartão, e Esc fecha.</p>
+          <p>A data de cada evento é a da notícia, do ato oficial ou da decisão. Quando os fatos são de outra época (por exemplo, depósitos de 2017 revelados em 2019), o cartão traz "Quando ocorreu", e o seletor acima reposiciona as bolhas por essa data.</p>
+          <p>Bolhas pequenas e de tamanho fixo indicam fatos sem valor público citado.</p>
+        </div>
+        <div>
+          <h2>O que entra aqui</h2>
+          <p>Só entram fatos desfavoráveis a Flávio Bolsonaro: atos públicos, apurações, decisões judiciais contra ele, ações cíveis, representações e reportagens em que ele é citado, investigado, autor ou réu. Decisões e processos que ele venceu não entram como fatos próprios, mas o desfecho de cada caso aparece no desdobramento do cartão.</p>
+          <p>Os temas "Família" (bolhas laranja) reúnem casos de outros parentes (Jair, Carlos, Eduardo, Michelle, Jair Renan e a ex-mulher Ana Cristina Valle), como compras de imóveis, cheques, gabinetes, joias, a trama golpista e a coação. Eles não atribuem a Flávio condutas de parentes, e ele só é parte onde o cartão diz.</p>
+          <p>Cada cartão traz o desdobramento mais recente que encontrei e o contraponto da defesa quando a fonte o registra. O desdobramento é informação, não classificação: arquivamento ou anulação não é julgamento de mérito.</p>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============ ABA 2: EXPLORAR OS DADOS ============ -->
+    <div id="panel-explorar" class="panel" role="tabpanel" aria-labelledby="tab-explorar" hidden>
+      <div class="ex-intro">
+        <h2 class="ex-title">Explorar os dados</h2>
+        <p class="ex-lead">Os mesmos <span data-total>65</span> fatos de quatro jeitos: role a página para ver os pontos se reagruparem, procure uma pessoa ou instituição, compare os valores citados e veja quanto tempo se passou entre o fato e a notícia.</p>
+        <div class="ex-nav" role="group" aria-label="Ir para uma seção desta aba">
+          <button type="button" class="chip" data-go="ex-pontos">1 · Os pontos</button>
+          <button type="button" class="chip" data-go="ex-nomes">2 · Nomes</button>
+          <button type="button" class="chip" data-go="ex-valores">3 · Valores</button>
+          <button type="button" class="chip" data-go="ex-prazo">4 · Do fato à notícia</button>
+        </div>
+      </div>
+
+      <section id="ex-pontos" class="ex-sec" aria-labelledby="ex-pontos-h">
+        <h3 id="ex-pontos-h" class="ex-h">1 · Os fatos, ponto a ponto</h3>
+        <p class="ex-sub">Cada ponto é um fato. Role para reagrupá-los; passe o mouse ou toque em um ponto para ler o resumo e abrir a fonte.</p>
+        <div class="scrolly" id="scrolly">
+          <div class="stage" id="stage">
+            <div class="stage-legend" id="stage-legend" aria-hidden="true"></div>
+            <div class="stage-svg" id="stage-svg"></div>
+          </div>
+          <ol class="steps" id="steps"></ol>
+        </div>
+        <p class="sr-only">A visualização de pontos é um complemento visual. As seções seguintes dão acesso a todos os fatos por teclado.</p>
+      </section>
+
+      <section id="ex-nomes" class="ex-sec" aria-labelledby="ex-nomes-h">
+        <h3 id="ex-nomes-h" class="ex-h">2 · Quem aparece, e onde</h3>
+        <p class="ex-sub">Escolha uma pessoa ou instituição citada nos fatos para ver em quantos aparece, em quais temas e com quem costuma ser citada.</p>
+        <div class="who" id="who">
+          <div class="who-side">
+            <label class="sr-only" for="who-q">Buscar um nome</label>
+            <input class="field" id="who-q" type="search" placeholder="Buscar um nome (ex.: Queiroz, STF)" autocomplete="off">
+            <div class="chips who-groups" id="who-groups" role="group" aria-label="Tipo de nome"></div>
+            <ul class="who-ul" id="who-ul"></ul>
+          </div>
+          <div class="who-profile" id="who-profile" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="ex-valores" class="ex-sec" aria-labelledby="ex-valores-h">
+        <h3 id="ex-valores-h" class="ex-h">3 · Os valores citados, do maior ao menor</h3>
+        <p class="ex-sub">Cada ponto é o valor que a reportagem cita para o fato. A escala é logarítmica: cada marca vale dez vezes a anterior. Busque um nome ou um tema para destacar os fatos correspondentes.</p>
+        <div class="rank-controls">
+          <label class="sr-only" for="rank-q">Buscar nos valores</label>
+          <input class="field" id="rank-q" type="search" placeholder="Destacar por nome ou tema (ex.: imóveis, Banco Master)" autocomplete="off">
+          <div class="seg" id="rank-sort" role="group" aria-label="Ordenação">
+            <button type="button" data-sort="valor" aria-pressed="true">Maior valor</button>
+            <button type="button" data-sort="data" aria-pressed="false">Mais recente</button>
+          </div>
+          <p class="count" id="rank-count" aria-live="polite"></p>
+        </div>
+        <div class="rank" id="rank"></div>
+      </section>
+
+      <section id="ex-prazo" class="ex-sec" aria-labelledby="ex-prazo-h">
+        <h3 id="ex-prazo-h" class="ex-h">4 · Do fato à notícia</h3>
+        <p class="ex-sub">Em muitos casos o fato é anterior à data em que ele virou notícia, decisão ou ação. O ponto vazio marca o início do período em que os fatos ocorreram; o ponto cheio, a data da notícia ou da decisão.</p>
+        <div class="rank-controls">
+          <div class="seg" id="dumb-sort" role="group" aria-label="Ordenação">
+            <button type="button" data-sort="intervalo" aria-pressed="true">Maior intervalo</button>
+            <button type="button" data-sort="data" aria-pressed="false">Ordem cronológica</button>
+          </div>
+          <p class="count" id="dumb-count"></p>
+        </div>
+        <div class="dumb" id="dumb"></div>
+      </section>
+    </div>
+
+    <!-- ============ ABA 3: PLANO DE GOVERNO ============ -->
+    <div id="panel-plano" class="panel" role="tabpanel" aria-labelledby="tab-plano" hidden>
+      <div class="pl-intro">
+        <h2 class="ex-title">O plano de governo, declaração por declaração</h2>
+        <p class="ex-lead" id="pl-lead"></p>
+        <p class="pl-doc" id="pl-doc"></p>
+        <p class="pl-scope">Cada crítica é atribuída a quem a fez, com a fonte e a data. Quando a fonte tem posição política ou sindical, isso aparece na etiqueta e na ressalva. Onde a campanha ou o candidato responderam, a resposta está no cartão. O painel cobre os trechos do plano sobre os quais encontrei críticas publicadas; trechos sem crítica localizada não aparecem.</p>
+      </div>
+
+      <div class="pl-summary" id="pl-summary"></div>
+
+      <section class="pl-filters" aria-label="Filtros do plano">
+        <div class="pl-bars-wrap">
+          <h3 class="pl-h">Críticas por capítulo do plano</h3>
+          <div class="pl-bars" id="pl-bars" role="group" aria-label="Filtrar por capítulo"></div>
+        </div>
+        <div class="pl-side">
+          <label class="sr-only" for="pl-q">Buscar no plano</label>
+          <input class="field" id="pl-q" type="search" placeholder="Buscar (ex.: educação, fracking, 6x1)" autocomplete="off">
+          <div class="filter-group pl-types">
+            <span class="filter-label" id="lbl-tipo">Quem critica</span>
+            <div class="chips" id="pl-types" role="group" aria-labelledby="lbl-tipo"></div>
+          </div>
+          <div class="filter-bar pl-bar">
+            <button type="button" class="btn-ghost" id="pl-toggle">Expandir todas</button>
+            <button type="button" class="btn-ghost" id="pl-reset" hidden>Limpar filtros</button>
+            <p class="count" id="pl-count" aria-live="polite"></p>
+          </div>
+        </div>
+      </section>
+
+      <div class="pl-list" id="pl-list"></div>
+    </div>
+  </main>
+
+  <footer class="foot wrap">
+    <p>Projeto de jornalismo de dados. Dados em <code>dados_investigacoes.json</code> e <code>plano_governo.json</code>. Última checagem das fontes: <span id="checagem">15/10/2026</span>.</p>
+    <p>Este painel resume reportagens e decisões e não substitui os autos nem a leitura das matérias originais.</p>
+  </footer>
+
+  <!-- cartão flutuante (hover / fixado), compartilhado por todas as abas -->
+  <div id="tip" class="tip" role="dialog" aria-modal="false" aria-live="off" hidden></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <!-- Alternativa para abrir via file:// (onde fetch do JSON é bloqueado). Gerados a partir dos .json -->
+  <script src="dados_investigacoes.js"></script>
+  <script src="plano_governo.js"></script>
+  <script src="app.js"></script>
+  <script src="explorar.js"></script>
+  <script src="plano.js"></script>
+</body>
+</html>
