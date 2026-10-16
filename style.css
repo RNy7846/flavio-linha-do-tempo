@@ -548,6 +548,22 @@ footer.foot p { margin: 0 0 6px; max-width: 80ch; }
 .pl-links { display: flex; flex-wrap: wrap; gap: 8px; }
 .pl-empty { padding: 28px 14px; text-align: center; font-size: 14px; color: var(--muted); }
 
+/* ---- aba Negacionismo ---- */
+.nz-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; flex: none; background: var(--p, var(--muted)); }
+.p-jair { --p: #e5b53c; }
+.p-flavio { --p: #3987e5; }
+.p-eduardo { --p: #d95926; }
+.p-carlos { --p: #4cc2b5; }
+.p-michelle { --p: #f08ab0; }
+.nz-who { display: inline-flex; align-items: center; gap: 6px; padding: 2px 9px 2px 8px; border-radius: 999px; background: var(--surface-3); color: var(--ink); font-size: 11.5px; font-weight: 600; line-height: 1.5; white-space: nowrap; }
+.chip .nz-dot { margin-right: 2px; }
+.pl-body .ctx p + p { margin-top: 8px; }
+.nz-notes-sec { margin-top: 40px; }
+.nz-notes { display: grid; gap: 12px; margin-top: 10px; }
+@media (min-width: 900px) { .nz-notes { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); } }
+.nz-note { display: grid; gap: 8px; align-content: start; padding: 14px 16px; border: 1px dashed var(--border-strong); border-radius: 12px; }
+.nz-note p { margin: 0; font-size: 14px; color: var(--ink-2); }
+
 @media (prefers-reduced-motion: reduce) {
   * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }

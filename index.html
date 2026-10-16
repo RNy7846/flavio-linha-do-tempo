@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Flávio Bolsonaro: linha do tempo, dados e plano de governo</title>
-  <meta name="description" content="Mapeamento interativo de investigações, decisões judiciais e controvérsias públicas envolvendo o senador Flávio Bolsonaro e a família, com explorador de nomes e valores e as críticas publicadas ao plano de governo, todos com fontes verificáveis.">
+  <title>Flávio Bolsonaro: linha do tempo, dados, plano de governo e negacionismo</title>
+  <meta name="description" content="Mapeamento interativo de investigações, decisões judiciais e controvérsias públicas envolvendo o senador Flávio Bolsonaro e a família, com explorador de nomes e valores, as críticas publicadas ao plano de governo e o registro de declarações sobre ciência, saúde, clima e dados oficiais, todos com fontes verificáveis.">
   <meta name="color-scheme" content="dark">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +23,7 @@
     <h1>Flávio Bolsonaro e a família: investigações e controvérsias, de 2003 a 2026</h1>
     <p class="dek">
       <span id="total">149</span> fatos desfavoráveis a Flávio e casos que envolvem parentes dele, noticiados pela imprensa
-      e registrados pela Justiça, organizados por tema e por valor citado. Há também uma aba com o plano de governo do candidato e o que foi apontado de negativo em cada declaração.
+      e registrados pela Justiça, organizados por tema e por valor citado. Há também uma aba com o plano de governo do candidato e o que foi apontado de negativo em cada declaração, e outra com declarações e atos da família sobre ciência, saúde, clima e dados oficiais.
     </p>
   </header>
 
@@ -33,6 +33,7 @@
         <button type="button" role="tab" id="tab-linha" data-tab="linha" aria-controls="panel-linha" aria-selected="true">Linha do tempo</button>
         <button type="button" role="tab" id="tab-explorar" data-tab="explorar" aria-controls="panel-explorar" aria-selected="false" tabindex="-1">Explorar</button>
         <button type="button" role="tab" id="tab-plano" data-tab="plano" aria-controls="panel-plano" aria-selected="false" tabindex="-1">Plano de governo</button>
+        <button type="button" role="tab" id="tab-negacionismo" data-tab="negacionismo" aria-controls="panel-negacionismo" aria-selected="false" tabindex="-1">Negacionismo</button>
       </div>
     </div>
   </div>
@@ -212,10 +213,52 @@
 
       <div class="pl-list" id="pl-list"></div>
     </div>
+
+    <!-- ============ ABA 4: NEGACIONISMO ============ -->
+    <div id="panel-negacionismo" class="panel" role="tabpanel" aria-labelledby="tab-negacionismo" hidden>
+      <div class="pl-intro">
+        <h2 class="ex-title">Negacionismo e desinformação científica: Jair, Flávio e a família</h2>
+        <p class="ex-lead" id="nz-lead"></p>
+        <p class="pl-scope">Cada registro traz o que foi dito ou feito, com a fonte e a data, e o que dizem a ciência e os dados (estudos, órgãos oficiais e checagens), com ressalvas. Onde quem foi citado respondeu, a resposta está no cartão. A palavra "negacionismo" é a usada pela imprensa e pela pesquisa para esse conjunto: o painel registra falas, atos e dados, e não rotula cada pessoa. Números de mortes, queimadas e desmatamento mostram a dimensão do problema e não atribuem a uma declaração isolada um resultado. Quem ficou sem registro aparece no fim da página, com o que encontrei.</p>
+      </div>
+
+      <div class="pl-summary" id="nz-summary"></div>
+
+      <section class="pl-filters" aria-label="Filtros dos registros">
+        <div class="pl-bars-wrap">
+          <h3 class="pl-h">Registros por tema</h3>
+          <div class="pl-bars" id="nz-bars" role="group" aria-label="Filtrar por tema"></div>
+        </div>
+        <div class="pl-side">
+          <label class="sr-only" for="nz-q">Buscar nos registros</label>
+          <input class="field" id="nz-q" type="search" placeholder="Buscar (ex.: cloroquina, Inpe, urnas)" autocomplete="off">
+          <div class="filter-group">
+            <span class="filter-label" id="lbl-nz-pessoa">Quem</span>
+            <div class="chips" id="nz-people" role="group" aria-labelledby="lbl-nz-pessoa"></div>
+          </div>
+          <div class="filter-bar pl-bar">
+            <div class="seg" id="nz-order" role="group" aria-label="Ordem dos registros">
+              <button type="button" data-ordem="antigos" aria-pressed="true">Mais antigos primeiro</button>
+              <button type="button" data-ordem="recentes" aria-pressed="false">Mais recentes primeiro</button>
+            </div>
+            <button type="button" class="btn-ghost" id="nz-toggle">Expandir todos</button>
+            <button type="button" class="btn-ghost" id="nz-reset" hidden>Limpar filtros</button>
+            <p class="count" id="nz-count" aria-live="polite"></p>
+          </div>
+        </div>
+      </section>
+
+      <div class="pl-list" id="nz-list"></div>
+
+      <section id="nz-notes-sec" class="nz-notes-sec" aria-labelledby="nz-notes-h" hidden>
+        <h3 id="nz-notes-h" class="pl-h">Sem registro nas fontes consultadas</h3>
+        <div class="nz-notes" id="nz-notes"></div>
+      </section>
+    </div>
   </main>
 
   <footer class="foot wrap">
-    <p>Projeto de jornalismo de dados. Dados em <code>dados_investigacoes.json</code> e <code>plano_governo.json</code>. Última checagem das fontes: <span id="checagem">15/10/2026</span>.</p>
+    <p>Projeto de jornalismo de dados. Dados em <code>dados_investigacoes.json</code>, <code>plano_governo.json</code> e <code>negacionismo_dados.json</code>. Última checagem das fontes: <span id="checagem">16/10/2026</span>.</p>
     <p>Este painel resume reportagens e decisões e não substitui os autos nem a leitura das matérias originais.</p>
   </footer>
 
@@ -226,8 +269,10 @@
   <!-- Alternativa para abrir via file:// (onde fetch do JSON é bloqueado). Gerados a partir dos .json -->
   <script src="dados_investigacoes.js"></script>
   <script src="plano_governo.js"></script>
+  <script src="negacionismo_dados.js"></script>
   <script src="app.js"></script>
   <script src="explorar.js"></script>
   <script src="plano.js"></script>
+  <script src="negacionismo.js"></script>
 </body>
 </html>

@@ -5,7 +5,7 @@
 (() => {
   'use strict';
 
-  const TABS = ['linha', 'explorar', 'plano'];
+  const TABS = ['linha', 'explorar', 'plano', 'negacionismo'];
 
   /* API pública para as outras abas: `ready` resolve com os eventos quando os dados carregam */
   let resolveReady, rejectReady;
@@ -674,6 +674,14 @@
       b.tabIndex = on ? 0 : -1;
     });
     TABS.forEach((t) => { $(`panel-${t}`).hidden = t !== tab; });
+    // em tela estreita a barra de abas rola na horizontal: traz a aba ativa para o centro
+    const lista = els.tabList;
+    const ativa = els.tabBtns.find((b) => b.dataset.tab === tab);
+    if (ativa && lista.scrollWidth > lista.clientWidth) {
+      const lr = lista.getBoundingClientRect();
+      const br = ativa.getBoundingClientRect();
+      lista.scrollLeft += (br.left - lr.left) - (lr.width - br.width) / 2;
+    }
     if (!changed) return;
     hideTip(true);
     if (fromUser) {
