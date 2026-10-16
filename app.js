@@ -422,7 +422,7 @@
     const items = [el('span', 't', 'Cor')];
     const present = new Set(state.data.map(scopeOf));   // só entram na legenda os tipos que existem nos dados
     if (present.has('s-fato')) items.push(item(el('span', 'sw s-fato'), 'Caso de Flávio'));
-    if (present.has('s-familia')) items.push(item(el('span', 'sw s-familia'), 'Caso de outro familiar (Flávio pode ser citado)'));
+    if (present.has('s-familia')) items.push(item(el('span', 'sw s-familia'), 'Caso de outro familiar (Jair, Carlos, Eduardo, Michelle e outros)'));
     if (present.has('s-carreira')) items.push(item(el('span', 'sw s-carreira'), 'Marco da carreira política'));
     items.push(el('span', 't', 'Valor citado'));
     for (const v of [5e4, 1e6, 1e7, 1e8]) {

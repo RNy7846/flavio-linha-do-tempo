@@ -171,7 +171,7 @@
     const scopeText = (() => {
       const p = [];
       if (cnt['s-fato']) p.push(`**${cnt['s-fato']}** envolvem diretamente Flávio`);
-      if (cnt['s-familia']) p.push(`**${cnt['s-familia']}** são casos de outros parentes em que ele pode ser citado`);
+      if (cnt['s-familia']) p.push(`**${cnt['s-familia']}** são casos de outros parentes (Jair, Carlos, Eduardo, Michelle e outros)`);
       if (cnt['s-carreira']) p.push(`**${cnt['s-carreira']}** são marcos da carreira, como mandatos e eleições`);
       return `${p.length > 1 ? `${p.slice(0, -1).join(', ')} e ${p[p.length - 1]}` : p[0] || ''}.`;
     })();
@@ -182,6 +182,8 @@
     const yearCount = d3.rollup(data, (v) => v.length, (d) => d._date.getFullYear());
     const years = [...yearCount.keys()].sort((a, b) => a - b);
     const topYear = [...yearCount].sort((a, b) => b[1] - a[1] || b[0] - a[0])[0];
+    const lastYear = years[years.length - 1];
+    const beforeLast = data.filter((d) => d._date.getFullYear() < lastYear).length;
     let win = { from: years[0], n: 0 };
     for (let y = years[0]; y <= years[years.length - 1] - 2; y++) {
       const n = (yearCount.get(y) || 0) + (yearCount.get(y + 1) || 0) + (yearCount.get(y + 2) || 0);
@@ -212,7 +214,7 @@
       },
       {
         title: 'Quando viraram notícia',
-        text: `Os fatos aparecem entre **${years[0]}** e **${years[years.length - 1]}**. O ano com mais registros é **${topYear[0]}** (**${topYear[1]}**), e **${win.n}** dos ${total} foram noticiados entre **${win.from}** e **${win.from + 2}**.`,
+        text: `Os fatos aparecem entre **${years[0]}** e **${lastYear}**. **${beforeLast}** dos ${total} são anteriores a ${lastYear}, ano de eleição. O ano com mais registros é **${topYear[0]}** (**${topYear[1]}**), e **${win.n}** dos ${total} foram noticiados entre **${win.from}** e **${win.from + 2}**.`,
         layout: (W, H) => layoutYears(data, W, H),
       },
       {
@@ -379,9 +381,9 @@
   };
   const GRUPOS = [
     ['Família', /Bolsonaro|Ana Cristina Siqueira Valle|^Ex-mulheres/],
-    ['Partidos', /^(PL|PP|PSC|PSL|PSL-RJ|PSOL|PT|PSB|Rede Sustentabilidade|Federação Brasil da Esperança|Campanha de Lula)$/],
-    ['Imprensa, empresas e entidades', /^(UOL|O Globo|Folha de S\.Paulo|O Estado de S\. Paulo|Veja|X|TikTok|Metrópoles|Aos Fatos|Banco Master|BRB|Santander|Neon E\. Motors|Gramazini Granitos e Mármores Thomazini|Grupo CRM|Ifop|Copenhagen Consultoria e Assessoria|Contábil Correa|Trustee DTVM|Bravo Grafeno|Voga Serviços Contábeis|Alcazar Holdings|Fraction 024|Prime You|WT Administração de Imóveis e Bens|União Química|Instituto de Medicina e Projeto \(IMP\)|Instituto de Medicina e Projeto|Glágio do Brasil|Inbra-Tecnologia|Vasco da Gama)$/],
-    ['Justiça e órgãos de controle', /Ministério Público|MP-DF|Polícia Federal|PGR|Procuradoria|Coaf|TCU|TCE|CGU|Receita Federal|CPMI|Senado Federal|Defensoria|AGU|STF|STJ|TSE|TJDFT|TJ-RJ|Vara|Turma|Justiça|Conselho de Ética|Órgão Especial|Aras|Gonet|Moraes|André Mendonça|Nunes Marques|Cármen Lúcia|Lewandowski|Fachin|Gilmar|Barroso|Rosa Weber|Toffoli|Marco Aurélio|Bellizze|Itabaiana|Jardon|Ivani|Keyla|Galliza|Bruna Araujo|Cavalcanti|Fragoso|Humberto Jacques|Eduardo Benones|Comissão de Segurança/],
+    ['Partidos', /^(PL|PP|PSC|PSL|PSL-RJ|PSOL|PT|PSB|PDT|Rede Sustentabilidade|Federação Brasil da Esperança|Campanha de Lula)$/],
+    ['Imprensa, empresas e entidades', /^(UOL|O Globo|Folha de S\.Paulo|O Estado de S\. Paulo|Veja|X|TikTok|Metrópoles|Aos Fatos|Banco Master|BRB|Santander|Neon E\. Motors|Gramazini Granitos e Mármores Thomazini|Grupo CRM|Ifop|Copenhagen Consultoria e Assessoria|Contábil Correa|Trustee DTVM|Bravo Grafeno|Voga Serviços Contábeis|Alcazar Holdings|Fraction 024|Prime You|WT Administração de Imóveis e Bens|União Química|Instituto de Medicina e Projeto \(IMP\)|Instituto de Medicina e Projeto|Glágio do Brasil|Inbra-Tecnologia|Vasco da Gama|Grupo Sarkis|BNDES|Alerj|Havengate|Go UP Entertainment|NR Sports|Santos FC|Sport 70|Bolsotini Chocolates e Café|Jornal Nacional|GloboNews|Agência Lupa|ICL Notícias|piauí|Twitter|Facebook|CNBB|UFRJ|Record TV|Época|Estadão|SBT|Ibama|Alesp|Prevent Senior|Codevasf|Bolsonaro Jr\. Eventos e Mídia)$/],
+    ['Justiça e órgãos de controle', /Ministério Público|MP-DF|Polícia Federal|PGR|Procuradoria|Coaf|TCU|TCE|CGU|Receita Federal|CPMI|Senado Federal|Defensoria|AGU|STF|STJ|TSE|TJDFT|TJ-RJ|Vara|Turma|Justiça|Conselho de Ética|Órgão Especial|Aras|Gonet|Moraes|André Mendonça|Nunes Marques|Cármen Lúcia|Lewandowski|Fachin|Gilmar|Barroso|Rosa Weber|Toffoli|Marco Aurélio|Bellizze|Itabaiana|Jardon|Ivani|Keyla|Galliza|Bruna Araujo|Cavalcanti|Fragoso|Humberto Jacques|Eduardo Benones|Comissão de Segurança|Flávio Dino|Zanin|Sanseverino|Gabriela Guimarães|CPI da Pandemia|MPDFT|Polícia Civil/],
   ];
   const OUTROS = 'Pessoas e outros';
   const GROUP_CHIPS = ['Família', 'Justiça e órgãos de controle', 'Partidos', 'Imprensa, empresas e entidades', OUTROS];
@@ -559,7 +561,7 @@
       // por tema: parcela dos fatos do nome x peso do tema no conjunto
       const sec1 = el('div', 'wp-sec');
       sec1.append(el('h4', null, 'Em quais temas aparece'));
-      sec1.append(el('p', 'wp-note', 'A barra mostra a parcela dos fatos deste nome em cada tema. O traço branco marca o peso do tema entre os 65 fatos.'));
+      sec1.append(el('p', 'wp-note', `A barra mostra a parcela dos fatos deste nome em cada tema. O traço branco marca o peso do tema entre os ${total} fatos.`));
       const grid = el('div', 'wp-themes');
       const mine = d3.rollup(evs, (v) => v.length, (d) => d.categoria);
       themes.filter((t) => mine.has(t)).sort((a, b) => mine.get(b) - mine.get(a)).forEach((t) => {

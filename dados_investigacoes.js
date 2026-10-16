@@ -33,6 +33,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "m12-mocao-claudio-luiz-2004",
+    "data": "2004",
+    "titulo": "Flávio concede moção de louvor ao tenente-coronel Cláudio Luiz de Oliveira, depois condenado como mandante do assassinato da juíza Patrícia Acioli",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Cláudio Luiz Silva de Oliveira (tenente-coronel)", "Patrícia Acioli (juíza)"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2004, na Alerj, Flávio outorgou moção de louvor ao tenente-coronel da PM Cláudio Luiz de Oliveira, por sua atuação operacional à frente de batalhões, segundo coluna do Metrópoles. Em 2014, Oliveira, comandante do 7º BPM, foi condenado a 36 anos de prisão como mandante do assassinato da juíza Patrícia Acioli, morta em 2011.",
+    "desdobramento": "O mesmo crime motivou a publicação de Flávio de agosto de 2011 sobre a juíza (ver evento). Nas fontes consultadas, não há processo contra Flávio pela moção.",
+    "contraponto": "Sobre outras homenagens, Flávio já disse ter concedido 'centenas' de moções a policiais e que não sabia, na época, das acusações futuras. Não encontrei manifestação específica sobre esta moção.",
+    "fonte_nome": "Metrópoles (coluna de Ricardo Noblat)",
+    "fonte_url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/os-lacos-de-flavio-bolsonaro-com-o-submundo-do-crime-no-rio",
+    "fontes_complementares": [
+      { "nome": "Agência Pública: condenação de Cláudio Luiz a 36 anos (01/10/2026)", "url": "https://apublica.org/nota/flavio-bolsonaro-criticou-juiza-patricia-acioli-executada-por-pms/" }
+    ]
+  },
+  {
     "id": "ev01-medalha-adriano",
     "data": "2005",
     "titulo": "Flávio Bolsonaro concede a Medalha Tiradentes a Adriano da Nóbrega",
@@ -48,6 +65,89 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "m14-mocao-alan-rodrigues-2006",
+    "data": "2006",
+    "titulo": "Flávio homenageia o PM Alan Rodrigues de Oliveira, que em 2017 seria preso por extorsão e atuava na segurança de seus eventos",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Jair Bolsonaro", "Alan Rodrigues de Oliveira (PM)", "Alex Rodrigues de Oliveira (PM)"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2006, Flávio homenageou na Alerj o policial militar Alan Rodrigues de Oliveira. Em 2017, ele foi preso por integrar uma rede de policiais que extorquia comerciantes na Zona Oeste do Rio. Segundo a coluna do Metrópoles, Alan e o irmão gêmeo, Alex, trabalhavam na segurança de eventos políticos de Flávio. O Congresso em Foco registra uma foto de Jair e Flávio Bolsonaro com os dois, em festa de aniversário, sem data informada.",
+    "desdobramento": "Nas fontes consultadas, não há processo contra Flávio pela homenagem nem pela contratação dos irmãos.",
+    "contraponto": "Não encontrei manifestação de Flávio sobre este caso específico nas fontes consultadas. Sobre as homenagens em geral, ele diz ter concedido 'centenas' de moções a policiais.",
+    "fonte_nome": "Metrópoles (coluna de Ricardo Noblat)",
+    "fonte_url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/os-lacos-de-flavio-bolsonaro-com-o-submundo-do-crime-no-rio",
+    "fontes_complementares": [
+      { "nome": "Congresso em Foco: dez fatos que ligam a família Bolsonaro a milicianos (23/12/2019)", "url": "https://www.congressoemfoco.com.br/noticia/31921/dez-fatos-que-ligam-a-familia-bolsonaro-a-milicianos" }
+    ]
+  },
+  {
+    "id": "m07-discurso-milicias-2007",
+    "data": "2007",
+    "titulo": "Em debate na Alerj, Flávio diz que 'não se pode estigmatizar as milícias' e as chama de 'novo tipo de policiamento'",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2007, num debate na Assembleia Legislativa do Rio, Flávio, então deputado estadual, disse que 'não se pode simplesmente estigmatizar as milícias' e se referiu a esses grupos como um 'novo tipo de policiamento', segundo a reportagem que resgatou a fala em janeiro de 2019, quando ele foi questionado sobre as homenagens a policiais acusados de integrar milícia em Rio das Pedras.",
+    "desdobramento": "A fala voltou ao noticiário em janeiro de 2019, dias depois da Operação Intocáveis. Nas fontes consultadas, não há processo contra Flávio por ela.",
+    "contraponto": "Em entrevista ao SBT, Flávio disse: 'Eu sou contra milícias, só que nesse momento (em 2007) estava começando uma discussão sobre o que era isso'. Afirmou que as frases foram tiradas de contexto e que, na época, qualquer lugar com dois ou três policiais já era chamado de 'milícia'.",
+    "fonte_nome": "A Gazeta (ES)",
+    "fonte_url": "https://www.agazeta.com.br/es/politica/flavio-bolsonaro-diz-na-tv-que-e-contra-milicias-0119",
+    "fontes_complementares": [
+      { "nome": "Diário Carioca: histórico de Flávio e as milícias (07/09/2026)", "url": "https://www.diariocarioca.com/2026/09/07/politica/flavio-bolsonaro-e-o-apoio-as-milicias-o-historico-e-a-defesa-que-voltou-ao-debate" }
+    ]
+  },
+  {
+    "id": "m13-mocao-edson-santos-2008",
+    "data": "2008",
+    "titulo": "Flávio concede moção ao major Edson Raimundo dos Santos, depois condenado pela tortura e morte de Amarildo na UPP da Rocinha",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Edson Raimundo dos Santos (major da PM)", "Amarildo de Souza"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2008, Flávio concedeu moção a Edson Raimundo dos Santos, segundo coluna do Metrópoles. Anos depois, ele comandava a UPP da Rocinha quando Amarildo de Souza foi torturado, morto e desaparecido, e foi condenado a mais de 13 anos de prisão.",
+    "desdobramento": "Nas fontes consultadas, não há processo contra Flávio pela moção. A informação vem de uma única coluna de análise e deve ser conferida na decisão judicial.",
+    "contraponto": "Sobre as homenagens a policiais em geral, Flávio diz ter concedido 'centenas' de moções e que não podia prever a conduta posterior dos homenageados. Não encontrei manifestação específica sobre este caso.",
+    "fonte_nome": "Metrópoles (coluna de Ricardo Noblat)",
+    "fonte_url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/os-lacos-de-flavio-bolsonaro-com-o-submundo-do-crime-no-rio",
+    "fontes_complementares": []
+  },
+  {
+    "id": "m08-acioli-tweet-2011",
+    "data": "2011-08-12",
+    "titulo": "No dia em que a juíza Patrícia Acioli é assassinada, Flávio escreve que ela 'humilhava policiais'",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Patrícia Acioli (juíza)", "Cláudio Luiz Silva de Oliveira (tenente-coronel, condenado como mandante)"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 12 de agosto de 2011, dia do assassinato da juíza Patrícia Acioli, em Niterói, Flávio, então deputado estadual pelo PP, respondeu no Twitter a uma publicação da CBN Rio. Escreveu que Deus tivesse a juíza, mas que a forma 'absurda e gratuita' com que ela 'humilhava policiais' nas sessões contribuiu para que tivesse 'muitos inimigos'. A frase gerou repercussão negativa naquele mesmo dia.",
+    "desdobramento": "Onze policiais militares foram condenados pelo assassinato. O tenente-coronel Cláudio Luiz Silva de Oliveira, comandante do 7º BPM e apontado como mandante, foi condenado em 2014 a 36 anos de prisão. A publicação voltou ao noticiário em janeiro de 2019 e em outubro de 2026.",
+    "contraponto": "Após a repercussão, Flávio disse que repudiava a morte da juíza e que apenas afirmara que ela teria muitos inimigos. Em outubro de 2026, a assessoria não respondeu à Agência Pública.",
+    "fonte_nome": "Terra",
+    "fonte_url": "https://www.terra.com.br/noticias/brasil/policia/filho-de-bolsonaro-diz-que-juiza-morta-humilhava-reus,322ccc00a90ea310VgnCLD200000bbcceb0aRCRD.html",
+    "fontes_complementares": [
+      { "nome": "Agência Pública: nota sobre a publicação de 2011 (01/10/2026)", "url": "https://apublica.org/nota/flavio-bolsonaro-criticou-juiza-patricia-acioli-executada-por-pms/" },
+      { "nome": "A Agência: o post de 2011 resgatado (22/01/2019)", "url": "https://www.aagencia.info/2011-flavio-bolsonaro-patricia-acioli/" }
+    ]
+  },
+  {
+    "id": "j02-ibama-pesca-2012",
+    "escopo": "familia",
+    "data": "2012-01-25",
+    "titulo": "Bolsonaro é flagrado pescando na Estação Ecológica de Tamoios e recebe multa de R$ 10 mil do Ibama; a multa é anulada em 2018 e volta a valer em 2023",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Jair Bolsonaro", "Ibama", "AGU"],
+    "valor_estimado": 10000,
+    "valor_descricao": "Multa de R$ 10 mil por pesca em unidade de conservação",
+    "resumo": "Em 25 de janeiro de 2012, Bolsonaro, então deputado federal, foi flagrado pescando na Estação Ecológica de Tamoios, em Angra dos Reis (RJ), unidade de conservação de proteção integral, e foi multado em R$ 10 mil. O processo administrativo seguiu até o fim de 2018, quando o superintendente do Ibama no Rio anulou a multa por entender que ela havia prescrito após cinco anos. A decisão foi confirmada em junho de 2019, já no governo Bolsonaro; a AGU havia recomendado analisar o caso do zero.",
+    "desdobramento": "Em despacho de 17 de setembro de 2023, o Ibama considerou o arquivamento irregular, porque o prazo de prescrição seria de 12 anos, e não de cinco. A multa voltou a valer e o caso deve ser julgado de novo em primeira instância.",
+    "contraponto": "A reportagem da Agência Pública não traz manifestação de Bolsonaro, que poderá se defender no novo julgamento. Segundo outras reportagens, ele chamou a revalidação da multa de 'perseguição'.",
+    "fonte_nome": "Agência Pública",
+    "fonte_url": "https://apublica.org/nota/multa-por-pesca-ilegal-contra-bolsonaro-volta-a-valer-decide-ibama/",
+    "fontes_complementares": []
+  },
+  {
     "id": "i01-compra-franquia-kopenhagen",
     "data": "2014-12",
     "titulo": "Flávio e sócio compram a franquia da Kopenhagen; MP-RJ vê R$ 500 mil ocultados na aquisição",
@@ -60,6 +160,81 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "Flávio nega crime, diz que as operações da loja são legais e feitas com recursos próprios declarados à Receita, e fala em perseguição política. Seus advogados pediram que a investigação ficasse no Órgão Especial do TJ-RJ.",
     "fonte_nome": "O Povo",
     "fonte_url": "https://www.opovo.com.br/noticias/politica/2020/08/20/investigacao-apura-se-loja-de-flavio-bolsonaro--lavou--r--2-1-milhoes.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "m09-voto-brazao-tce-2015",
+    "data": "2015-04",
+    "titulo": "Flávio vota em Domingos Brazão para conselheiro vitalício do TCE-RJ; Brazão seria condenado em 2026 no caso Marielle",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Domingos Brazão", "Marcelo Freixo", "Isy Nicolaevski (candidata de carreira)", "Alerj", "TCE-RJ"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em sessão extraordinária da Alerj em abril de 2015, Domingos Brazão foi eleito conselheiro do Tribunal de Contas do Estado com 61 dos 66 votos possíveis. Na votação nominal, Flávio Bolsonaro (PP) votou nele ('Deputado Brazão'). Quatro deputados, entre eles Marcelo Freixo, votaram em Isy Nicolaevski, servidora de carreira do tribunal.",
+    "desdobramento": "Brazão foi preso em 24 de março de 2024. Em 25 de fevereiro de 2026, a Primeira Turma do STF o condenou, com o irmão Chiquinho, a 76 anos e 3 meses de prisão como mandante do assassinato de Marielle Franco e Anderson Gomes. Em julho de 2026, o TCE-RJ declarou vago o cargo dele após decisão definitiva do STF. Nas fontes consultadas, não há apuração contra Flávio por esse voto.",
+    "contraponto": "A reportagem não traz manifestação de Flávio sobre o voto. A escolha teve 61 dos 66 votos possíveis, ou seja, não foi um voto isolado. Em 2015, Brazão ainda não havia sido acusado do crime.",
+    "fonte_nome": "Istoé Dinheiro (Estadão Conteúdo)",
+    "fonte_url": "https://istoedinheiro.com.br/veja-como-cada-deputado-da-alerj-votou-na-nomeacao-ao-tce-do-acusado-de-mandar-matar-marielle",
+    "fontes_complementares": [
+      { "nome": "O Povo: mesma reportagem (25/03/2024)", "url": "https://www.opovo.com.br/noticias/politica/2024/03/25/veja-como-cada-deputado-da-alerj-votou-na-nomeacao-ao-tce-do-acusado-de-mandar-matar-marielle.html" },
+      { "nome": "Itatiaia: STF condena os irmãos Brazão a 76 anos (25/02/2026)", "url": "https://www.itatiaia.com.br/politica/stf-condena-irmaos-brazao-a-76-anos-por-morte-de-marielle-franco/" },
+      { "nome": "Tribuna do Sertão: TCE-RJ declara vago o cargo de Brazão (15/07/2026)", "url": "https://tribunadosertao.com.br/rj-em-foco/2026/07/15/940266-tce-rj-oficializa-perda-do-cargo-de-domingos-brazao-e-exonera-equipe-de-gabinete" }
+    ]
+  },
+  {
+    "id": "j03-maria-do-rosario-condenacao-2015",
+    "escopo": "familia",
+    "data": "2015",
+    "data_fato": "2014-12-10",
+    "periodo_fato": "entrevista de 10 de dezembro de 2014; condenação em 2015; decisões de 2017 e 2019",
+    "titulo": "Bolsonaro é condenado a indenizar em R$ 10 mil a deputada Maria do Rosário por dizer que ela 'não merece' ser estuprada",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Jair Bolsonaro", "Maria do Rosário (deputada)", "Marco Aurélio Mello", "Luiz Fux", "STJ", "STF"],
+    "valor_estimado": 10000,
+    "valor_descricao": "R$ 10 mil por danos morais",
+    "resumo": "Em entrevista ao jornal Zero Hora, em 10 de dezembro de 2014, Bolsonaro, então deputado federal, afirmou que a deputada Maria do Rosário (PT-RS) 'não merece' ser estuprada, repetindo um comentário que já havia feito em 2003. O TJDFT o condenou em 2015 a indenizá-la em R$ 10 mil por danos morais, e o STJ manteve a condenação em agosto de 2017.",
+    "desdobramento": "Em fevereiro de 2019, o ministro Marco Aurélio Mello negou recurso da defesa e manteve a condenação. A sentença obriga Bolsonaro a publicar a decisão em seu canal oficial no YouTube, sob multa diária. Uma semana antes, Luiz Fux havia suspendido as ações criminais sobre o caso até o fim do mandato presidencial, entendendo que essa proteção não vale para as ações cíveis.",
+    "contraponto": "A reportagem do Congresso em Foco não traz manifestação de Bolsonaro nesta decisão. Segundo reportagens da época, a defesa alegava imunidade parlamentar, e os tribunais entenderam que a fala foi feita fora da atividade parlamentar.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/32709/stf-mantem-decisao-que-manda-bolsonaro-indenizar-maria-do-rosario",
+    "fontes_complementares": []
+  },
+  {
+    "id": "r11-renato-bolsonaro-alesp-2016",
+    "escopo": "familia",
+    "data": "2016",
+    "data_fato": "2013",
+    "periodo_fato": "cerca de três anos na folha do gabinete, até a exoneração em 2016",
+    "titulo": "SBT: Renato Bolsonaro, irmão de Jair, constava como assessor de um deputado da Alesp, com salário de R$ 17 mil, mas trabalharia em suas lojas; é exonerado",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Renato Bolsonaro", "Jair Bolsonaro", "André do Prado (deputado estadual)", "Alesp", "SBT", "Ministério Público de SP"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2016, Renato Bolsonaro, irmão de Jair, foi exonerado do cargo de assessor especial parlamentar na Assembleia Legislativa de São Paulo, depois de reportagem do SBT. Segundo a reportagem, ele constava na folha do gabinete do deputado André do Prado (PR) havia três anos, com salário de R$ 17 mil, mas não comparecia ao trabalho e atuava em uma de suas lojas de imóveis.",
+    "desdobramento": "Segundo a assessoria do deputado, o Ministério Público pediu esclarecimentos, mas não fez acusação formal. Em dezembro de 2018, a Agência Estado corrigiu uma nota que sugeria que Renato havia sido formalmente acusado de ser funcionário fantasma: ele não foi.",
+    "contraponto": "A correção registra que não houve acusação formal. A fonte não traz manifestação de Renato Bolsonaro.",
+    "fonte_nome": "Jornal de Brasília (correção da Agência Estado)",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/correcao-irmao-de-bolsonaro-e-tratado-como-celebridade/",
+    "fontes_complementares": [
+      { "nome": "Jornal de Brasília: 'Acusado de ser funcionário fantasma, irmão de Bolsonaro vira celebridade' (nota original)", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/acusado-de-ser-funcionario-fantasma-irmao-de-bolsonaro-vira-celebridade/" }
+    ]
+  },
+  {
+    "id": "f07-wal-acai-folha-2018",
+    "escopo": "familia",
+    "data": "2018-08-13",
+    "data_fato": "2003",
+    "periodo_fato": "2003 a 2018",
+    "titulo": "Folha mostra 'Wal do Açaí', assessora do gabinete de Jair Bolsonaro, vendendo açaí no litoral do Rio; ele a exonera",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Bolsonaro", "Walderice Santos da Conceição (Wal do Açaí)", "Folha de S.Paulo"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em janeiro de 2018, a Folha de S.Paulo revelou que Walderice Santos da Conceição, uma das 14 funcionárias do gabinete de Jair Bolsonaro em Brasília, vendia açaí em Mambucaba, perto de Angra dos Reis (RJ), onde ele tem casa de praia. A reportagem voltou ao caso em agosto, e Bolsonaro a exonerou em 13 de agosto de 2018, dois meses antes do primeiro turno. O salário bruto citado era de R$ 1.351,46.",
+    "desdobramento": "O MPF moveu ação de improbidade contra Bolsonaro e Walderice. Em julho de 2023, a Justiça Federal definiu os atos de improbidade a que ele responderá (ver evento de 2023).",
+    "contraponto": "Bolsonaro disse que o único 'crime' dela era 'dar água aos cachorros' e que o pedido de saída partiu dela. Num debate da Band, em 9 de agosto, afirmou que a Folha não a encontrou em Angra e que um boletim da Câmara mostrava que ela estava de férias em dezembro.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/27326/bolsonaro-demite-assessora-apontada-como-fantasma",
     "fontes_complementares": []
   },
   {
@@ -97,6 +272,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": [
       { "nome": "A Gazeta: explicação de Flávio (21/01/2019)", "url": "https://www.agazeta.com.br/es/politica/depositos-sao-por-venda-de-apartamento-diz-flavio-bolsonaro-0119" }
     ]
+  },
+  {
+    "id": "r07-aosfatos-entrevistas-2019",
+    "data": "2019-01-21",
+    "data_fato": "2019-01-20",
+    "periodo_fato": "entrevistas à Record TV, à RedeTV! e ao SBT (20/01/2019)",
+    "titulo": "Aos Fatos checa as entrevistas de Flávio sobre as 'rachadinhas': uma afirmação falsa, duas imprecisas e uma insustentável",
+    "categoria": "Rachadinha (Alerj)",
+    "envolvidos": ["Flávio Bolsonaro", "Aos Fatos"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "A agência Aos Fatos checou quatro afirmações de Flávio. Falso: dizer que ninguém dá atenção a outros casos de parlamentares com assessores que movimentaram R$ 49 milhões, pois outros deputados também são investigados e foram citados na imprensa. Impreciso: dizer que seu patrimônio é 'um apartamento na Barra e uma sala comercial', sem citar R$ 558 mil em aplicações e a participação na franquia da Kopenhagen. Impreciso: dizer que não pediu foro privilegiado no STF, quando a reclamação apresentada buscava, na prática, esse benefício. Insustentável: dizer que cargos do gabinete ficaram vagos em alguns períodos, sem dados públicos da Alerj que o comprovem.",
+    "desdobramento": "Os temas checados, patrimônio, depósitos e foro, aparecem nos eventos de 18 e 22 de janeiro de 2019.",
+    "contraponto": "O texto registra que a redação não obteve resposta do gabinete sobre os cargos vagos.",
+    "fonte_nome": "Aos Fatos",
+    "fonte_url": "https://www.aosfatos.org/noticias/na-tv-flavio-bolsonaro-alega-perseguicao-com-informacoes-falsas/",
+    "fontes_complementares": []
   },
   {
     "id": "i04-folha-patrimonio-imoveis",
@@ -137,6 +329,23 @@ window.DADOS_INVESTIGACOES = [
     ]
   },
   {
+    "id": "e03-pf-inquerito-eleitoral-imoveis-2019",
+    "data": "2019-02-06",
+    "data_fato": "2016",
+    "periodo_fato": "declaração de bens ao TSE em 2016",
+    "titulo": "PF investiga se Flávio declarou imóveis ao TSE por valores abaixo do real: apartamento teve R$ 846 mil declarados e R$ 1,7 milhão na escritura",
+    "categoria": "Campanhas e contas eleitorais",
+    "envolvidos": ["Flávio Bolsonaro", "Polícia Federal", "PGR", "TSE"],
+    "valor_estimado": 1700000,
+    "valor_descricao": "Imóvel em Laranjeiras escriturado por R$ 1,7 milhão em 2016, contra R$ 846 mil declarados à Justiça Eleitoral",
+    "resumo": "Um inquérito da PF do Rio, que antes tramitava na Procuradoria Regional Eleitoral, chegou à PGR em fevereiro de 2019. Ele fala em 'falsificação de documento público para fins eleitorais': a suspeita é de que Flávio declarou ao TSE imóveis comprados em 'negociações relâmpago' por valores supostamente abaixo do real, com possível lavagem de dinheiro. Em um apartamento de Laranjeiras, o valor declarado à Justiça Eleitoral em 2016 foi de R$ 846 mil; na escritura do mesmo ano, R$ 1,7 milhão.",
+    "desdobramento": "A PGR decidiria se o caso ficava no Rio ou seguia para o TSE. Não encontrei, nas fontes consultadas, o desfecho.",
+    "contraponto": "A reportagem da Agência Estado não traz manifestação de Flávio.",
+    "fonte_nome": "Jornal de Brasília (Agência Estado)",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-bolsonaro-e-investigado-por-suposto-crime-eleitoral-vinculado-a-imoveis/",
+    "fontes_complementares": []
+  },
+  {
     "id": "i05-veja-lucro-imoveis",
     "data": "2019-05-15",
     "data_fato": "2010",
@@ -168,6 +377,91 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "Flávio nega ilegalidades na Alerj, diz que Queiroz tinha autonomia no gabinete e que ele desconhecia suas práticas, e afirma que a quebra de sigilo foi ilegal e que a investigação é perseguição.",
     "fonte_nome": "A Gazeta (Estado de Minas)",
     "fonte_url": "https://www.agazeta.com.br/es/politica/ministerio-publico-investiga-contas-eleitorais-de-flavio-bolsonaro-0719",
+    "fontes_complementares": []
+  },
+  {
+    "id": "f06-102-parentes-gabinetes-2019",
+    "escopo": "familia",
+    "data": "2019-08-04",
+    "data_fato": "1991",
+    "periodo_fato": "desde 1991",
+    "titulo": "O Globo: Bolsonaro e os três filhos com mandato empregaram 102 pessoas com laços familiares entre si desde 1991",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Bolsonaro", "Flávio Bolsonaro", "Eduardo Bolsonaro", "Carlos Bolsonaro", "O Globo"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Levantamento do jornal O Globo, noticiado em agosto de 2019, contou 102 funcionários com laços familiares entre si nos gabinetes de Jair Bolsonaro e dos três filhos com mandato (Flávio, Eduardo e Carlos) desde 1991. O Poder360 registrou a reação do então presidente.",
+    "desdobramento": "Nas fontes consultadas, não há ação judicial ligada especificamente a esse levantamento. O texto do Poder360 não detalha quantos nomeados são de cada gabinete.",
+    "contraponto": "Jair Bolsonaro chamou a reportagem de 'mentira deslavada', disse ser 'natural' nomear pessoas próximas e afirmou ter tido parente no gabinete 'antes da decisão de que nepotismo seria crime'. A reportagem do Poder360 não traz manifestação de Flávio.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/governo/e-natural-botar-quem-esta-do-seu-lado-diz-bolsonaro-sobre-nomeacao-de-parentes/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "c01-carlos-fantasmas-2019",
+    "escopo": "familia",
+    "data": "2019-09-11",
+    "titulo": "Época e Estadão: MP-RJ investiga Carlos Bolsonaro por suspeita de funcionários fantasmas na Câmara do Rio",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Carlos Bolsonaro", "Fabrício Queiroz", "Claudionor Gerbatim de Lima", "Márcio da Silva Gerbatim", "Ministério Público do RJ", "Eduardo Gussem"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "A revista Época revelou, e o Estadão confirmou, que o MP-RJ abriu dois procedimentos sobre o gabinete de Carlos Bolsonaro na Câmara Municipal do Rio: um criminal, sob responsabilidade do procurador-geral Eduardo Gussem, com apoio do Gaocrim, e um cível, para verificar improbidade administrativa. O texto cita dois assessores, Claudionor Gerbatim de Lima e Márcio da Silva Gerbatim, parentes de Fabrício Queiroz, que teriam trabalhado no gabinete sem registros de frequência. Ao contrário das apurações contra Flávio, estas não se baseiam em dados do Coaf.",
+    "desdobramento": "Depois das reportagens, a Câmara do Rio mudou a forma de responder a pedidos de informação: passou a dizer que crachás não comprovam frequência, atestada pelas folhas mensais assinadas pelos próprios parlamentares. A investigação por rachadinha no gabinete de Carlos evoluiu depois (ver eventos de 2021 a 2026).",
+    "contraponto": "Carlos não foi localizado para comentar. Ele havia pedido licença da Câmara na véspera para 'tratar de assuntos particulares'.",
+    "fonte_nome": "Jornal de Brasília (Estadão)",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/carlos-bolsonaro-e-investigado-por-suspeita-de-empregar-funcionarios-fantasmas/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "r08-inquerito-fantasmas-2019",
+    "data": "2019-11-22",
+    "data_fato": "2019-09-23",
+    "periodo_fato": "inquérito aberto em 23/09/2019 e confirmado em 22/11/2019",
+    "titulo": "MP-RJ confirma novo inquérito sobre 'funcionários fantasmas' no gabinete de Flávio, separado da investigação das rachadinhas",
+    "categoria": "Rachadinha (Alerj)",
+    "envolvidos": ["Flávio Bolsonaro", "Ministério Público do RJ", "Alerj", "Frederick Wassef", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O MP-RJ instaurou em 23 de setembro de 2019 um inquérito civil para apurar possível improbidade administrativa com 'funcionários fantasmas', ocupantes de cargos comissionados no gabinete de Flávio, na Alerj, que não exerceriam funções parlamentares. O órgão só confirmou o procedimento em 22 de novembro, quando a informação veio à tona durante um julgamento no STF sobre o uso de dados do antigo Coaf. Já haviam sido enviados ofícios à Alerj pedindo informações. O MP afirmou que o caso não trata de 'rachadinha'.",
+    "desdobramento": "O inquérito tramitava em sigilo. Nas fontes consultadas, não há notícia de desfecho.",
+    "contraponto": "Por meio do advogado Frederick Wassef, Flávio disse que os nomeados tinham qualificação para as funções e que as nomeações seguiram as regras da Alerj. A defesa afirma que os cargos podem ser técnicos (no gabinete) ou políticos (na base eleitoral) e que o uso de crachá não era obrigatório.",
+    "fonte_nome": "Jovem Pan",
+    "fonte_url": "https://jovempan.com.br/brasil/mp-nova-investigacao-apurar-flavio-bolsonaro-funcionarios-fantasmas/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "e04-eduardo-novo-ai5-2019",
+    "escopo": "familia",
+    "data": "2019-11-26",
+    "data_fato": "2019-10",
+    "periodo_fato": "entrevista do fim de outubro de 2019",
+    "titulo": "Eduardo Bolsonaro diz que um 'novo AI-5' poderia ser a resposta à radicalização da esquerda; Conselho de Ética abre processo",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Eduardo Bolsonaro", "Joice Hasselmann (deputada)", "Conselho de Ética da Câmara", "Augusto Heleno", "Paulo Guedes", "Gilmar Mendes"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em entrevista no fim de outubro de 2019, Eduardo Bolsonaro disse que a adoção do AI-5 poderia ser a resposta do governo do pai a uma eventual radicalização da esquerda, sendo o primeiro do entorno presidencial a citar o instrumento. O general Augusto Heleno disse desconhecer a fala, e Paulo Guedes a chamou de 'inconcebível'. Em 26 de novembro de 2019, o Conselho de Ética da Câmara instaurou dois processos contra Eduardo: um pela menção ao AI-5, que reuniu dois pedidos de cassação da oposição, e outro por ofensas à deputada Joice Hasselmann nas redes.",
+    "desdobramento": "Segundo reportagens posteriores, o relator Igor Timo recomendou o arquivamento por falta de justa causa, e o Conselho acabou arquivando o caso, sem data clara. Uma notícia-crime de 18 parlamentares ao STF foi distribuída a Gilmar Mendes; não encontrei decisão da PGR.",
+    "contraponto": "Segundo reportagens, Eduardo chamou a fala de 'um pouco infeliz', disse que era um cenário hipotético e que não defende a volta do AI-5.",
+    "fonte_nome": "Money Times",
+    "fonte_url": "https://www.moneytimes.com.br/conselho-de-etica-da-camara-instaura-processos-contra-eduardo-bolsonaro/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "c02-gabinete-do-odio-cpmi-2019",
+    "escopo": "familia",
+    "data": "2019-12-04",
+    "titulo": "Joice Hasselmann diz à CPMI das Fake News que o 'gabinete do ódio' tem três servidores ligados a Carlos Bolsonaro",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Carlos Bolsonaro", "Eduardo Bolsonaro", "Joice Hasselmann (deputada)", "Tércio Arnaud Tomaz", "José Matheus Sales Gomes", "Mateus Matos Diniz", "Filipe Martins", "Angelo Coronel (presidente da CPMI)"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 4 de dezembro de 2019, a deputada Joice Hasselmann (PSL-SP) afirmou à CPMI das Fake News que o chamado 'gabinete do ódio' é integrado por três servidores ligados ao vereador Carlos Bolsonaro: Tércio Arnaud Tomaz, José Matheus Sales Gomes e Mateus Matos Diniz. Ela também citou o assessor especial da Presidência Filipe Martins, próximo ao deputado Eduardo Bolsonaro.",
+    "desdobramento": "O presidente da CPMI, senador Angelo Coronel, disse que a comissão pediria a quebra de IPs para localizar as máquinas e investigaria se havia dinheiro público financiando a disseminação de notícias falsas a partir do Planalto. Em junho de 2025, a PF indiciou Carlos por chefiar o 'gabinete do ódio' (ver evento).",
+    "contraponto": "São afirmações de uma depoente, não conclusões verificadas. A reportagem não traz manifestação de Carlos, Eduardo ou dos servidores citados.",
+    "fonte_nome": "Bahia Notícias",
+    "fonte_url": "https://www.bahianoticias.com.br/noticia/242055-apos-depoimento-de-joice-cpmi-das-fake-news-investigara-gabinete-do-odio",
     "fontes_complementares": []
   },
   {
@@ -241,6 +535,44 @@ window.DADOS_INVESTIGACOES = [
     ]
   },
   {
+    "id": "j05-moro-interferencia-pf-2020",
+    "escopo": "familia",
+    "data": "2020-04-24",
+    "titulo": "Moro deixa o governo e acusa Bolsonaro de interferir na PF; STF abre inquérito, que a PF conclui em 2022 sem ver interferência",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Jair Bolsonaro", "Sergio Moro", "Maurício Valeixo", "Alexandre Ramagem", "Celso de Mello", "Rosa Weber", "Alexandre de Moraes", "Polícia Federal", "PGR"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 24 de abril de 2020, Sergio Moro deixou o Ministério da Justiça e acusou Jair Bolsonaro de tentar interferir politicamente no comando da Polícia Federal, depois da demissão do diretor-geral Maurício Valeixo. Bolsonaro tentou nomear Alexandre Ramagem, o que foi barrado por decisão de Alexandre de Moraes. O inquérito foi aberto em abril de 2020 a pedido da PGR e ouviu Moro, Valeixo, Ramagem, deputados e ministros. Bolsonaro depôs em novembro de 2021, depois de Celso de Mello determinar, em setembro de 2020, que o depoimento fosse presencial.",
+    "desdobramento": "Em março de 2022, a PF concluiu que Bolsonaro não interferiu na instituição, após ouvir 18 pessoas e fazer perícias, e que Moro não cometeu crime ao fazer as acusações. Em 27 de abril de 2022, Moraes mandou a PGR se manifestar sobre o relatório, sem prazo. Não encontrei decisão final nas fontes consultadas.",
+    "contraponto": "Bolsonaro afirmou que nunca teve intenção de interferir na PF e que indicou Ramagem por sua competência e pela confiança construída na segurança pessoal durante a campanha de 2018. Segundo a Reuters, ele acusou Moro de ter tentado negociar a troca do comando da PF por uma vaga no STF.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/justica/moraes-determina-que-pgr-se-manifeste-sobre-interferencia-na-pf",
+    "fontes_complementares": [
+      { "nome": "Forbes (Reuters): Moro pede demissão após exoneração na PF (24/04/2020)", "url": "https://forbes.com.br/colunas/2020/04/sergio-moro-pede-demissao-apos-exoneracao-na-pf/" }
+    ]
+  },
+  {
+    "id": "m10-intercept-predios-milicia-2020",
+    "data": "2020-04-25",
+    "data_fato": "2014",
+    "periodo_fato": "2014 a 2017 (movimentações de Queiroz e compras de imóveis)",
+    "titulo": "Intercept: documentos do MP-RJ indicam que dinheiro da 'rachadinha' teria financiado prédios da milícia em Rio das Pedras e na Muzema",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Fabrício Queiroz", "Adriano da Nóbrega", "Raimunda Veras Magalhães", "Danielle Mendonça da Costa da Nóbrega", "Ministério Público do RJ"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Reportagem do The Intercept Brasil, baseada em documentos e dados do MP-RJ, afirma que Fabrício Queiroz retinha em média 40% dos salários do gabinete de Flávio e que parte do dinheiro seguia para Adriano da Nóbrega por contas da mãe e da então mulher dele, que movimentaram ao menos R$ 1,1 milhão. Esse dinheiro abasteceria três construtoras registradas em nome de 'laranjas' (São Felipe, São Jorge e ConstruRioMZ), que erguiam prédios irregulares em Rio das Pedras e na Muzema. Segundo a reportagem, Flávio teria recebido parte dos lucros como financiador, o que ajudaria a explicar a compra de dois apartamentos entre 2015 e 2017. São alegações, não sentença.",
+    "desdobramento": "A apuração das 'rachadinhas' levou à denúncia de novembro de 2020, arquivada em maio de 2022 após a anulação de provas. Nas fontes consultadas, não encontrei denúncia específica sobre o financiamento de obras da milícia.",
+    "contraponto": "Segundo a reportagem, Flávio não respondeu ao Intercept: diz ser vítima de perseguição da imprensa, critica o vazamento do processo, que corre em sigilo, e atribui irregularidades a Queiroz. Seus advogados apresentaram nove pedidos para suspender a investigação.",
+    "fonte_nome": "Brasil de Fato (reproduz apuração do Intercept)",
+    "fonte_url": "https://www.brasildefato.com.br/2020/04/25/intercept-rachadinha-de-flavio-bolsonaro-financiou-predios-ilegais-da-milicia-no-rj/",
+    "fontes_complementares": [
+      { "nome": "The Intercept Brasil: reportagem original (25/04/2020)", "url": "https://intercept.com.br/2020/04/25/flavio-bolsonaro-rachadinha-financiou-milicia/" },
+      { "nome": "O Povo: repercussão da reportagem (25/04/2020)", "url": "https://www.opovo.com.br/noticias/brasil/2020/04/25/materia-do-the-intercept-br-acusa-flavio-bolsonaro-de-envolvimento-com-milicia-e-esquema-de-rachadinhas.html" }
+    ]
+  },
+  {
     "id": "r03-suposto-vazamento-furna",
     "data": "2020-05-18",
     "titulo": "MPF abre apuração sobre suposto vazamento da Operação Furna da Onça",
@@ -253,6 +585,24 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "Flávio afirmou que Marinho tem interesse em prejudicá-lo por ser seu substituto no Senado, questionou o momento da acusação e a chamou de invenção.",
     "fonte_nome": "Agência Brasil",
     "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2020-05/mpf-investigara-vazamento-de-informacoes-da-operacao-furna-da-onca",
+    "fontes_complementares": []
+  },
+  {
+    "id": "c04-carlos-fake-news-inquerito-2020",
+    "escopo": "familia",
+    "data": "2020-05-27",
+    "data_fato": "2020-04-25",
+    "periodo_fato": "reportagem da Folha de 25 de abril e operação de 27 de maio de 2020",
+    "titulo": "Folha: investigadores veem indícios de envolvimento de Carlos Bolsonaro no esquema de fake news; PF faz operação contra aliados e ele fica de fora",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Carlos Bolsonaro", "Jair Bolsonaro", "Roberto Jefferson", "Luciano Hang", "Alexandre de Moraes", "Abraham Weintraub", "Polícia Federal", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Segundo a Folha de S.Paulo, de 25 de abril de 2020, o inquérito do STF sobre um esquema de notícias falsas apontou indícios de envolvimento de Carlos Bolsonaro, e a apuração buscava provas que sustentassem um possível indiciamento dele ao fim do processo. Em 27 de maio, a PF cumpriu mandados de busca e apreensão, com aval de Alexandre de Moraes, contra aliados do presidente, entre eles o ex-deputado Roberto Jefferson e o empresário Luciano Hang. Carlos não estava entre os alvos, o que gerou alívio no Planalto, mas Jair Bolsonaro relatou a aliados o receio de que o filho fosse o próximo.",
+    "desdobramento": "Em junho de 2025, a PF indiciou Carlos por chefiar o 'gabinete do ódio' no inquérito da 'Abin paralela' (ver evento). Não encontrei indiciamento dele no inquérito das fake news.",
+    "contraponto": "Carlos chamou o inquérito, nas redes, de 'inconstitucional, político e ideológico'. Bolsonaro classificou a operação de ilegal e despropositada, e auxiliares a viram como retaliação às declarações de Abraham Weintraub contra o STF.",
+    "fonte_nome": "Jornal de Brasília (FolhaPress)",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-teme-que-carlos-seja-alvo-de-proxima-acao-do-inquerito-das-fake-news/",
     "fontes_complementares": []
   },
   {
@@ -271,6 +621,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": [
       { "nome": "Poder360: declarações de Wassef (20/06/2020)", "url": "https://poder360.com.br/justica/advogado-de-bolsonaro-diz-que-nao-escondeu-queiroz-e-nega-ser-o-anjo/" }
     ]
+  },
+  {
+    "id": "r09-assessora-792-dias-2020",
+    "data": "2020-06-20",
+    "data_fato": "2014",
+    "periodo_fato": "2014 a 2017",
+    "titulo": "Estadão: em 792 dias de nomeação, ex-assessora de Flávio esteve na Alerj três vezes, só para assinar o ponto",
+    "categoria": "Rachadinha (Alerj)",
+    "envolvidos": ["Flávio Bolsonaro", "Luiza Souza Paes (ex-assessora)", "Ministério Público do RJ", "Alerj"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Com base na quebra de sigilo telefônico autorizada pelo juiz Flávio Itabaiana, o MP-RJ (Gaecc) concluiu que Luiza Souza Paes, ex-assessora de Flávio, esteve no Palácio Tiradentes apenas três vezes durante os 792 dias de nomeação analisados, entre 2014 e 2017, e somente para assinar o ponto. A reportagem é do Estadão e foi reproduzida pelo Jornal de Brasília.",
+    "desdobramento": "Em novembro de 2020, Luiza disse ao MP-RJ que nunca trabalhou de fato e devolvia a maior parte do salário a Queiroz (ver evento seguinte). A denúncia das rachadinhas foi arquivada em maio de 2022.",
+    "contraponto": "A reportagem diz que o Estadão não conseguiu contato com as defesas dos citados.",
+    "fonte_nome": "Jornal de Brasília (reproduz Estadão)",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/em-792-dias-assessora-de-flavio-esteve-na-alerj-so-tres-vezes/",
+    "fontes_complementares": []
   },
   {
     "id": "g01-michelle-cheques-queiroz",
@@ -325,6 +692,24 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "f11-epoca-fantasmas-29-milhoes-2020",
+    "escopo": "familia",
+    "data": "2020-09-11",
+    "data_fato": "1991",
+    "periodo_fato": "1991 a 2019",
+    "titulo": "Época: R$ 29,5 milhões foram pagos em 28 anos a 39 suspeitos de serem funcionários fantasmas nos gabinetes de Jair e dos três filhos mais velhos",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Bolsonaro", "Flávio Bolsonaro", "Carlos Bolsonaro", "Eduardo Bolsonaro", "Ana Cristina Siqueira Valle", "Ministério Público do RJ", "Época"],
+    "valor_estimado": 29500000,
+    "valor_descricao": "R$ 29,5 milhões em valores corrigidos (R$ 16,7 milhões em salários brutos) pagos a 39 suspeitos",
+    "resumo": "Levantamento da revista Época, reproduzido pela CartaCapital, calculou que cerca de R$ 29,5 milhões, corrigidos pela inflação, foram pagos em 28 anos a supostos funcionários fantasmas nos gabinetes de Jair Bolsonaro e dos três filhos mais velhos. Dos 286 funcionários contratados, 39 são suspeitos e receberam 28% do total pago. Dezessete passaram pelo gabinete de Flávio; no de Jair, três teriam sido contratados sem trabalhar; nove passaram por mais de um gabinete. Segundo a reportagem, enquanto recebiam, alguns tinham outras profissões, como cabeleireira, veterinário, babá e personal trainer; muitos têm ligação com Ana Cristina Valle, ex-mulher de Jair, e a maioria é investigada pelo Ministério Público.",
+    "desdobramento": "São indícios levantados pela imprensa, não condenações. Os casos de cada gabinete seguiram caminhos distintos (ver eventos sobre Flávio, Carlos e Wal do Açaí).",
+    "contraponto": "O texto da CartaCapital não traz manifestação da família Bolsonaro.",
+    "fonte_nome": "CartaCapital (reproduz levantamento da Época)",
+    "fonte_url": "https://www.cartacapital.com.br/?p=146925",
+    "fontes_complementares": []
+  },
+  {
     "id": "h01-acao-familia-criancas",
     "data": "2020-09-21",
     "data_fato": "2018-09",
@@ -373,6 +758,25 @@ window.DADOS_INVESTIGACOES = [
     "fonte_url": "https://www.congressoemfoco.com.br/corrupcao/mp-denuncia-flavio-bolsonaro-e-queiroz-por-rachadinhas/",
     "fontes_complementares": [
       { "nome": "Diário de Pernambuco", "url": "https://www.diariodepernambuco.com.br/noticia/politica/2020/11/flavio-bolsonaro-e-denunciado-por-organizacao-criminosa-peculato-lav.html" }
+    ]
+  },
+  {
+    "id": "r10-luiza-paes-depoimento-2020",
+    "data": "2020-11-04",
+    "data_fato": "2011",
+    "periodo_fato": "2011 a 2017 (depoimento em setembro de 2020)",
+    "titulo": "Ex-assessora diz ao MP-RJ que nunca trabalhou no gabinete de Flávio e devolvia mais de 90% do salário a Queiroz",
+    "categoria": "Rachadinha (Alerj)",
+    "envolvidos": ["Flávio Bolsonaro", "Fabrício Queiroz", "Luiza Souza Paes (ex-assessora)", "Ministério Público do RJ", "O Globo"],
+    "valor_estimado": 160000,
+    "valor_descricao": "Cerca de R$ 160 mil transferidos a Queiroz entre 2011 e 2017, segundo extratos bancários",
+    "resumo": "Em depoimento ao MP-RJ em setembro de 2020, revelado pelo jornal O Globo, Luiza Souza Paes disse que estava nomeada no gabinete de Flávio na Alerj, mas nunca trabalhou de fato e era obrigada a repassar a maior parte do salário a Fabrício Queiroz. Recebia cerca de R$ 5 mil e ficava com cerca de R$ 700; os repasses incluíam 13º, férias, vale-alimentação e restituição do Imposto de Renda, mais de 90% dos proventos. Extratos mostram R$ 160 mil transferidos a Queiroz entre 2011 e 2017. O depoimento integra a denúncia das rachadinhas, divulgada em 4 de novembro.",
+    "desdobramento": "A denúncia foi arquivada em maio de 2022, a pedido do MP-RJ, depois da anulação de provas. Não houve julgamento de mérito.",
+    "contraponto": "Flávio disse nas redes sociais que não cometeu ilegalidade e acusou o MP de cometer uma 'série de erros bizarros' na denúncia, às vésperas das eleições municipais. O advogado de Luiza, Caio Padilha, disse que não podia confirmar nem comentar o depoimento, sob sigilo.",
+    "fonte_nome": "Jornal de Brasília",
+    "fonte_url": "https://jornaldebrasilia.com.br/politica-e-poder/ex-assessora-de-flavio-confessa-rachadinha-em-gabinete/",
+    "fontes_complementares": [
+      { "nome": "A Gazeta: ex-assessora admite rachadinha (04/11/2020)", "url": "https://www.agazeta.com.br/brasil/ex-assessora-de-flavio-bolsonaro-admite-rachadinha-1120" }
     ]
   },
   {
@@ -428,6 +832,24 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "e08-eduardo-patricia-campos-mello-2021",
+    "escopo": "familia",
+    "data": "2021-01-21",
+    "data_fato": "2020-05-27",
+    "periodo_fato": "vídeo de 27 de maio de 2020",
+    "titulo": "Justiça condena Eduardo Bolsonaro a pagar R$ 30 mil à jornalista Patrícia Campos Mello por acusações falsas",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Eduardo Bolsonaro", "Patrícia Campos Mello (jornalista)", "Hans River", "Luiz Gustavo Esteves (juiz)", "Folha de S.Paulo"],
+    "valor_estimado": 30000,
+    "valor_descricao": "R$ 30 mil por danos morais (o TJ-SP elevou depois para R$ 35 mil, segundo reportagens)",
+    "resumo": "A 11ª Vara Cível de São Paulo, com o juiz Luiz Gustavo Esteves, condenou Eduardo Bolsonaro a pagar R$ 30 mil à jornalista Patrícia Campos Mello, da Folha. Em vídeo do canal Terça Livre, transmitido no YouTube em 27 de maio de 2020, ele afirmou que a repórter tentou seduzir Hans River para obter informações contra Jair Bolsonaro e chamou de fake news a reportagem de 2018 sobre disparos em massa no WhatsApp. O juiz rejeitou a tese de que ele apenas repetiu o depoimento de Hans River à CPI das Fake News, de 11 de fevereiro de 2020: as acusações já eram amplamente questionadas e ele não fez ressalvas.",
+    "desdobramento": "Segundo reportagens, o TJ-SP negou recurso de Eduardo e elevou a indenização para R$ 35 mil, em decisão unânime da 8ª Câmara de Direito Privado.",
+    "contraponto": "A defesa alegou que o pedido era descabido, porque as afirmações se baseavam no depoimento de Hans River.",
+    "fonte_nome": "A Gazeta (ES)",
+    "fonte_url": "https://www.agazeta.com.br/brasil/eduardo-bolsonaro-e-condenado-a-pagar-r-30-mil-de-indenizacao-a-jornalista-0121",
+    "fontes_complementares": []
+  },
+  {
     "id": "i06-franquia-entregue",
     "data": "2021-02-04",
     "titulo": "Flávio entrega a franquia de chocolates, investigada pelo MP-RJ",
@@ -476,6 +898,24 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "j07-covaxin-prevaricacao-2021",
+    "escopo": "familia",
+    "data": "2021-07",
+    "data_fato": "2021-03",
+    "periodo_fato": "alertas ao presidente em março de 2021; inquérito arquivado em 23/04/2022",
+    "titulo": "STF abre inquérito sobre prevaricação de Bolsonaro no caso Covaxin; PF vê 'dever cívico' descumprido, mas não crime, e Rosa Weber arquiva em 2022",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Jair Bolsonaro", "Luis Ricardo Miranda", "Luis Miranda (deputado)", "Rosa Weber", "Augusto Aras", "CPI da Pandemia", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O servidor do Ministério da Saúde Luis Ricardo Miranda relatou à CPI da Pandemia 'pressão incomum' de superiores para concluir a compra da vacina Covaxin, além de supostas irregularidades. O irmão, deputado Luis Miranda, afirmou ter levado o caso a Bolsonaro em março de 2021, sem providências. Um inquérito sobre prevaricação foi aberto no STF, sob relatoria de Rosa Weber, em julho de 2021, segundo outras reportagens.",
+    "desdobramento": "Em janeiro de 2022, a PF concluiu que Bolsonaro não prevaricou, mas deixou de cumprir 'um dever cívico'. Em fevereiro, o procurador-geral Augusto Aras não viu crime e pediu o arquivamento; Rosa Weber rejeitou o pedido em março, e, diante de novo pedido da PGR com outros fundamentos, arquivou o inquérito em 23 de abril de 2022, ressalvando que o caso pode ser reaberto se surgirem novas provas.",
+    "contraponto": "A PGR argumentou que pedir apuração não estaria entre as atribuições do presidente. A reportagem da Agência Brasil não traz manifestação direta de Bolsonaro.",
+    "fonte_nome": "TNH1 (Agência Brasil)",
+    "fonte_url": "https://www.tnh1.com.br/noticia/nid/ministra-do-stf-arquiva-inquerito-contra-presidente-no-caso-covaxin/",
+    "fontes_complementares": []
+  },
+  {
     "id": "f02-ana-cristina-sigilo",
     "escopo": "familia",
     "data": "2021-09-20",
@@ -509,6 +949,92 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "As defesas de Carlos e de Ana Cristina não se manifestaram até o fechamento da reportagem. Em outras ocasiões, Carlos negou as acusações iniciais do MP.",
     "fonte_nome": "O Povo (Agência Estado)",
     "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/09/25/mp-aponta-carlos-bolsonaro-como-beneficiario-final-de-organizacao-criminosa.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "i14-funcionaria-gravida-acordo-2021",
+    "data": "2021-10-15",
+    "data_fato": "2020-11",
+    "periodo_fato": "demissão em novembro de 2020; acordo em outubro de 2021",
+    "titulo": "Folha: Flávio e o ex-sócio fazem acordo de R$ 30 mil com funcionária da loja de chocolates demitida grávida e sem carteira assinada",
+    "categoria": "Imóveis e negócios",
+    "envolvidos": ["Flávio Bolsonaro", "Alexandre Santini", "Bianca de Lima Gomes Loureiro (ex-funcionária)", "Bolsotini Chocolates e Café", "Ministério Público do RJ"],
+    "valor_estimado": 30000,
+    "valor_descricao": "R$ 30 mil em acordo trabalhista (a defesa da funcionária pedia R$ 55 mil)",
+    "resumo": "Flávio e o ex-sócio Alexandre Santini aceitaram pagar R$ 30 mil para encerrar uma ação trabalhista movida por Bianca de Lima Gomes Loureiro, de 20 anos, que atuava como balconista e vendedora na loja de chocolates Kopenhagen da dupla, no shopping Via Parque, no Rio. Segundo a ação, ela trabalhava sem carteira assinada, sem depósitos de FGTS e sem recolhimentos ao INSS, e foi dispensada em novembro de 2020, grávida de nove semanas, sem aviso prévio; a loja também se recusou a reintegrá-la. A loja foi fechada em março de 2021, e o MP-RJ suspeitava que a empresa tenha sido usada para lavar dinheiro das rachadinhas.",
+    "desdobramento": "Na data da reportagem, o juiz ainda não havia homologado o acordo. Santini assumiu a regularização da carteira de trabalho e dos depósitos em atraso, e Flávio ficou responsável por eventuais dívidas futuras da empresa. O caso voltou a circular em outubro de 2026.",
+    "contraponto": "A assessoria de Flávio não se manifestou e indicou Santini, que cuidava das operações. A defesa afirmou que todas as verbas devidas foram incluídas no acordo e que a demissão ocorreu por causa do fechamento da empresa.",
+    "fonte_nome": "A Gazeta (Agência Folhapress)",
+    "fonte_url": "https://www.agazeta.com.br/brasil/flavio-bolsonaro-faz-acordo-apos-violacao-de-direitos-de-funcionaria-gravida-1021",
+    "fontes_complementares": []
+  },
+  {
+    "id": "cpi01-covid-incitacao-2021",
+    "data": "2021-10-20",
+    "titulo": "Relatório da CPI da Pandemia pede o indiciamento de Flávio por incitação ao crime",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Flávio Bolsonaro", "Renan Calheiros", "Carlos Bolsonaro", "Eduardo Bolsonaro", "Carla Zambelli", "Bia Kicis", "Carlos Jordy", "Ricardo Barros", "Osmar Terra"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O relatório de Renan Calheiros, apresentado em 20 de outubro de 2021, recomendou o indiciamento de Flávio Bolsonaro (então no Patriota-RJ) por incitação ao crime (art. 286 do Código Penal), junto com os deputados Bia Kicis, Carla Zambelli, Carlos Jordy, Eduardo Bolsonaro, Ricardo Barros e Osmar Terra e o vereador Carlos Bolsonaro. A Agência Senado liga esses pedidos ao negacionismo sobre o vírus e as vacinas, sem detalhar a justificativa para cada nome.",
+    "desdobramento": "A CPI aprovou o relatório final em 26 de outubro de 2021, por 7 votos a 4, e o pedido de indiciamento de Flávio, Eduardo e Carlos por incitação ao crime foi mantido (ver evento de 26/10/2021). O pedido de indiciamento de uma CPI não é denúncia: cabe ao Ministério Público decidir.",
+    "contraponto": "Não encontrei manifestação de Flávio sobre este ponto nas fontes consultadas.",
+    "fonte_nome": "Agência Senado",
+    "fonte_url": "https://www12.senado.leg.br/noticias/materias/2021/10/20/cpi-da-pandemia-principais-pontos-do-relatorio",
+    "fontes_complementares": [
+      { "nome": "CNN Brasil: relatório final pede indiciamento de 78 pessoas e duas empresas", "url": "https://www.cnnbrasil.com.br/politica/cpi-da-pandemia-relatorio-final-pede-indiciamento-de-76-pessoas-e-duas-empresas/" }
+    ]
+  },
+  {
+    "id": "j06-cpi-pandemia-relatorio-final-2021",
+    "escopo": "familia",
+    "data": "2021-10-26",
+    "titulo": "CPI da Pandemia aprova relatório que pede o indiciamento de Bolsonaro por nove crimes e dos três filhos por incitação ao crime",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Jair Bolsonaro", "Flávio Bolsonaro", "Eduardo Bolsonaro", "Carlos Bolsonaro", "Renan Calheiros", "Eduardo Pazuello", "Marcelo Queiroga", "Prevent Senior"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 26 de outubro de 2021, a CPI da Pandemia aprovou, por 7 votos a 4, o relatório de Renan Calheiros, de cerca de 1.280 páginas, que pede o indiciamento de Bolsonaro e de mais 79 pessoas e empresas. A Bolsonaro são atribuídos nove crimes: epidemia com resultado morte, infração de medida sanitária preventiva, charlatanismo, incitação ao crime, falsificação de documento particular, emprego irregular de verbas públicas, prevaricação, crimes contra a humanidade e crime de responsabilidade. Flávio, Eduardo e Carlos Bolsonaro aparecem por incitação ao crime. Ficaram fora do parecer as teses de genocídio contra indígenas e de homicídio.",
+    "desdobramento": "O relatório não é vinculante: foi enviado a Câmara, PF, STJ, MPF, TCU, ministérios públicos estaduais, PGR e DPU. O crime de responsabilidade depende de pedido e de decisão do presidente da Câmara, Arthur Lira. Votaram contra Eduardo Girão, Jorginho Mello, Luiz Carlos Heinze e Marcos Rogério.",
+    "contraponto": "A reportagem do InfoMoney não traz manifestação de Bolsonaro nem de seus filhos.",
+    "fonte_nome": "InfoMoney",
+    "fonte_url": "https://www.infomoney.com.br/?p=1722518",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j08-vazamento-inquerito-tse-2022",
+    "escopo": "familia",
+    "data": "2022-02-02",
+    "data_fato": "2021-08-04",
+    "periodo_fato": "live de 4 de agosto de 2021",
+    "titulo": "PF diz que Bolsonaro cometeu crime ao vazar inquérito sigiloso sobre o ataque hacker ao TSE, mas não o indicia por causa do foro",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Filipe Barros", "Mauro Cid", "Denisse Ribeiro (delegada)", "Luís Roberto Barroso", "Alexandre de Moraes", "Polícia Federal", "TSE"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2 de fevereiro de 2022, a PF concluiu o inquérito sobre o vazamento de dados de uma investigação sigilosa sobre um ataque hacker ao TSE. A delegada Denisse Ribeiro afirmou que houve crime de violação de sigilo funcional, mas enviou o relatório ao STF sem indiciar Bolsonaro, porque o foro privilegiado impediria o indiciamento sem autorização do Supremo. O deputado Filipe Barros, relator da PEC do Voto Impresso, obteve o inquérito e o repassou a Mauro Cid, que o teria disponibilizado pela conta pessoal do presidente; os dados foram divulgados em live de 4 de agosto de 2021 para tentar desacreditar as urnas. A PF apontou 'materialidade' de crimes por Bolsonaro e por Barros.",
+    "desdobramento": "Moraes havia ordenado que Bolsonaro depusesse em 28 de janeiro; ele recorreu, teve o pedido negado e não compareceu, o que a PF disse não ter prejudicado a investigação. A PF pediu que o caso fosse incluído no inquérito sobre milícias digitais, e a PGR decidiria sobre eventual denúncia. Barroso disse em 1º de fevereiro que 'faltam adjetivos' para descrever o caso.",
+    "contraponto": "A reportagem não traz manifestação pública de Bolsonaro além do recurso contra a ordem de depoimento.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/brasil/pf-diz-haver-crime-em-vazamento-mas-nao-indicia-bolsonaro/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "e09-eduardo-omar-aziz-2022",
+    "escopo": "familia",
+    "data": "2022-04-30",
+    "data_fato": "2021-08-04",
+    "periodo_fato": "publicações de 4 de agosto de 2021, durante a CPI da Covid",
+    "titulo": "Justiça condena Eduardo Bolsonaro a pagar R$ 25 mil ao senador Omar Aziz por associá-lo à pedofilia nas redes",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Eduardo Bolsonaro", "Omar Aziz", "Maria do Perpétuo Socorro (juíza)", "Jair Bolsonaro"],
+    "valor_estimado": 25000,
+    "valor_descricao": "R$ 25 mil por danos morais, mais retratação",
+    "resumo": "A juíza Maria do Perpétuo Socorro, da 15ª Vara de Manaus, condenou Eduardo Bolsonaro a pagar R$ 25 mil ao senador Omar Aziz (PSD-AM). Em 4 de agosto de 2021, na época da CPI da Covid, presidida por Aziz, Eduardo usou seus perfis no Twitter, Instagram e Facebook para associá-lo à pedofilia, em postagens com um vídeo em que Aziz criticava Jair Bolsonaro por se encontrar com a deputada alemã Beatrix von Storch: 'Netos do Omar pedófilos?'. A juíza viu 'abuso no exercício da liberdade de expressão'.",
+    "desdobramento": "Além da indenização, Eduardo deve publicar uma retratação em seus perfis, com cópia da sentença. A reportagem não informa separadamente a data da decisão nem eventual recurso.",
+    "contraponto": "Eduardo alegou ironia e sarcasmo, mas a magistrada entendeu que não houve cautela e que ele atribuiu a Aziz e aos netos uma condição associada à pedofilia.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/justica/eduardo-bolsonaro-e-condenado-a-indenizar-aziz-em-r-25-000/",
     "fontes_complementares": []
   },
   {
@@ -547,6 +1073,95 @@ window.DADOS_INVESTIGACOES = [
     ]
   },
   {
+    "id": "i13-richarlison-angra-2022",
+    "data": "2022-09-28",
+    "data_fato": "2020-07",
+    "periodo_fato": "visitas de julho de 2020 e 1º de janeiro de 2021; decisões de 2022",
+    "titulo": "Metrópoles: Flávio é arrolado como testemunha na disputa pela mansão de Richarlison em Angra, onde o amigo Willer Tomaz obteve a posse",
+    "categoria": "Imóveis e negócios",
+    "envolvidos": ["Flávio Bolsonaro", "Willer Tomaz", "Richarlison", "Renato Velasco", "WT Administração de Imóveis e Bens", "Sport 70"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "A mansão de cerca de R$ 10 milhões, em Angra dos Reis, foi vendida em 2020 à Sport 70, empresa ligada a Richarlison e a seu empresário. Em maio de 2022, uma liminar deu a posse ao advogado Willer Tomaz, amigo de Flávio. Segundo a reportagem, Flávio visitou o imóvel em julho de 2020, a convite do ex-senador Wilder Morais, e voltou em 1º de janeiro de 2021 com Tomaz, postando imagens aéreas no Instagram. Os advogados da empresa de Richarlison o arrolaram como testemunha para relatar a visita e mostrar que os ocupantes não eram invasores. Um antigo possuidor disse que Flávio demonstrou interesse em comprar a casa (Congresso em Foco, 2026).",
+    "desdobramento": "Em maio de 2025, o STJ manteve o entendimento favorável à empresa de Tomaz. O caso voltou ao noticiário em julho de 2026, quando Richarlison comentou um vídeo sobre a disputa; a advogada que fez o vídeo se retratou e disse que o processo foi encerrado em 2025. Flávio nunca foi parte do processo.",
+    "contraponto": "Flávio disse que não tem relação com o imóvel nem com o processo e que mantém apenas amizade com Tomaz. Tomaz afirma ter adquirido os direitos legalmente, quitado débitos fiscais e investido cerca de R$ 5 milhões, e chama Richarlison e Velasco de 'invasores'.",
+    "fonte_nome": "Jornal do Brasil (reproduz Metrópoles, via Brasil 247)",
+    "fonte_url": "https://www.jb.com.br/pais/politica/2022/09/1039890-flavio-bolsonaro-se-envolve-em-disputa-por-mansao-de-rs-10-milhoes-em-angra-dos-reis.html",
+    "fontes_complementares": [
+      { "nome": "Congresso em Foco: a disputa volta ao noticiário (02/07/2026)", "url": "https://www.congressoemfoco.com.br/noticia/120171/disputa-por-mansao-de-r-10-mi-envolve-richarlison-e-flavio-bolsonaro" }
+    ]
+  },
+  {
+    "id": "h16-tse-nicaragua-2022",
+    "data": "2022-10-04",
+    "titulo": "TSE manda apagar posts de Flávio e Eduardo que diziam que Lula perseguiria cristãos e apoiaria a ditadura da Nicarágua",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Eduardo Bolsonaro", "Luiz Inácio Lula da Silva", "Daniel Ortega", "Federação Brasil da Esperança", "TSE", "Twitter", "Facebook"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 4 de outubro de 2022, no segundo turno da eleição presidencial, o ministro do TSE Paulo de Tarso Sanseverino mandou remover posts de Flávio e de Eduardo Bolsonaro segundo os quais Lula perseguiria cristãos, fecharia igrejas e apoiaria a ditadura da Nicarágua. A ação foi da coligação de Lula, por meio da Federação Brasil da Esperança. O ministro entendeu que os posts trazem informação 'evidentemente inverídica e prejudicial à honra e à imagem' do candidato e viu a intenção de associá-lo ao ditador Daniel Ortega e a uma postura contrária aos evangélicos.",
+    "desdobramento": "Twitter e Facebook tinham 24 horas para remover o conteúdo, sob multa de R$ 10 mil por dia; a decisão abrange também 24 perfis que compartilharam as publicações. Segundo outras reportagens, o total chegou a 31 publicações. É decisão individual de ministro, sujeita a recurso.",
+    "contraponto": "A reportagem do Conjur não traz manifestação de Flávio ou de Eduardo sobre a decisão.",
+    "fonte_nome": "Conjur",
+    "fonte_url": "https://www.conjur.com.br/2022-out-04/tse-determina-remocao-posts-filhos-bolsonaro-lula/",
+    "fontes_complementares": [
+      { "nome": "NSC Total: TSE manda apagar publicações que ligam Lula à perseguição de cristãos", "url": "https://www.nsctotal.com.br/?p=2410418" }
+    ]
+  },
+  {
+    "id": "i11-vendedor-mansao-brb-2023",
+    "data": "2023-01-29",
+    "data_fato": "2020-07",
+    "periodo_fato": "julho de 2020 a setembro de 2022",
+    "titulo": "JB: grupo do empresário que vendeu a mansão a Flávio teve R$ 1 milhão do BNDES via BRB e contrato de R$ 1,1 milhão com o próprio BRB",
+    "categoria": "Imóveis e negócios",
+    "envolvidos": ["Flávio Bolsonaro", "Juscelino Sarkis (vendedor)", "Grupo Sarkis", "BRB (Banco de Brasília)", "BNDES"],
+    "valor_estimado": 1102500,
+    "valor_descricao": "R$ 1.102.500 em contrato do BRB com a Sarkis Mineração (a casa foi avaliada em R$ 6,15 milhões na escritura)",
+    "resumo": "Reportagem do Jornal do Brasil com a Agência Sportlight apontou relações do grupo do vendedor da casa do Lago Sul com o banco que financiou a compra. Em 6 de julho de 2020, a Sarkis Empreendimentos obteve R$ 1 milhão do BNDES, com o BRB como instituição credenciada. Em 5 de setembro de 2022, a Sarkis Mineração firmou contrato de R$ 1.102.500 com o BRB para fornecer brita à pista do autódromo de Brasília, e em 2021 e 2022 obteve oito licenças na Agência Nacional de Mineração. A casa foi anunciada por R$ 6 milhões; Flávio pagou R$ 2,87 milhões à vista e financiou R$ 3,1 milhões no BRB, em 360 meses, a 3,65% ao ano.",
+    "desdobramento": "A reportagem não aponta ilegalidade na compra. O financiamento foi alvo de procedimento do MP-DF em 2021 e, em 2026, da PF (ver eventos de 18/03/2021 e 02/10/2026).",
+    "contraponto": "Flávio e o Grupo Sarkis não responderam aos pedidos da reportagem. O governador Ibaneis Rocha e Jair Bolsonaro não foram procurados.",
+    "fonte_nome": "Jornal do Brasil (Agência Sportlight)",
+    "fonte_url": "https://www.jb.com.br/pais/politica/2023/01/1042009-empresario-que-vendeu-mansao-a-flavio-bolsonaro-levou-rs-1-milhao-no-bndes-contrato-com-o-banco-de-brasilia-e-licencas-para-mineracao.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j14-joias-16-milhoes-guarulhos-2023",
+    "escopo": "familia",
+    "data": "2023-03-03",
+    "data_fato": "2021-10",
+    "periodo_fato": "joias recebidas em outubro de 2021; tentativas de recuperação até 28/12/2022",
+    "titulo": "Estadão revela joias sauditas de R$ 16,5 milhões retidas em Guarulhos, supostamente para Michelle; Bolsonaro tentou recuperá-las ao menos quatro vezes",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Bolsonaro", "Michelle Bolsonaro", "Bento Albuquerque", "Jairo Moreira da Silva (sargento)", "Receita Federal", "Estadão"],
+    "valor_estimado": 16500000,
+    "valor_descricao": "Cerca de R$ 16,5 milhões (3 milhões de euros), com colar de diamantes Chopard, brincos, anel e relógio",
+    "resumo": "A comitiva do então ministro de Minas e Energia, Bento Albuquerque, tentou trazer ao país joias avaliadas em R$ 16,5 milhões, supostamente destinadas à então primeira-dama Michelle Bolsonaro, entre elas um colar de diamantes Chopard. A Receita Federal as apreendeu no aeroporto de Guarulhos porque um assessor tentou entrar no país sem declará-las. Segundo a reportagem, Bolsonaro tentou reavê-las ao menos quatro vezes, com apoio de militares e de diferentes ministérios, a última em 28 de dezembro de 2022; um sargento da Marinha usou um voo da FAB para ir a Guarulhos tentar recuperá-las, sem sucesso. A revelação é do Estadão, de março de 2023.",
+    "desdobramento": "O caso levou à investigação da PF sobre o desvio de presentes, e em julho de 2024 a PF indiciou Bolsonaro e mais 11 (ver evento). O total de joias recebidas da Arábia Saudita chegou a cerca de R$ 18 milhões, em três conjuntos.",
+    "contraponto": "O texto da Folha PE (Agência O Globo) não detalha manifestações oficiais do governo nem da defesa; informa apenas que os advogados devolveram um segundo conjunto, após determinação do TCU.",
+    "fonte_nome": "Folha PE (Agência O Globo)",
+    "fonte_url": "https://www.folhape.com.br/politica/caso-joias-itens-recebidos-por-bolsonaro-da-arabia-saudita-ja-somam/263850/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j15-joias-terceiro-conjunto-rolex-2023",
+    "escopo": "familia",
+    "data": "2023-03-27",
+    "data_fato": "2019-10",
+    "periodo_fato": "almoço com o rei saudita, entre 28 e 30 de outubro de 2019",
+    "titulo": "Estadão: Bolsonaro ficou com um terceiro conjunto de joias sauditas, com Rolex e caneta Chopard, avaliado em mais de R$ 500 mil",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Bolsonaro", "Estadão", "TCU"],
+    "valor_estimado": 500000,
+    "valor_descricao": "Mais de R$ 500 mil: caixa com Rolex, caneta Chopard, abotoaduras, anel e uma masbaha",
+    "resumo": "Segundo o Estadão, Bolsonaro recebeu em mãos, após um almoço com o rei saudita Salman Bin Abdulaziz Al Saud, em outubro de 2019, um terceiro conjunto de presentes: uma caixa com relógio Rolex, caneta Chopard, abotoaduras, anel e uma masbaha (rosário islâmico), avaliado em mais de R$ 500 mil. Os itens ficaram com ele mesmo depois do fim do mandato.",
+    "desdobramento": "Dois dias antes, em 24 de março, a defesa havia devolvido outros presentes sauditas, por determinação do TCU. Em julho de 2024, a PF indiciou Bolsonaro e mais 11 no inquérito das joias (ver evento).",
+    "contraponto": "A matéria do Congresso em Foco não traz manifestação da defesa sobre este terceiro conjunto.",
+    "fonte_nome": "Congresso em Foco (reproduz Estadão)",
+    "fonte_url": "https://www.congressoemfoco.com.br/amp/noticia/10156/bolsonaro-recebeu-terceiro-conjunto-com-rolex-e-joias-afirma-jornal",
+    "fontes_complementares": []
+  },
+  {
     "id": "k02-carlos-laudo",
     "escopo": "familia",
     "data": "2023-05-04",
@@ -562,6 +1177,80 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "A reportagem não traz manifestação de Carlos Bolsonaro.",
     "fonte_nome": "O Povo (Agência Estado)",
     "fonte_url": "https://www.opovo.com.br/noticias/politica/2023/05/04/laudo-reforca-suspeitas-de-esquema-de-rachadinha-em-gabinete-de-carlos-bolsonaro-diz-jornal.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "h10-tse-video-nikolas-2023",
+    "data": "2023-05-11",
+    "data_fato": "2022",
+    "periodo_fato": "campanha de 2022",
+    "titulo": "TSE condena Flávio, Eduardo, Nikolas Ferreira e Carla Zambelli por compartilhar vídeo com acusações falsas a Lula",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Eduardo Bolsonaro", "Nikolas Ferreira", "Carla Zambelli", "Luiz Inácio Lula da Silva", "TSE"],
+    "valor_estimado": null,
+    "valor_descricao": "O valor da multa ainda não havia sido fixado na decisão",
+    "resumo": "Em 11 de maio de 2023, por 5 votos a 2, o TSE condenou os quatro parlamentares por compartilharem um vídeo em que Nikolas acusava Lula de incentivar o uso de drogas por crianças e adolescentes e associava a frase 'faz o L' à criminalidade e à censura nas redes. O tribunal determinou a remoção do conteúdo e disse que o valor da multa seria fixado depois.",
+    "desdobramento": "Votaram pela condenação Sérgio Banhos, Alexandre de Moraes, Cármen Lúcia, Benedito Gonçalves e Carlos Horbach. O relator, Raul Araújo, e Nunes Marques divergiram. Cabem recursos ao TSE e ao STF. Uma semana depois, o TSE multou Flávio também no caso Celso Daniel (ver evento de 18/05/2023).",
+    "contraponto": "O advogado Thiago Rocha afirmou que os parlamentares não trataram de fato inverídico e apenas criticaram Lula, 'ainda que de forma ácida'.",
+    "fonte_nome": "A Gazeta (ES)",
+    "fonte_url": "https://www.agazeta.com.br/brasil/tse-condena-nikolas-ferreira-e-filhos-de-bolsonaro-por-fake-news-contra-lula-0523",
+    "fontes_complementares": [
+      { "nome": "TSE: notícia oficial sobre o julgamento (maio de 2023)", "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Maio/tse-multa-parlamentares-por-propaganda-irregular-contra-lula-em-2022" }
+    ]
+  },
+  {
+    "id": "mi01-michelle-pagamentos-dinheiro-2023",
+    "escopo": "familia",
+    "data": "2023-05-16",
+    "data_fato": "2011-11",
+    "periodo_fato": "cartão de Rosimary de novembro de 2011 a agosto de 2021",
+    "titulo": "PF quer ouvir Michelle Bolsonaro sobre despesas pagas em dinheiro vivo por Mauro Cid e cartão de crédito de uma amiga",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Michelle Bolsonaro", "Jair Bolsonaro", "Mauro Cid", "Rosimary Cardoso Cordeiro", "Fabio Wajngarten", "Polícia Federal", "UOL"],
+    "valor_estimado": null,
+    "valor_descricao": "O texto não informa valores das transações",
+    "resumo": "Áudios entre Mauro Cid, então ajudante de ordens de Jair Bolsonaro, e assessoras de Michelle, obtidos pelo UOL, indicariam orientação para pagar despesas da então primeira-dama em dinheiro vivo. A PF afirma que os diálogos mostram uma 'dinâmica sobre os depósitos em dinheiro' para contas de terceiros e a orientação de não deixar registros, e vê indícios de desvio de recursos públicos. Michelle usaria um cartão de crédito ligado à conta de Rosimary Cardoso Cordeiro, assessora no Senado e amiga dela; a PF detectou depósitos em dinheiro vivo para Rosimary, que serviriam para pagar a fatura e ocultar a origem do dinheiro.",
+    "desdobramento": "A PF queria ouvir Michelle, sem data definida. Em julho de 2023, o Coaf registrou transferências de pouco mais de R$ 70 mil de um sargento a Cid (ver evento seguinte). Não encontrei desfecho da apuração sobre esses pagamentos.",
+    "contraponto": "O advogado Fabio Wajngarten disse que Bolsonaro nunca usou o cartão corporativo da Presidência para despesas pessoais, que os gastos foram pagos em dinheiro sacado da conta pessoal do ex-presidente por Cid, para protegê-lo de 'qualquer tipo de ataque', e que Rosimary ofereceu o cartão a Michelle em 2011, com 'pequenas compras' reembolsadas até agosto de 2021, porque ela não tinha renda compatível para ter cartão próprio.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/justica/pf-quer-ouvir-michelle-bolsonaro-sobre-pagamentos-em-dinheiro/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "h09-tse-celso-daniel-2023",
+    "data": "2023-05-18",
+    "data_fato": "2022-10",
+    "periodo_fato": "campanha de outubro de 2022",
+    "titulo": "TSE multa Flávio, Carla Zambelli e Mara Gabrilli em R$ 10 mil cada por ligar Lula à morte de Celso Daniel",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Carla Zambelli", "Mara Gabrilli", "Luiz Inácio Lula da Silva", "TSE"],
+    "valor_estimado": 10000,
+    "valor_descricao": "R$ 10 mil de multa para cada um dos três parlamentares",
+    "resumo": "Em 18 de maio de 2023, por 4 votos a 3, o TSE multou em R$ 10 mil cada um os parlamentares Flávio Bolsonaro, Carla Zambelli e Mara Gabrilli. Flávio compartilhou a entrevista de Gabrilli à Jovem Pan News em que ela sugeria ligação de Lula com a morte de Celso Daniel e publicou textos que vinculavam Lula ao assassinato. Para a maioria, a informação era falsa e as investigações sobre o caso estavam concluídas havia anos, com condenações.",
+    "desdobramento": "Prevaleceu o voto da ministra Maria Cláudia Bucchianeri, acompanhado por Alexandre de Moraes. O relator, Carlos Horbach, entendeu que as publicações de Flávio 'apenas repercutiram' a entrevista. Não encontrei, nas fontes consultadas, notícia sobre recurso.",
+    "contraponto": "O advogado de Flávio, Thiago Rocha Domingues, argumentou que ele apenas compartilhou uma entrevista, o que não configura disseminação de notícia falsa, e que o vídeo tratava de fatos novos sobre o caso.",
+    "fonte_nome": "Movimento Econômico",
+    "fonte_url": "https://movimentoeconomico.com.br/economia/justica/2023/05/18/tse-multa-gabrilli-zambelli-e-flavio-bolsonaro-por-ligar-lula-a-caso-celso-daniel/",
+    "fontes_complementares": [
+      { "nome": "Jovem Pan: multa e voto do relator", "url": "https://jovempan.com.br/politica/tse-multa-zambelli-flavio-bolsonaro-e-mara-gabrilli-por-relacionar-lula-a-caso-celso-daniel/" }
+    ]
+  },
+  {
+    "id": "f08-tse-jair-inelegivel-2023",
+    "escopo": "familia",
+    "data": "2023-06-30",
+    "data_fato": "2022-07",
+    "periodo_fato": "reunião com embaixadores, julho de 2022",
+    "titulo": "TSE torna Jair Bolsonaro inelegível por oito anos por abuso de poder político na reunião com embaixadores",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "TSE", "Benedito Gonçalves", "Cármen Lúcia", "Kassio Nunes Marques"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 30 de junho de 2023, por 5 votos a 2, o TSE condenou Jair Bolsonaro por abuso de poder político na reunião com embaixadores no Palácio da Alvorada, em julho de 2022. Segundo o tribunal, o encontro serviu para atacar o sistema eleitoral e promover a candidatura à reeleição, com desinformação sobre as urnas e críticas a observadores internacionais. A inelegibilidade é de oito anos, até 2030. O voto decisivo foi de Cármen Lúcia.",
+    "desdobramento": "Pela Lei da Ficha Limpa, a inelegibilidade vale imediatamente, mesmo durante os recursos. A decisão não cassa os direitos políticos de Bolsonaro.",
+    "contraponto": "Os ministros Raul Araújo e Kassio Nunes Marques divergiram. Para Nunes Marques, a reunião foi uma reação espontânea a um encontro promovido pelo TSE dias antes. A defesa sinalizou recurso ao STF, alegando uso de prova indevida.",
+    "fonte_nome": "InfoMoney",
+    "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/",
     "fontes_complementares": []
   },
   {
@@ -583,6 +1272,24 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "mi02-coaf-70-mil-cid-2023",
+    "escopo": "familia",
+    "data": "2023-07-28",
+    "data_fato": "2022-07",
+    "periodo_fato": "segundo semestre de 2022",
+    "titulo": "Coaf registra transferência de mais de R$ 70 mil do sargento que pagava faturas de Michelle a Mauro Cid, com suspeita de desvio da Codevasf",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Michelle Bolsonaro", "Mauro Cid", "Luis Marcos dos Reis (sargento)", "Coaf", "Polícia Federal", "CPMI dos atos antidemocráticos", "Codevasf"],
+    "valor_estimado": 70000,
+    "valor_descricao": "Pouco mais de R$ 70 mil transferidos do sargento Luis Marcos dos Reis a Mauro Cid no segundo semestre de 2022",
+    "resumo": "Segundo o Congresso em Foco, um relatório do Coaf enviado à CPMI dos atos antidemocráticos aponta um 'novo indício de desvio de verba pública' envolvendo Mauro Cid: transferências de pouco mais de R$ 70 mil, no segundo semestre de 2022, do sargento Luis Marcos dos Reis, ex-militar do gabinete presidencial. A PF investiga Reis por serviços prestados a Michelle: ela usava o cartão de crédito de uma amiga, e o sargento pagava as faturas em dinheiro vivo; a PF tenta identificar a origem do dinheiro, com suspeita de desvio da Codevasf. O Coaf também rastreou mais de uma dezena de depósitos na conta de uma tia de Michelle.",
+    "desdobramento": "Reis teria feito transações semelhantes para outros militares do gabinete, incluindo Cid. Não encontrei desfecho da apuração.",
+    "contraponto": "A reportagem não traz manifestação das pessoas citadas. Em maio de 2023, a defesa de Bolsonaro disse que as despesas de Michelle eram pagas com dinheiro sacado da conta pessoal do ex-presidente (ver evento anterior).",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/37522/coaf-registra-transferencia-de-r-70-mil-de-aliado-de-michelle-a-mauro-cid",
+    "fontes_complementares": []
+  },
+  {
     "id": "h02-chico-buarque-condenacao",
     "data": "2023-08-23",
     "data_fato": "2022",
@@ -597,6 +1304,115 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "Flávio argumentou que compartilhar o meme tinha o objetivo de alertar seus seguidores para a mensagem do post, que, segundo ele, não ofende ninguém, mas reflete a situação política do país.",
     "fonte_nome": "Correio Braziliense",
     "fonte_url": "https://www.correiobraziliense.com.br/politica/2023/08/5119452-flavio-bolsonaro-tera-de-indenizar-chico-buarque-em-rs-48-mil.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "mi03-michelle-pf-joias-2023",
+    "escopo": "familia",
+    "data": "2023-08-31",
+    "titulo": "Bolsonaro e Michelle são ouvidos pela PF no caso das joias e optam pelo silêncio",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Michelle Bolsonaro", "Jair Bolsonaro", "Mauro Cid", "Frederick Wassef", "Fabio Wajngarten", "Polícia Federal", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 31 de agosto de 2023, Jair e Michelle Bolsonaro foram ouvidos na sede da PF, em Brasília, no inquérito sobre suposto desvio de joias e presentes recebidos durante o governo, que teriam sido vendidos nos EUA; segundo a PF, o material saiu do país em avião oficial e o esquema era operacionalizado por Mauro Cid e seu pai. Os advogados afirmaram que optaram pelo silêncio 'no tocante aos fatos ora apurados' porque o STF não teria competência e o caso deveria ir à primeira instância. Michelle foi convocada porque seu nome apareceu em conversas sobre um presente desaparecido, entre a viagem do casal aos EUA, em 30 de dezembro de 2022, e a operação de resgate em março. Cid, Wassef e Wajngarten também prestaram depoimento no mesmo dia, simultaneamente, para evitar combinação de versões.",
+    "desdobramento": "Em julho de 2024, a PF indiciou Jair e mais 11 no inquérito (ver evento).",
+    "contraponto": "A defesa nega irregularidades e afirma que os presentes eram itens pessoais. Michelle disse em nota que não se trata de ficar em silêncio e que está à disposição para falar 'na esfera competente'.",
+    "fonte_nome": "Gazeta do Povo",
+    "fonte_url": "https://www.gazetadopovo.com.br/republica/bolsonaro-michelle-silencio-depoimento-pf-joias/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j13-tse-7-setembro-inelegivel-2023",
+    "escopo": "familia",
+    "data": "2023-10-31",
+    "data_fato": "2022-09-07",
+    "periodo_fato": "comemorações do Bicentenário, 7 de setembro de 2022",
+    "titulo": "TSE torna Bolsonaro inelegível pela segunda vez, por usar o Bicentenário da Independência na campanha",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Walter Braga Netto", "Benedito Gonçalves", "Floriano de Azevedo Marques", "Kassio Nunes Marques", "Raul Araújo", "TSE", "PDT"],
+    "valor_estimado": 425640,
+    "valor_descricao": "Multa de R$ 425.640 a Bolsonaro e de R$ 212.820 a Braga Netto",
+    "resumo": "Em 31 de outubro de 2023, por 5 votos a 2, o TSE declarou Bolsonaro inelegível por oito anos por abuso de poder político e econômico nas comemorações do Bicentenário, em 7 de setembro de 2022, em Brasília e no Rio. Segundo a decisão, houve desvio de finalidade eleitoreira de bens, recursos e serviços públicos e conduta vedada a agente público, com uso da estrutura estatal em favor de ato de campanha. A maioria também tornou inelegível o candidato a vice, Braga Netto, que o relator Benedito Gonçalves havia proposto apenas multar. As ações foram do PDT e da então senadora Soraya Thronicke.",
+    "desdobramento": "Foi a segunda declaração de inelegibilidade; a primeira, em junho de 2023, foi pela reunião com embaixadores. Como a sanção não é cumulativa, o prazo permanece o mesmo, até 2030. A decisão foi comunicada à Procuradoria-Geral Eleitoral e ao TCU.",
+    "contraponto": "Nunes Marques defendeu apenas multa, dizendo que o Bicentenário seria comemorado de qualquer forma e que os eventos não tiveram potencial de violar gravemente os bens protegidos; Raul Araújo julgou os pedidos improcedentes. Bolsonaro alegou que não houve afastamento no tempo e no espaço entre os eventos e a campanha, o que Cármen Lúcia rejeitou.",
+    "fonte_nome": "Lex (reproduz TSE)",
+    "fonte_url": "https://www.lex.com.br/tribunal-declara-inelegiveis-bolsonaro-e-braga-netto-por-abuso-de-poder-no-bicentenario-da-independencia/",
+    "fontes_complementares": [
+      { "nome": "TSE: notícia oficial (outubro de 2023)", "url": "https://www.tse.jus.br/comunicacao/noticias/2023/Outubro/tse-declara-inelegiveis-bolsonaro-e-braga-netto-por-abuso-de-poder-no-bicentenario-da-independencia" }
+    ]
+  },
+  {
+    "id": "j09-tempus-veritatis-2024",
+    "escopo": "familia",
+    "data": "2024-02-08",
+    "data_fato": "2022-11",
+    "periodo_fato": "suposto plano de golpe após as eleições de 2022",
+    "titulo": "Operação Tempus Veritatis: PF mira Bolsonaro e aliados por suposto plano de golpe e ele tem de entregar o passaporte em 24 horas",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Walter Braga Netto", "Augusto Heleno", "Anderson Torres", "Valdemar Costa Neto", "Almir Garnier", "Filipe Martins", "Marcelo Câmara", "Tércio Arnaud Thomaz", "Alexandre de Moraes", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 8 de fevereiro de 2024, a PF deflagrou a Operação Tempus Veritatis, autorizada por Alexandre de Moraes, contra Bolsonaro, ex-ministros e ex-assessores suspeitos de tentar dar um golpe de Estado e invalidar as eleições de 2022. Foram cumpridos 33 mandados de busca e apreensão e quatro de prisão preventiva, em AM, RJ, SP, MG, MS, CE, ES, PR, GO e DF, com medidas como proibição de contato entre investigados, retenção de passaportes e destituição de cargos públicos. Bolsonaro teve de entregar o passaporte em até 24 horas. Foram presos Filipe Martins, o coronel Marcelo Câmara e o major Rafael Martins. Entre os alvos de busca estavam Braga Netto, Heleno, Anderson Torres, Valdemar Costa Neto e o almirante Almir Garnier.",
+    "desdobramento": "A PF indiciou Bolsonaro e mais 36 em 21 de novembro de 2024, a PGR o denunciou em 18 de fevereiro de 2025, o STF o tornou réu em 26 de março e o condenou em 11 de setembro de 2025 (ver eventos).",
+    "contraponto": "A reportagem do Movimento Econômico não traz manifestação dos investigados ou de seus advogados.",
+    "fonte_nome": "Movimento Econômico",
+    "fonte_url": "https://movimentoeconomico.com.br/politica/2024/02/08/bolsonaro-e-alvo-de-operacao-da-pf-e-tera-que-entregar-passaporte-em-24h-militares-sao-presos/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "f09-jair-cartao-vacina-2024",
+    "escopo": "familia",
+    "data": "2024-03-19",
+    "data_fato": "2021-11",
+    "periodo_fato": "novembro de 2021 a dezembro de 2022",
+    "titulo": "PF indicia Jair Bolsonaro por fraude no cartão de vacinação contra a covid-19",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Mauro Cid", "Polícia Federal", "CGU", "Fabio Wajngarten"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 19 de março de 2024, a PF indiciou Jair Bolsonaro, entre outros, por associação criminosa e inserção de dados falsos no sistema público de saúde, em fatos ocorridos entre novembro de 2021 e dezembro de 2022. A apuração teve origem em uma investigação da CGU, que concluiu em janeiro de 2024 que o cartão de vacinação de Bolsonaro era falso. Segundo a PF, os investigados se associaram para emitir certificados falsos e obter vantagens relacionadas à burla de regras sanitárias.",
+    "desdobramento": "O relatório de 231 páginas foi enviado ao STF, e caberia à PGR decidir se formalizava a acusação. Não encontrei, nas fontes consultadas, o desfecho.",
+    "contraponto": "O advogado Fabio Wajngarten chamou as acusações de 'absurdo' e de perseguição política; a defesa disse que Bolsonaro não sabia da existência dos cartões falsos.",
+    "fonte_nome": "O Povo",
+    "fonte_url": "https://www.opovo.com.br/noticias/mundo/2024/03/19/amp/pf-indicia-bolsonaro-por-fraude-em-cartao-de-vacinacao-contra-a-covid-19.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "jr02-jair-renan-denuncia-2024",
+    "escopo": "familia",
+    "data": "2024-03-21",
+    "data_fato": "2022",
+    "periodo_fato": "empréstimos de 2022 e 2023; Operação Nexus em agosto de 2023",
+    "titulo": "MPDFT denuncia Jair Renan Bolsonaro por lavagem de dinheiro, falsidade ideológica e uso de documento falso em empréstimo no Santander",
+    "categoria": "Família: gabinetes, cheques e presentes",
+    "envolvidos": ["Jair Renan Bolsonaro", "Maciel Alves", "Santander", "Bolsonaro Jr. Eventos e Mídia", "MPDFT", "Polícia Civil do DF"],
+    "valor_estimado": 360000,
+    "valor_descricao": "Dívida de R$ 360 mil com o Santander, que obteve decisão favorável na Justiça",
+    "resumo": "O Ministério Público do DF denunciou Jair Renan Bolsonaro, filho de Jair, por lavagem de dinheiro, falsidade ideológica e uso de documento falso, no âmbito da Operação Nexus, da Polícia Civil do DF. Segundo a denúncia, ele inflou os resultados financeiros da empresa Bolsonaro Jr. Eventos e Mídia, com faturamento de R$ 4 milhões, para obter empréstimo no Santander. O empréstimo não foi pago, o banco processou, e a Justiça decidiu a favor dele em R$ 360 mil. Maciel Alves, instrutor de tiro de Jair Renan, indiciado em fevereiro, também foi denunciado.",
+    "desdobramento": "A Operação Nexus cumpriu mandados de busca contra os dois em agosto de 2023, e a Polícia Civil do DF os indiciou em fevereiro de 2024. A denúncia está sob sigilo e depende de decisão judicial para virar ação penal; reportagens posteriores indicam que a Justiça a aceitou, tornando-o réu.",
+    "contraponto": "O advogado Admar Gonzaga criticou o vazamento da denúncia à imprensa e disse que ele prejudica a presunção de inocência. Em outras reportagens, a defesa de Jair Renan o descreve como vítima de golpe e diz que ele não assinou os documentos nem contratou os empréstimos, o que laudo pericial e imagens de acesso ao aplicativo do banco contrariam, segundo a Polícia Civil.",
+    "fonte_nome": "Movimento Econômico",
+    "fonte_url": "https://movimentoeconomico.com.br/economia/justica/2024/03/21/mpdf-denuncia-jair-renan-filho-de-bolsonaro-por-lavagem-de-dinheiro/",
+    "fontes_complementares": [
+      { "nome": "CNN Brasil: Jair Renan vira réu por lavagem de dinheiro", "url": "https://www.cnnbrasil.com.br/politica/jair-renan-bolsonaro-vira-reu-por-lavagem-de-dinheiro/" }
+    ]
+  },
+  {
+    "id": "i12-quita-mansao-2024",
+    "data": "2024-04-07",
+    "data_fato": "2024-03",
+    "periodo_fato": "pagamentos extras até março de 2024",
+    "titulo": "Flávio quita o financiamento da mansão do BRB três anos depois da compra, com seis pagamentos extras que somam R$ 3,4 milhões",
+    "categoria": "Imóveis e negócios",
+    "envolvidos": ["Flávio Bolsonaro", "BRB (Banco de Brasília)", "Erika Kokay (deputada)"],
+    "valor_estimado": 3400000,
+    "valor_descricao": "R$ 3,4 milhões em seis pagamentos extras, de R$ 198 mil a R$ 997 mil",
+    "resumo": "Segundo o Congresso em Foco, Flávio comprou a casa do Lago Sul em 2021 por R$ 6,1 milhões, deu R$ 2,87 milhões de entrada e financiou o restante em 30 anos no BRB, com parcela mensal de R$ 18.744,16. Três anos depois, quitou a dívida com seis pagamentos extras, de R$ 198 mil a R$ 997 mil, que somaram R$ 3,4 milhões; o último foi em março de 2024. O salário bruto de senador é de R$ 44 mil (era de R$ 33 mil em 2021). Segundo os repórteres, ele disse que o dinheiro é lícito, mas não informou a origem.",
+    "desdobramento": "Flávio disse que pediria sanções à deputada Erika Kokay (PT-DF) por litigância de má-fé e pela divulgação de dados de um processo sob segredo parcial. Em 2026, a PF passou a mirar o crédito do BRB (ver evento de 02/10/2026).",
+    "contraponto": "Flávio afirmou que o dinheiro é 'fruto do suor' do seu trabalho, que a quitação mostra que o banco lhe emprestou porque ele podia pagar e que é também empresário e advogado, além de senador.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/29101/flavio-bolsonaro-quita-mansao-com-seis-pagamentos-extras-de-r-34-milhoes",
     "fontes_complementares": []
   },
   {
@@ -668,6 +1484,136 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "j10-pf-indicia-golpe-2024",
+    "escopo": "familia",
+    "data": "2024-11-21",
+    "data_fato": "2022-11",
+    "periodo_fato": "planejamento do suposto golpe após as eleições de 2022",
+    "titulo": "PF indicia Bolsonaro e mais 36 por golpe de Estado, abolição violenta do Estado Democrático de Direito e organização criminosa",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Mauro Cid", "Walter Braga Netto", "Augusto Heleno", "Anderson Torres", "Alexandre Ramagem", "Valdemar Costa Neto", "Polícia Federal", "PGR", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 21 de novembro de 2024, a PF concluiu o inquérito e enviou ao STF o relatório final, que indicia 37 pessoas, entre elas Jair Bolsonaro, por abolição violenta do Estado Democrático de Direito, golpe de Estado e organização criminosa, com o objetivo de impedir que Lula e Alckmin assumissem após a eleição de 2022. Segundo a PF, Bolsonaro comandava o país durante o planejamento, e Mauro Cid é descrito como seu braço-direito e elo entre os envolvidos. A PF identificou seis núcleos, entre eles o de desinformação e ataques ao sistema eleitoral, o de incitação de militares, o jurídico e o de inteligência paralela, com base em quebras de sigilo, delação premiada e buscas ao longo de quase dois anos. A matéria cita ainda a Operação Contragolpe (19/11), que encontrou documento com previsão de envenenamento e uso de explosivos contra Lula, Alckmin e Moraes.",
+    "desdobramento": "O inquérito seguiu para a PGR, que tinha 15 dias para decidir sobre a denúncia; a PGR denunciou Bolsonaro em fevereiro de 2025 (ver evento seguinte).",
+    "contraponto": "A matéria do Movimento Econômico não detalha a posição da defesa de Bolsonaro, informando apenas que as defesas poderão se manifestar na fase da PGR.",
+    "fonte_nome": "Movimento Econômico",
+    "fonte_url": "https://movimentoeconomico.com.br/economia/justica/2024/11/21/pf-pede-indiciamento-de-bolsonaro-e-mais-36-por-golpe-de-estado/",
+    "fontes_complementares": [
+      { "nome": "Congresso em Foco: íntegra do relatório da PF", "url": "https://www.congressoemfoco.com.br/noticia/6587/veja-a-integra-do-relatorio-da-pf-que-aponta-bolsonaro-como-mentor-de-golpe" }
+    ]
+  },
+  {
+    "id": "j11-pgr-denuncia-bolsonaro-2025",
+    "escopo": "familia",
+    "data": "2025-02-18",
+    "data_fato": "2022-11",
+    "periodo_fato": "planejamento do suposto golpe após as eleições de 2022",
+    "titulo": "PGR denuncia Bolsonaro e aliados por tentativa de golpe de Estado",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Mauro Cid", "Walter Braga Netto", "Augusto Heleno", "Anderson Torres", "Paulo Gonet", "PGR", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 18 de fevereiro de 2025, a PGR apresentou ao STF denúncia contra Bolsonaro, o general Walter Braga Netto, Augusto Heleno, Mauro Cid, Anderson Torres e dezenas de outros acusados (o Diario de Pernambuco fala em 40 no total, outras fontes citam 34), por tentativa de golpe de Estado. Segundo a acusação, Bolsonaro sabia de um planejamento para impedir a posse de Lula e Alckmin e chegou a editar uma minuta golpista para dar aparência de legalidade aos atos; o planejamento previa também ataques a ministros do STF e do TSE, parte que o texto não atribui diretamente a ele. As provas vêm principalmente da PF e de depoimentos de Mauro Cid, em delação premiada.",
+    "desdobramento": "O STF decidiria se aceitava a denúncia, caso em que os acusados virariam réus; o julgamento cabe à Primeira Turma. A denúncia foi aceita em 26 de março de 2025 (ver evento seguinte).",
+    "contraponto": "A reportagem do Diario de Pernambuco não traz manifestação da defesa.",
+    "fonte_nome": "Diario de Pernambuco",
+    "fonte_url": "https://www.diariodepernambuco.com.br/noticia/politica/2025/02/pgr-denuncia-bolsonaro-por-tentativa-de-golpe-de-estado.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j12-stf-torna-bolsonaro-reu-2025",
+    "escopo": "familia",
+    "data": "2025-03-26",
+    "titulo": "STF torna Bolsonaro réu por tentativa de golpe de Estado, por unanimidade",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Alexandre Ramagem", "Almir Garnier", "Anderson Torres", "Augusto Heleno", "Mauro Cid", "Paulo Sérgio Nogueira", "Walter Braga Netto", "Primeira Turma do STF", "Alexandre de Moraes"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 26 de março de 2025, por unanimidade, a Primeira Turma do STF aceitou a denúncia da PGR e tornou Jair Bolsonaro réu pela tentativa de golpe de Estado. Votaram pelo recebimento Alexandre de Moraes (relator), Flávio Dino, Luiz Fux, Cármen Lúcia e Cristiano Zanin. Moraes disse que a PGR apresentou 'elementos mais do que suficientes, razoáveis, de materialidade e autoria'. Além da tentativa de golpe, Bolsonaro passou a responder por organização criminosa armada, dano qualificado e deterioração de patrimônio tombado; somadas, as penas ultrapassam 30 anos. Também viraram réus Alexandre Ramagem, Almir Garnier, Anderson Torres, Augusto Heleno, Mauro Cid, Paulo Sérgio Nogueira e Walter Braga Netto.",
+    "desdobramento": "Segundo a reportagem, foi a primeira vez que um ex-presidente eleito foi colocado no banco dos réus por crimes contra a ordem democrática da Constituição de 1988. Bolsonaro foi condenado em 11 de setembro de 2025 (ver evento).",
+    "contraponto": "Segundo reportagens, as defesas levantaram questionamentos jurídicos, que os ministros rejeitaram. A reportagem consultada não detalha as provas nem as manifestações das defesas.",
+    "fonte_nome": "Portal de Prefeitura (Bastidores da Política)",
+    "fonte_url": "https://portaldeprefeitura.com.br/bastidores-da-politica/stf/stf-torna-bolsonaro-reu-por-tentativa-de-golpe/591556/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "e05-eduardo-inquerito-coacao-2025",
+    "escopo": "familia",
+    "data": "2025-05-26",
+    "titulo": "Moraes abre inquérito contra Eduardo Bolsonaro por coação e obstrução; Jair é chamado a depor como 'diretamente beneficiado'",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Eduardo Bolsonaro", "Jair Bolsonaro", "Alexandre de Moraes", "Paulo Gonet", "Lindbergh Farias", "Marco Rubio", "PGR"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 26 de maio de 2025, Alexandre de Moraes abriu inquérito para investigar Eduardo Bolsonaro por coação no curso do processo e obstrução de investigação, a pedido do procurador-geral Paulo Gonet. Eduardo, que estava nos EUA, teria atuado para que o governo americano adotasse medidas contra Moraes; a PGR anexou uma notícia-crime do deputado Lindbergh Farias. Moraes autorizou a oitiva de Jair Bolsonaro, que, segundo ele, foi 'diretamente beneficiado' pelas ações do filho, e de diplomatas brasileiros; Eduardo poderia depor por escrito.",
+    "desdobramento": "A PGR denunciou Eduardo em setembro de 2025 (ver evento seguinte), o STF o tornou réu em novembro e o condenou em junho de 2026.",
+    "contraponto": "Eduardo classificou o pedido, nas redes, de medida 'injusta e desesperada' e disse que o Brasil vive um regime de exceção em que o Judiciário favorece quem é 'o cliente'.",
+    "fonte_nome": "Jornal do Brasil",
+    "fonte_url": "https://www.jb.com.br/brasil/justica/2025/05/1055619-moraes-abre-inquerito-para-investigar-eduardo-bolsonaro.html",
+    "fontes_complementares": [
+      { "nome": "STF: notícia oficial da abertura do inquérito", "url": "https://noticias.stf.jus.br/postsnoticias/stf-abre-inquerito-para-investigar-deputado-eduardo-bolsonaro-por-coacao-e-tentativa-de-obstrucao-de-justica/" }
+    ]
+  },
+  {
+    "id": "c03-pf-indicia-carlos-abin-2025",
+    "escopo": "familia",
+    "data": "2025-06-17",
+    "data_fato": "2019",
+    "periodo_fato": "uso do FirstMile entre 2019 e 2023",
+    "titulo": "PF indicia Carlos Bolsonaro por chefiar o 'gabinete do ódio' no inquérito da 'Abin paralela'",
+    "categoria": "Esquema ABIN",
+    "envolvidos": ["Carlos Bolsonaro", "Jair Bolsonaro", "Alexandre Ramagem", "Luiz Fernando Corrêa", "Polícia Federal", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 17 de junho de 2025, a PF enviou ao STF o relatório final do inquérito da 'Abin paralela', sobre o uso ilegal da estrutura da agência para monitorar autoridades, entre elas ministros do STF. Carlos Bolsonaro foi indiciado por chefiar o 'gabinete do ódio', que teria usado informações do esquema para produzir e divulgar conteúdos nas redes contra adversários de Jair Bolsonaro. Ramagem é apontado como principal organizador do monitoramento, e a PF diz que o software FirstMile foi usado cerca de 60 mil vezes entre 2019 e 2023. Entre os monitorados estão ministros do STF e políticos como João Doria, Arthur Lira e Rodrigo Maia.",
+    "desdobramento": "As fontes divergem sobre se Jair Bolsonaro foi formalmente indiciado: a PF atribuiu a ele organização criminosa, mas o nome pode não constar da lista formal por ele já responder pelo mesmo crime no processo do golpe. Segundo reportagens, a PGR pediu a Moraes que o caso, para quem não tem foro, siga para a primeira instância. Não encontrei denúncia contra Carlos.",
+    "contraponto": "Carlos ironizou nas redes: 'Alguém tinha alguma dúvida que a PF do Lula faria isso comigo?' e 'É só coincidência!', sugerindo motivação eleitoral, já que Bolsonaro pretendia lançá-lo ao Senado por Santa Catarina.",
+    "fonte_nome": "CNN Brasil",
+    "fonte_url": "https://www.cnnbrasil.com.br/politica/pf-conclui-abin-paralela-e-indicia-bolsonaro-ramagem-e-carlos/",
+    "fontes_complementares": [
+      { "nome": "Jovem Pan: Carlos critica o indiciamento (junho de 2025)", "url": "https://jovempan.com.br/politica/carlos-bolsonaro-critica-indiciamento-no-caso-da-abin-paralela-pf-do-lula/" }
+    ]
+  },
+  {
+    "id": "j16-pintou-um-clima-condenacao-2025",
+    "escopo": "familia",
+    "data": "2025-07-24",
+    "data_fato": "2022-10",
+    "periodo_fato": "entrevista de outubro de 2022, durante a campanha",
+    "titulo": "TJ-DFT condena Bolsonaro a pagar R$ 150 mil por danos morais coletivos por dizer que 'pintou um clima' com adolescentes venezuelanas",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Jair Bolsonaro", "Ministério Público do DF", "TJDFT", "Marcelo Bessa (advogado)"],
+    "valor_estimado": 150000,
+    "valor_descricao": "R$ 150 mil por danos morais coletivos (o MP pedia R$ 30 milhões)",
+    "resumo": "A 5ª Turma Cível do TJ-DFT, por maioria apertada, condenou Bolsonaro a pagar R$ 150 mil por danos morais coletivos, valor destinado a fundos ou projetos de proteção à infância; o acórdão foi publicado em 24 de julho de 2025. Em outubro de 2022, em plena campanha à reeleição, ele relatou ter encontrado meninas venezuelanas de 14 e 15 anos em São Sebastião (DF) e usou a expressão 'pintou um clima'. A decisão trata também do uso de imagens de crianças na campanha e de uma visita de crianças ao Palácio do Planalto, em que o MP afirma que elas foram incentivadas a fazer gestos de arma. O tribunal proibiu o uso de imagens de menores em publicidade e a conotação sexual envolvendo crianças e adolescentes, com multa de R$ 10 mil em caso de descumprimento.",
+    "desdobramento": "A ação havia sido rejeitada em primeira instância. Cabe recurso ao STJ.",
+    "contraponto": "O advogado Marcelo Bessa afirmou que a decisão contraria entendimentos do TSE e do STF e se baseia em provas inexistentes; a defesa sustenta que a visita ao Planalto foi um passeio escolar autorizado e que as falas foram tiradas de contexto. Vai recorrer ao STJ.",
+    "fonte_nome": "Correio da Manhã",
+    "fonte_url": "https://www.correiodamanha.com.br/politica/2025/07/211827-bolsonaro-e-condenado-por-pintou-um-clima-com-menores-venezuelanas.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "j17-pf-indicia-coacao-pix-2025",
+    "escopo": "familia",
+    "data": "2025-08-20",
+    "data_fato": "2025-06-04",
+    "periodo_fato": "transferências de maio e 4 de junho de 2025",
+    "titulo": "PF indicia Jair e Eduardo por coação; relatório vê Pix de R$ 30 milhões e repasse de R$ 2 milhões a Michelle um dia antes do depoimento",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Eduardo Bolsonaro", "Michelle Bolsonaro", "Heloísa Bolsonaro", "Fabio Wajngarten", "Coaf", "Polícia Federal", "STF"],
+    "valor_estimado": 2000000,
+    "valor_descricao": "R$ 2 milhões transferidos a Michelle em 4 de junho de 2025; outros R$ 2,1 milhões a Eduardo; cerca de R$ 30 milhões recebidos entre março de 2023 e fevereiro de 2024",
+    "resumo": "O relatório da PF, noticiado em 20 e 21 de agosto de 2025, indiciou Jair e Eduardo Bolsonaro por coação no curso do processo e por tentativa de abolir o Estado Democrático de Direito, na investigação sobre a tentativa de obstruir o julgamento do golpe no STF. A PF diz que Bolsonaro recebeu cerca de R$ 30 milhões entre março de 2023 e fevereiro de 2024, R$ 19 milhões (64%) por Pix de apoiadores, e vê suspeita de lavagem. Entre dezembro de 2024 e junho de 2025, ele transferiu R$ 2,1 milhões a Eduardo, para financiar ações nos EUA contra o governo brasileiro segundo a PF, e R$ 2 milhões a Michelle em 4 de junho, um dia antes de depor, para driblar um possível bloqueio de contas. Eduardo fez uma operação de câmbio de R$ 1,66 milhão para os EUA e repassou valores a Heloísa Bolsonaro 'como forma de escamotear' os recursos.",
+    "desdobramento": "A PF diz que Jair e Eduardo usaram contas das esposas para evitar bloqueios e que Jair fez 40 saques em espécie entre janeiro e julho de 2025, somando R$ 130.800. A PF encontrou ainda no celular dele uma minuta de pedido de asilo ao presidente argentino Javier Milei, editada pela última vez em fevereiro de 2024. Eduardo foi denunciado em setembro de 2025 (ver evento).",
+    "contraponto": "A defesa de Bolsonaro disse ter sido surpreendida, que os elementos serão esclarecidos no prazo fixado pelo relator e que 'jamais houve o descumprimento' de medidas cautelares. Fabio Wajngarten afirmou que ele 'nunca cogitou deixar o Brasil' e negou plano de fuga.",
+    "fonte_nome": "O Povo+ (Agência Estado)",
+    "fonte_url": "https://mais.opovo.com.br/jornal/politica/2025/08/21/pf-diz-que-bolsonaro-movimentou-rs-30-milhoes-em-um-ano-e-ve-indicios-de-lavagem-de-dinheiro.html",
+    "fontes_complementares": [
+      { "nome": "A Gazeta (Agência Folhapress): Bolsonaro transferiu R$ 2 milhões a Michelle antes de depoimento (21/08/2025)", "url": "https://www.agazeta.com.br/brasil/bolsonaro-transferiu-r-2-milhoes-a-michelle-antes-de-depoimento-diz-pf-0825" }
+    ]
+  },
+  {
     "id": "jair01-condenacao-golpe",
     "escopo": "familia",
     "data": "2025-09-11",
@@ -677,12 +1623,48 @@ window.DADOS_INVESTIGACOES = [
     "valor_estimado": null,
     "valor_descricao": null,
     "resumo": "Em 11 de setembro de 2025, a Primeira Turma do STF condenou Jair Bolsonaro, por 4 votos a 1, por golpe de Estado, organização criminosa armada, abolição violenta do Estado Democrático de Direito, dano qualificado e deterioração de patrimônio tombado. A pena é de 27 anos e 3 meses, a começar em regime fechado. Votaram pela condenação Alexandre de Moraes, Flávio Dino, Cármen Lúcia e Cristiano Zanin. Outros sete réus também foram condenados, entre eles Walter Braga Netto (26 anos), Augusto Heleno (21 anos) e Alexandre Ramagem (16 anos, com perda de mandato).",
-    "desdobramento": "Em 25 de novembro de 2025, Moraes declarou o trânsito em julgado, e o STF decidiu que Bolsonaro, preso preventivamente desde 22 de novembro, cumpriria a pena na Superintendência da PF em Brasília.",
+    "desdobramento": "Em 25 de novembro de 2025, Moraes declarou o trânsito em julgado, e o STF decidiu que Bolsonaro, preso preventivamente desde 22 de novembro, cumpriria a pena na Superintendência da PF em Brasília. Em 24 de março de 2026, depois de ficar na UTI com broncopneumonia e com parecer favorável da PGR, Moraes concedeu prisão domiciliar humanitária temporária, por 90 dias a partir da alta, com tornozeleira eletrônica e proibição de celular, e a manutenção seria reavaliada, segundo o STF e reportagens.",
     "contraponto": "Luiz Fux divergiu, pedindo a nulidade do processo e a absolvição de Bolsonaro, por considerar que a PGR adotou 'uma narrativa desprendida dos fatos'. A defesa afirmou que as penas são 'absurdamente excessivas e desproporcionais'.",
     "fonte_nome": "ISTOÉ",
     "fonte_url": "https://istoe.com.br/bolsonaro-condenado-a-27-anos-de-prisao-por-trama-golpista",
     "fontes_complementares": [
       { "nome": "O POVO: Bolsonaro cumprirá pena na carceragem da PF (25/11/2025)", "url": "https://www.opovo.com.br/noticias/politica/2025/11/25/amp/bolsonaro-ficara-na-carceragem-da-pf-para-cumprir-pena.html" }
+    ]
+  },
+  {
+    "id": "e06-pgr-denuncia-eduardo-2025",
+    "escopo": "familia",
+    "data": "2025-09-22",
+    "titulo": "PGR denuncia Eduardo Bolsonaro e Paulo Figueiredo por coação para impedir a condenação de Jair",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Eduardo Bolsonaro", "Paulo Figueiredo", "Jair Bolsonaro", "Paulo Gonet", "Alexandre de Moraes", "PGR"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 22 de setembro de 2025, a PGR denunciou Eduardo Bolsonaro e Paulo Figueiredo por coação no curso do processo. Segundo o procurador-geral Paulo Gonet, eles ajudaram a promover 'graves sanções' contra o Brasil para que o STF não condenasse Jair Bolsonaro pela trama golpista, apresentaram-se como articuladores dessas sanções e fizeram ameaças a ministros da Corte, cobrando que não houvesse condenação na AP 2.668.",
+    "desdobramento": "O STF aceitou a denúncia em novembro de 2025 e condenou Eduardo em junho de 2026 (ver eventos). Jair Bolsonaro foi investigado no mesmo inquérito, mas não foi denunciado.",
+    "contraponto": "Em nota conjunta, os dois chamaram a denúncia de 'fajuta' e disseram que seguirão atuando com 'parceiros internacionais' para que novas sanções sejam aplicadas a autoridades brasileiras.",
+    "fonte_nome": "Agência Brasil",
+    "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/pgr-denuncia-eduardo-bolsonaro-e-paulo-figueiredo-por-coacao",
+    "fontes_complementares": []
+  },
+  {
+    "id": "mi04-pt-pgr-patria-voluntaria-2025",
+    "escopo": "familia",
+    "data": "2025-10-14",
+    "data_fato": "2019",
+    "periodo_fato": "programa criado em 2019, no governo Bolsonaro",
+    "titulo": "PT pede à PGR que investigue Michelle Bolsonaro por peculato e prevaricação no programa Pátria Voluntária, com base em auditoria do TCU",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Michelle Bolsonaro", "Lindbergh Farias", "Damares Alves", "TCU", "PGR", "Casa Civil"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 14 de outubro de 2025, o líder do PT na Câmara, Lindbergh Farias, apresentou à PGR uma representação contra a ex-primeira-dama Michelle Bolsonaro, pedindo investigação por peculato-desvio, prevaricação, associação criminosa e improbidade administrativa no programa Pátria Voluntária, criado em 2019 e ligado à Casa Civil. Segundo a representação, a auditoria do TCU constatou que o programa funcionou sem base legal, permitiu que a Casa Civil gerisse recursos privados e destinou valores a entidades escolhidas por indicação política, como a AMTB, indicada pela então ministra Damares Alves sem processo seletivo, além de 'deficiência grave de transparência'.",
+    "desdobramento": "É uma representação de parlamentar, não uma investigação formal. Não encontrei decisão da PGR nas fontes consultadas.",
+    "contraponto": "Lindbergh disse que a ação responde às ofensivas da oposição contra a primeira-dama Janja. A reportagem do Poder360 não traz nota formal de Michelle, que compartilhou a notícia no Instagram com a frase 'Ele me ama' e um emoji de risada. Segundo outras reportagens, o PL Mulher repudiou a ação e disse que o TCU havia arquivado a apuração em 2023, o que não foi verificado.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/poder-congresso/pt-aciona-pgr-contra-michelle-apos-criticas-a-janja/",
+    "fontes_complementares": [
+      { "nome": "Jovem Pan: líder do PT aciona a PGR para apurar a conduta de Michelle", "url": "https://jovempan.com.br/politica/apos-ofensiva-do-pl-lider-do-pt-aciona-pgr-para-apurar-conduta-de-michelle-bolsonaro-no-governo-bolsonaro/" }
     ]
   },
   {
@@ -700,6 +1682,45 @@ window.DADOS_INVESTIGACOES = [
     "fonte_nome": "Agência Brasil",
     "fonte_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-05/pgr-pede-ao-supremo-condenacao-de-eduardo-bolsonaro-por-coacao",
     "fontes_complementares": []
+  },
+  {
+    "id": "f10-jair-preso-vigilia-2025",
+    "escopo": "familia",
+    "data": "2025-11-22",
+    "titulo": "Jair Bolsonaro é preso preventivamente após tentar romper a tornozeleira; na véspera, Flávio convocou uma vigília em frente à casa do pai",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Jair Bolsonaro", "Flávio Bolsonaro", "Alexandre de Moraes", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 22 de novembro de 2025, Alexandre de Moraes decretou a prisão preventiva de Jair Bolsonaro a pedido da PF, depois de informado de uma tentativa de violar a tornozeleira eletrônica às 0h08. Bolsonaro cumpria prisão domiciliar desde 4 de agosto de 2025. Em 21 de novembro, o senador Flávio Bolsonaro convocou uma vigília em frente à residência do pai; a PF avaliou que a concentração representava risco aos participantes e às equipes policiais, e Moraes escreveu que a vigília, 'disfarçada', indicava a repetição de um modus operandi criminoso.",
+    "desdobramento": "A prisão era cautelar, não o início do cumprimento da pena de 27 anos e 3 meses a que Bolsonaro foi condenado em setembro de 2025 (ver evento).",
+    "contraponto": "A defesa negou plano de fuga e disse que a tornozeleira era usada para 'causar humilhação'.",
+    "fonte_nome": "O Povo",
+    "fonte_url": "https://www.opovo.com.br/noticias/politica/2025/11/22/bolsonaro-e-preso-preventivamente-a-pedido-da-pf.html",
+    "fontes_complementares": [
+      { "nome": "O Povo: defesa nega plano de fuga (22/11/2025)", "url": "https://www.opovo.com.br/noticias/politica/2025/11/22/defesa-de-bolsonaro-diz-que-tornozeleira-humilha-e-nega-plano-de-fuga.html" }
+    ]
+  },
+  {
+    "id": "e07-eduardo-cassado-faltas-2025",
+    "escopo": "familia",
+    "data": "2025-12-18",
+    "data_fato": "2025-02",
+    "periodo_fato": "faltas ao longo de 2025, com Eduardo nos EUA desde fevereiro",
+    "titulo": "Mesa da Câmara declara a perda do mandato de Eduardo Bolsonaro por excesso de faltas",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Eduardo Bolsonaro", "Alexandre Ramagem", "Hugo Motta", "Câmara dos Deputados"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 18 de dezembro de 2025, a Mesa Diretora da Câmara, presidida por Hugo Motta, declarou a perda do mandato de Eduardo Bolsonaro por acúmulo de faltas às sessões ao longo do ano. Ele está nos Estados Unidos desde fevereiro e não teve autorização para exercer o mandato à distância. Na mesma sessão, a Mesa declarou vago o mandato de Alexandre Ramagem, condenado com trânsito em julgado a 16 anos, 1 mês e 15 dias pela participação na tentativa de golpe. As cassações têm efeito administrativo imediato, sem votação em plenário.",
+    "desdobramento": "Segundo outras reportagens, Eduardo faltou a 63 das 78 sessões de 2025 (cerca de 81%), e a Câmara anulou seu passaporte diplomático no dia seguinte. A perda do mandato por faltas não implica inelegibilidade.",
+    "contraponto": "Segundo reportagens, Eduardo chamou a cassação de 'medalha de honra'.",
+    "fonte_nome": "Migalhas",
+    "fonte_url": "https://www.migalhas.com.br/quentes/446726/mesa-diretora-da-camara-declara-perda-de-mandato-de-eduardo-e-ramagem",
+    "fontes_complementares": [
+      { "nome": "Itatiaia: por que Ramagem e Eduardo perderam os mandatos", "url": "https://www.itatiaia.com.br/politica/saiba-por-qual-motivo-ramagem-e-eduardo-bolsonaro-perderam-os-mandatos/" },
+      { "nome": "Congresso em Foco: 'É uma medalha de honra', diz Eduardo", "url": "https://www.congressoemfoco.com.br/amp/noticia/115046/e-uma-medalha-de-honra--diz-eduardo-bolsonaro-sobre-cassacao" }
+    ]
   },
   {
     "id": "cota02-viagem-sp-2026",
@@ -748,6 +1769,21 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "inss04-all-in-one-requerimento-2026",
+    "data": "2026-02-28",
+    "titulo": "Metrópoles: Flávio é alvo de cinco requerimentos do PT na CPMI do INSS, um deles sobre a seguradora All in One, da qual é sócio",
+    "categoria": "Caso INSS (entorno)",
+    "envolvidos": ["Flávio Bolsonaro", "Rogério Correia (deputado)", "Marcello Palha", "Letícia Caetano dos Reis", "CPMI do INSS", "Metrópoles"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em fevereiro de 2026, Flávio foi alvo de cinco requerimentos de deputados do PT na CPMI do INSS: quatro sobre seu escritório de advocacia e o mais recente sobre a seguradora All in One, da qual é sócio com Marcello Palha, ex-diretor da Andrade Gutierrez. O deputado Rogério Correia (PT-MG) questiona se a empresa existe de fato (foi criada em 2022) e pede a quebra dos sigilos bancário e fiscal dela e do escritório de Flávio. O requerimento cita Letícia Caetano dos Reis, administradora do escritório, irmã de um sócio do 'Careca do INSS' em uma offshore. O imóvel de R$ 11 milhões nas Ilhas Virgens Britânicas citado na matéria pertence à Camilo & Antunes Limited, ligada ao 'Careca', e não à All in One.",
+    "desdobramento": "Em março, o PT incluiu Flávio entre os indiciados de um relatório alternativo da CPMI, e em outubro Lindbergh Farias levou notícia-crime à PF (ver eventos). São requerimentos de parlamentares, não decisões. Nas fontes consultadas, não há apuração formal contra Flávio.",
+    "contraponto": "A reportagem do Metrópoles não traz manifestação de Flávio. Em episódio anterior, a assessoria dele classificou os requerimentos do PT como ação política e sem fundamento (ver evento de 02/02/2026).",
+    "fonte_nome": "Metrópoles",
+    "fonte_url": "https://www.metropoles.com/sao-paulo/flavio-bolsonaro-pt-inss",
+    "fontes_complementares": []
+  },
+  {
     "id": "inss02-relatorio-alternativo-cpmi",
     "data": "2026-03",
     "titulo": "Relatório alternativo da base do governo na CPMI do INSS pede o indiciamento de Flávio por organização criminosa",
@@ -763,6 +1799,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": [
       { "nome": "Jornal do Brasil (28/03/2026)", "url": "https://www.jb.com.br/brasil/politica/2026/03/1059120-base-do-governo-pede-indiciamento-de-bolsonaro-na-cpmi-do-inss.html" }
     ]
+  },
+  {
+    "id": "m15-raimunda-denunciada-2026",
+    "data": "2026-03-19",
+    "data_fato": "2016-04",
+    "periodo_fato": "cargo no gabinete de abril de 2016 a novembro de 2018",
+    "titulo": "MP-RJ denuncia Raimunda Magalhães, mãe de Adriano e ex-assessora de Flávio, por lavagem de dinheiro do jogo do bicho",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Raimunda Veras Magalhães", "Adriano da Nóbrega", "Flávio Bolsonaro", "Ministério Público do RJ"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O MP-RJ denunciou Raimunda Veras Magalhães, mãe do miliciano Adriano da Nóbrega e assessora de Flávio na Alerj entre abril de 2016 e novembro de 2018. Segundo a denúncia, ela integrou uma rede de pessoas e empresas usada para receber, movimentar e ocultar valores do jogo do bicho, num esquema de lavagem de dinheiro de Adriano. Quatro empresas teriam movimentado cerca de R$ 8,5 milhões; entre os negócios de fachada citados estão um depósito de bebidas, um bar, um restaurante, uma pizzaria e uma empresa de estética.",
+    "desdobramento": "Raimunda também foi denunciada no caso das rachadinhas do gabinete de Flávio, arquivado após a anulação das provas. Flávio não é parte desta denúncia.",
+    "contraponto": "O texto não traz manifestação de Raimunda nem de Flávio sobre a nova denúncia.",
+    "fonte_nome": "Brasil de Fato",
+    "fonte_url": "https://www.brasildefato.com.br/2026/03/19/mae-de-miliciano-morto-ex-assessora-de-flavio-bolsonaro-e-denunciada-por-lavagem-de-dinheiro/",
+    "fontes_complementares": []
   },
   {
     "id": "ev27-jatinhos-emprestados-2025",
@@ -816,6 +1869,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "ev28-lupa-globonews-2026",
+    "data": "2026-05-15",
+    "data_fato": "2026-05-14",
+    "periodo_fato": "entrevista à GloboNews de 14/05/2026 e resposta ao Intercept de 13/05/2026",
+    "titulo": "Lupa: em entrevista à GloboNews, Flávio disse 'eu não falei que era mentira' e que 'nunca saiu para tomar vinho' com Vorcaro; checagem aponta falso e contraditório",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Daniel Vorcaro", "Paulo Calixto", "Agência Lupa", "GloboNews"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "A Agência Lupa checou declarações de Flávio à GloboNews, em 14 de maio de 2026, depois da revelação do Intercept. Falso: que 'ninguém imaginava' suspeitas sobre Vorcaro e o Master, já que informações sobre operações atípicas circulavam desde julho de 2024; e que 'não falei que era mentira', pois ao Intercept respondeu 'é mentira' e saiu do local. Contraditório: 'nunca saí para tomar vinho, as nossas famílias não se conhecem', pois em 22/10/2025 Flávio convidou Vorcaro para jantar com Jim Caviezel e em 16/11/2025, um dia antes da primeira prisão do banqueiro, escreveu 'Irmão, estou e estarei contigo sempre'; e que o dinheiro foi 'integralmente utilizado para fazer o filme', já que admitiu não ter certeza se parte foi ao escritório de Paulo Calixto, gestor do fundo Havengate. Faltou contexto em outras três (pesquisa, Lei Rouanet e 'investimento privado').",
+    "desdobramento": "Em setembro, a Aos Fatos contabilizou 43 declarações enganosas de Flávio sobre o caso (ver evento de 24/09/2026).",
+    "contraponto": "Flávio sustenta que o financiamento foi um patrocínio privado a um filme privado, sem dinheiro público, e que não ofereceu vantagens em troca.",
+    "fonte_nome": "Agência Lupa",
+    "fonte_url": "https://www.agencialupa.org/noticias/2026/05/15/flavio-bolsonaro-distorce-fatos-e-se-contradiz-sobre-recursos-para-filme-e-relacao-com-vorcaro/",
+    "fontes_complementares": []
+  },
+  {
     "id": "m06-pf-apura-emenda-ifop",
     "data": "2026-05-20",
     "data_fato": "2023-11-29",
@@ -849,6 +1919,114 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": "Flávio confirmou a visita a Vorcaro no fim de 2025, após a soltura do empresário, para tratar do encerramento das negociações sobre o filme, disse que a viagem não envolveu benefício pessoal e negou uso irregular de recursos públicos.",
     "fonte_nome": "Correio da Manhã",
     "fonte_url": "https://www.correiodamanha.com.br/colunistas/paulo-cappelli/2026/05/289481-flavio-bolsonaro-entra-na-mira-do-tcu-por-uso-de-cota-parlamentar-ex-deputado-do-pt-e-sorteado-relator.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "m11-homenagens-policiais-metropoles-2026",
+    "data": "2026-06-01",
+    "data_fato": "2003",
+    "periodo_fato": "homenagens de 2003 a 2008, com desfechos nos anos seguintes",
+    "titulo": "Metrópoles: dos 10 policiais e militares que Flávio homenageou na Alerj, 4 foram condenados e 2 viraram réus",
+    "categoria": "Milícias e Brazão",
+    "envolvidos": ["Flávio Bolsonaro", "Adriano da Nóbrega", "Ronald Paulo Alves Pereira", "Cláudio Luiz Silva de Oliveira (tenente-coronel)", "Edson Raimundo dos Santos (major da PM)", "Alan Rodrigues de Oliveira (PM)", "Metrópoles"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Coluna de Ricardo Noblat no Metrópoles, de 1º de junho de 2026, lista dez policiais e militares que Flávio homenageou na Alerj, em moções de louvor e na Medalha Tiradentes, entre 2003 e 2008: Adriano da Nóbrega (2003 e 2005), Ronald Pereira (2004), Cláudio Luiz de Oliveira (2004), Lício Maciel (2004), Hélio Machado da Conceição (2005), Maycon Macedo de Carvalho (2005), Alan Rodrigues de Oliveira (2006), Arlei Balbino (2006), Edson Alexandre Pinto de Góes (2007) e Edson Raimundo dos Santos (2008). Segundo o texto, quatro foram condenados (Ronald, Cláudio Luiz, Edson Góes e Edson Raimundo), dois são réus (Maycon e Arlei) e os demais foram denunciados, presos, expulsos da PM ou apontados como chefes de milícia; Adriano foi absolvido do homicídio de 2005.",
+    "desdobramento": "Nas fontes consultadas, não há processo contra Flávio pelas homenagens. A lista vem de uma coluna de análise; cada caso deve ser conferido nas decisões judiciais. Outro levantamento, citado pelo Congresso em Foco, fala em ao menos 23 homenageados réus ou condenados.",
+    "contraponto": "Flávio diz ter concedido 'centenas' de moções a policiais militares e que não sabia, na época, das acusações futuras.",
+    "fonte_nome": "Metrópoles (coluna de Ricardo Noblat)",
+    "fonte_url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/os-lacos-de-flavio-bolsonaro-com-o-submundo-do-crime-no-rio",
+    "fontes_complementares": [
+      { "nome": "A Gazeta: resposta de Flávio sobre as homenagens (25/01/2019)", "url": "https://www.agazeta.com.br/es/politica/flavio-bolsonaro-diz-na-tv-que-e-contra-milicias-0119" },
+      { "nome": "Congresso em Foco: dez fatos que ligam a família Bolsonaro a milicianos (23/12/2019)", "url": "https://www.congressoemfoco.com.br/noticia/31921/dez-fatos-que-ligam-a-familia-bolsonaro-a-milicianos" }
+    ]
+  },
+  {
+    "id": "o06-psol-stf-tarifaco-2026",
+    "data": "2026-06-02",
+    "titulo": "Deputado do PSOL pede ao STF que inclua Flávio no inquérito sobre a pressão dos EUA contra o Brasil",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Flávio Bolsonaro", "Henrique Vieira (deputado)", "Eduardo Bolsonaro", "Alexandre de Moraes", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 2 de junho de 2026, o deputado Pastor Henrique Vieira (PSOL-RJ) pediu ao STF que Flávio Bolsonaro seja incluído na investigação sobre suposta articulação nos EUA para pressionar economicamente o Brasil. A petição, apresentada na ação penal em que Eduardo Bolsonaro era réu por coação, cita uma publicação de julho de 2025, após a tarifa de 50%, em que Flávio agradeceu a Trump e pediu uma Lei Magnitsky, e a visita dele a Donald Trump em 26 de maio de 2026, depois que o representante comercial dos EUA sugeriu uma tarifa de 25% sobre produtos brasileiros.",
+    "desdobramento": "Eduardo foi condenado em 16 de junho de 2026 (ver evento). Não encontrei, nas fontes consultadas, decisão sobre o pedido de inclusão de Flávio.",
+    "contraponto": "Flávio não se manifestou até a publicação da reportagem. Em junho, disse ter enviado carta a Rubio pedindo que os EUA desistissem de novas tarifas.",
+    "fonte_nome": "Poder360",
+    "fonte_url": "https://www.poder360.com.br/poder-justica/deputado-do-psol-aciona-stf-contra-flavio-por-tarifaco-dos-eua/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "edu02-eduardo-condenado-2026",
+    "escopo": "familia",
+    "data": "2026-06-16",
+    "data_fato": "2025",
+    "periodo_fato": "2025 (pressão sobre o STF por meio do governo dos EUA)",
+    "titulo": "STF condena Eduardo Bolsonaro a 4 anos e 2 meses por coação no curso do processo do golpe",
+    "categoria": "Família: trama golpista e coação",
+    "envolvidos": ["Eduardo Bolsonaro", "Jair Bolsonaro", "Alexandre de Moraes", "Flávio Dino", "STF"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 16 de junho de 2026, a Primeira Turma do STF condenou Eduardo Bolsonaro, por unanimidade, por coação no curso do processo. Segundo o colegiado, ele agiu para interferir no julgamento da ação em que o pai foi condenado por tentativa de golpe. A pena é de 4 anos e 2 meses de prisão em regime semiaberto, mais 50 dias-multa de dois salários mínimos cada, inelegibilidade e perda do cargo de escrivão da PF. Relator: Alexandre de Moraes, seguido por Zanin, Cármen Lúcia e Flávio Dino.",
+    "desdobramento": "Eduardo está nos EUA desde março de 2025 e teve o mandato de deputado federal cassado em 18 de dezembro de 2025, por faltas. A defesa, feita pela DPU, alega nulidade e motivação política e pode recorrer.",
+    "contraponto": "A defesa sustenta nulidade e motivação política. Eduardo não responde pessoalmente à ação por estar no exterior.",
+    "fonte_nome": "Diário do Nordeste",
+    "fonte_url": "https://diariodonordeste.verdesmares.com.br/pontopoder/eduardo-bolsonaro-e-condenado-pelo-stf-a-quatro-anos-e-dois-meses-de-prisao-1.3771129",
+    "fontes_complementares": [
+      { "nome": "STF: notícia oficial da condenação", "url": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-por-coacao-no-curso-do-processo-sobre-tentativa-de-golpe/" }
+    ]
+  },
+  {
+    "id": "o05-pt-pgr-rubio-2026",
+    "data": "2026-06-30",
+    "data_fato": "2026-06-23",
+    "periodo_fato": "carta de Rubio de 23 de junho de 2026",
+    "titulo": "PT pede à PGR que investigue Flávio por corrupção passiva e crimes contra a soberania após carta do secretário de Estado dos EUA",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Flávio Bolsonaro", "PT", "PGR", "Marco Rubio"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O PT apresentou à PGR uma representação criminal contra Flávio com base em carta de Marco Rubio, datada de 23 de junho de 2026. Segundo a reportagem, Rubio agradece a Flávio por colocar uma equipe de transição 'à disposição' dos EUA caso seja eleito, elogia o 'apoio' dele à decisão de Trump de classificar facções criminosas brasileiras como organizações terroristas e agradece a agenda de Flávio em Washington no fim de maio. O partido pede a abertura de inquérito para apurar corrupção passiva (suposto 'auxílio indevido' à campanha), crimes contra a soberania nacional e violação de sigilo funcional, e o teor integral da carta e do ofício enviado por Flávio.",
+    "desdobramento": "É uma representação de partido, não uma investigação formal. Não encontrei, nas fontes consultadas, decisão da PGR.",
+    "contraponto": "A reportagem não traz manifestação de Flávio sobre a representação. No início do mês, ele disse ter enviado a Rubio uma carta pedindo que os EUA desistissem de novas tarifas sobre produtos brasileiros.",
+    "fonte_nome": "Jornal de Brasília",
+    "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/pt-aciona-pgr-contra-flavio-bolsonaro-apos-carta-de-marco-rubio/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "o07-pf-calunia-conclusao-2026",
+    "data": "2026-07-07",
+    "data_fato": "2026-01-03",
+    "periodo_fato": "publicação de 3 de janeiro de 2026",
+    "titulo": "PF conclui que Flávio caluniou Lula com a frase 'Lula será delatado'; Moraes manda a PF ouvi-lo em até 10 dias",
+    "categoria": "Outras investigações e representações",
+    "envolvidos": ["Flávio Bolsonaro", "Luiz Inácio Lula da Silva", "Nicolás Maduro", "Alexandre de Moraes", "Polícia Federal", "PGR"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 3 de janeiro de 2026, Flávio publicou no X imagens que associavam Lula ao então presidente venezuelano Nicolás Maduro, com a frase 'Lula será delatado' e menção ao fim do Foro de São Paulo. A PF concluiu que ele imputou falsamente a Lula crimes como tráfico internacional de drogas, tráfico de armas e lavagem de dinheiro. Em 26 de junho, Moraes deu 15 dias à PGR para se manifestar; em 7 de julho, atendendo a pedido da PGR, determinou que a PF ouça Flávio em até 10 dias (Inq 5.045).",
+    "desdobramento": "O delegado indeferiu em maio os pedidos da defesa para ouvir María Corina Machado, Walter Joseph Clayton, Sérgio Moro, Deltan Dallagnol e Lula, e Moraes também rejeitou o recurso. Segundo reportagens, a PF cancelou o depoimento e Flávio enviou esclarecimentos por escrito ao STF. Não há denúncia nem julgamento.",
+    "contraponto": "Os advogados afirmaram que a publicação se referia ao governo de Maduro e não tinha intenção de acusar Lula de crimes, que está protegida pela liberdade de expressão e que a investigação é juridicamente inconsistente.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/120288/moraes-manda-flavio-depor-sobre-calunia-ao-ligar-lula-ao-narcotrafico",
+    "fontes_complementares": [
+      { "nome": "Diário do Grande ABC: Moraes dá 15 dias à PGR (29/06/2026)", "url": "https://www.dgabc.com.br/Noticia/4332012/moraes-da-15-dias-para-a-pgr-se-manifestar-sobre-conclusao-da-pf-de-que-flavio-caluniou-lula" }
+    ]
+  },
+  {
+    "id": "ev29-foto-sicario-2026",
+    "data": "2026-07-15",
+    "data_fato": "2022",
+    "periodo_fato": "foto de 2022, em hotel na Zona Sul do Rio",
+    "titulo": "ICL publica foto de 2022 de Flávio com o 'Sicário', apontado pela PF como chefe da milícia privada de Vorcaro; ele diz não conhecê-lo",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Luiz Phillipi Mourão (o 'Sicário')", "Daniel Vorcaro", "Polícia Federal", "ICL Notícias"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "O portal ICL Notícias publicou em 15 de julho de 2026 uma foto de Flávio com Luiz Phillipi Machado de Moraes Mourão, o 'Sicário', apontado pela PF como chefe da milícia privada de Daniel Vorcaro. Segundo a PF, ele acessou indevidamente sistemas da PF, do MPF e de organismos como FBI e Interpol para monitorar desafetos de Vorcaro. A foto seria de 2022, num hotel da Zona Sul do Rio. Mourão foi preso em 4 de março, na terceira fase da Operação Compliance Zero, e morreu por suicídio sob custódia da PF em Minas Gerais.",
+    "desdobramento": "A foto não prova relação entre os dois. O ICL testou a imagem em cinco ferramentas de detecção de IA e não achou sinais de manipulação; o G1 relatou 'baixa probabilidade' de manipulação. As ferramentas de detecção não são conclusivas.",
+    "contraponto": "Flávio disse não saber se a foto é verdadeira, que tira fotos com muitas pessoas que o abordam e que não tem como saber quem são, e chamou a publicação de mais uma 'narrativa' para derrubá-lo. A assessoria sugeriu que a imagem possa ter sido criada por inteligência artificial.",
+    "fonte_nome": "Diario de Pernambuco",
+    "fonte_url": "https://www.diariodepernambuco.com.br/politica/2026/07/11718876-flavio-aparece-em-foto-ao-lado-de-sicario-chefe-da-milicia-privada-de-vorcaro.html",
     "fontes_complementares": []
   },
   {
@@ -918,6 +2096,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "h11-ufrj-pos-graduacao-2026",
+    "data": "2026-08-13",
+    "data_fato": "2026-07-27",
+    "periodo_fato": "nota biográfica de 27/07/2026 e páginas oficiais",
+    "titulo": "UFRJ nega que Flávio tenha cursado a pós-graduação citada em páginas oficiais; campanha admite 'equívoco' e ele publica diplomas",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "UFRJ", "Alerj", "Agência Senado", "Eduardo Bolsonaro"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Segundo o Congresso em Foco, a UFRJ informou que não há registro de Flávio Bolsonaro como aluno: uma consulta ao sistema acadêmico não achou matrícula em nome dele. A pós-graduação em Ciências Políticas pela UFRJ aparecia na página dele no site da Alerj, em um perfil da Agência Senado, no LinkedIn mantido pela assessoria e na Wikipédia. A universidade acrescentou que há registro de Eduardo Bolsonaro, que concluiu Direito lá.",
+    "desdobramento": "Parte dos registros foi retirada ou corrigida em 12 de agosto. Flávio publicou nas redes reproduções de seus diplomas: Direito pela Universidade Cândido Mendes (2006), especialização em Políticas Públicas pelo Iuperj (2012) e MBA pela FGV (2015). Não foi apresentado diploma de pós-graduação da UFRJ.",
+    "contraponto": "A assessoria reconheceu a informação como incorreta e atribuiu o caso a 'erros ou equívocos', possivelmente copiados de páginas como a Wikipédia, mas a própria equipe havia divulgado a informação em nota biográfica enviada à imprensa em 27 de julho.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/121223/ufrj-nega-que-flavio-tenha-feito-pos-campanha-admite-equivoco",
+    "fontes_complementares": []
+  },
+  {
     "id": "i10-patrimonio-211",
     "data": "2026-08-13",
     "titulo": "Patrimônio declarado de Flávio sobe 211% em termos reais desde 2018, calcula o Poder360",
@@ -930,6 +2125,55 @@ window.DADOS_INVESTIGACOES = [
     "contraponto": null,
     "fonte_nome": "Poder360",
     "fonte_url": "https://www.poder360.com.br/poder-eleicoes-2026/patrimonio-declarado-de-flavio-sobe-211-desde-2018/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "h12-tse-video-pcc-cv-2026",
+    "data": "2026-08-17",
+    "titulo": "TSE manda remover vídeo de Flávio que liga Lula ao PCC e ao Comando Vermelho, por 5 votos a 2",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Luiz Inácio Lula da Silva", "Federação Brasil da Esperança", "TSE", "Nunes Marques", "André Mendonça", "Dias Toffoli", "X"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 17 de agosto de 2026, no plenário virtual, o TSE determinou a remoção de um vídeo publicado por Flávio que liga Lula ao PCC e ao Comando Vermelho; a plataforma X também deve excluir o conteúdo. A ação foi da Federação Brasil da Esperança (PT, PCdoB e PV), que alegou associação infundada e propaganda antecipada. Votaram pela retirada Estela Aranha, Ricardo Villas Bôas Cueva, Dias Toffoli, Floriano de Azevedo Marques e Antonio Carlos Ferreira. A maioria entendeu que a publicação 'extrapolou os limites da disputa política'.",
+    "desdobramento": "Em 26 de julho, o presidente do TSE, Nunes Marques, havia negado a retirada imediata, e o plenário virtual derrubou esse entendimento. Nunes Marques e André Mendonça votaram pela manutenção do vídeo. Em outubro, o TSE mandou apagar outros posts de Flávio (ver evento de 08/10/2026).",
+    "contraponto": "A reportagem procurou Flávio e não obteve retorno.",
+    "fonte_nome": "Diario de Pernambuco (Estadão Conteúdo)",
+    "fonte_url": "https://www.diariodepernambuco.com.br/politica/2026/08/11721416-tse-manda-campanha-de-flavio-bolsonaro-retirar-video-que-associa-lula-ao-pcc-e-ao-comando-vermelho.html",
+    "fontes_complementares": [
+      { "nome": "Jornal do Brasil: plenário derruba decisão de Nunes Marques (agosto de 2026)", "url": "https://www.jb.com.br/brasil/justica/2026/08/amp/1060595-plenario-do-tse-derruba-decisao-de-nunes-marques-a-favor-de-flavio-contra-lula.html" }
+    ]
+  },
+  {
+    "id": "h13-lupa-jornal-nacional-2026",
+    "data": "2026-08-28",
+    "titulo": "Lupa checa a entrevista de Flávio ao Jornal Nacional: 5 de 15 afirmações são falsas, entre elas a de que o Pix foi criado no governo Bolsonaro",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Agência Lupa", "Jornal Nacional", "Adriano da Nóbrega", "Eduardo Bolsonaro"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "A Agência Lupa checou 15 afirmações de Flávio na entrevista ao Jornal Nacional de 28 de agosto de 2026: 5 falsas, 5 com falta de contexto, 2 exageradas e 3 verdadeiras. Falsas: que o contrato e a origem do dinheiro do filme 'Dark Horse' já tinham sido apresentados; que o Pix foi criado no governo Bolsonaro (a ideia foi desenvolvida em 2018, no governo Temer); que Adriano da Nóbrega 'não tinha feito nada de errado' na época da homenagem (a primeira acusação é anterior à moção de 2003, ele foi preso por homicídio em 2004 e condenado em 2005, e recebeu a Medalha Tiradentes em 2005, preso); que nunca questionou o processo eleitoral (questionou as urnas em discurso de 2014 e em post de 2018); e que eventos climáticos extremos não são causados principalmente pelo ser humano.",
+    "desdobramento": "A checagem é uma avaliação da agência. Adriano foi depois absolvido por júri em novo julgamento, o que a própria Lupa registra.",
+    "contraponto": "A Lupa marcou como verdadeiras as afirmações de que as decisões do STF ameaçam fontes jornalísticas, de que a homenagem a Adriano tinha mais de 20 anos e de que os juros reais estão altos.",
+    "fonte_nome": "Agência Lupa",
+    "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "ev30-piaui-novo-repasse-2026",
+    "data": "2026-09-01",
+    "data_fato": "2025-09",
+    "periodo_fato": "setembro de 2025 (e indício de outro repasse em outubro)",
+    "titulo": "piauí: Vorcaro fez novo repasse de US$ 1,6 milhão ao 'Dark Horse' em setembro de 2025, oito dias depois de Flávio cobrar parcelas, contrariando a versão de que o último foi em maio",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Daniel Vorcaro", "Havengate", "Coaf", "piauí"],
+    "valor_estimado": null,
+    "valor_descricao": "US$ 1,6 milhão em setembro de 2025; total pago sobe de US$ 10,6 milhões para US$ 12,3 milhões, segundo a piauí",
+    "resumo": "Segundo a revista piauí, que obteve um relatório do Coaf, Daniel Vorcaro fez um pagamento de US$ 1,6 milhão em setembro de 2025 ao fundo Havengate, que administrava o dinheiro antes de repassá-lo à produção do filme. O pagamento teria ocorrido oito dias depois de Flávio cobrar parcelas atrasadas por mensagem. Com o valor extra, o total efetivamente pago subiria de US$ 10,6 milhões para US$ 12,3 milhões, e a reportagem aponta indícios de outro pagamento em outubro de 2025. Em maio, na GloboNews, Flávio havia dito que a última parcela paga por Vorcaro fora em maio de 2025.",
+    "desdobramento": "Os dados vêm de um relatório do Coaf citado pela revista; não há decisão judicial sobre os valores. O inquérito do STF sobre os repasses foi aberto em julho de 2026 (ver evento).",
+    "contraponto": "Flávio disse que não tem como saber dessas informações, pois não trata do assunto, que a produtora deve ser consultada e que sabia que Vorcaro era investidor: 'tem que perguntar para a produtora'.",
+    "fonte_nome": "O Povo+ (reproduz piauí)",
+    "fonte_url": "https://mais.opovo.com.br/jornal/politica/2026/09/01/vorcaro-fez-mais-um-pagamento-para-o-filme-dark-horse.html",
     "fontes_complementares": []
   },
   {
@@ -950,6 +2194,23 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "cota04-senado-escolta-campanha-2026",
+    "data": "2026-09-06",
+    "titulo": "Metrópoles: Senado banca a escolta de Flávio na campanha e mantém sigilo sobre os gastos; ele recusa a proteção da PF",
+    "categoria": "Emendas e cota parlamentar",
+    "envolvidos": ["Flávio Bolsonaro", "Senado Federal", "Polícia Federal", "Sergio Moro", "Alfredo Gaspar", "Metrópoles"],
+    "valor_estimado": null,
+    "valor_descricao": "R$ 7,4 milhões gastos pelo Senado até agosto de 2026 com proteção e escolta de autoridades (R$ 4 milhões em diárias e R$ 3,3 milhões em passagens); o valor específico de Flávio é sigiloso",
+    "resumo": "Segundo o Metrópoles, até agosto de 2026 o Senado gastou cerca de R$ 7,4 milhões com proteção e escolta de autoridades, contra R$ 2,3 milhões em 2022, e os gastos específicos com a escolta de Flávio Bolsonaro, candidato à Presidência, são mantidos em sigilo. Em reportagem da Folhapress de 2 de junho, as diárias de policiais legislativos para escolta de senadores subiram de R$ 1,1 milhão para R$ 1,8 milhão nos cinco primeiros meses de 2026 (+64%), e autoridades atribuíram o aumento sobretudo às viagens de Flávio em pré-campanha, como o giro pelo Oriente Médio e a CPAC, no Texas.",
+    "desdobramento": "Não há apuração formal sobre os gastos. A Câmara adotou entendimento diferente e negou escolta da Polícia Legislativa ao vice da chapa, Alfredo Gaspar, argumentando que a segurança de candidatos à Presidência cabe à PF. Um decreto autoriza a PF a proteger candidatos, mas depende de solicitação da campanha.",
+    "contraponto": "O Senado diz que Flávio tem proteção policial desde 2019, após análise de risco, que a candidatura não altera a condição de senador e que divulgar efetivo e procedimentos poderia pôr agentes em perigo, mas não explicou por que os valores também são sigilosos. Flávio disse que não abrirá mão da escolta por causa de ameaças à família, que as diárias seguem as regras do Senado e que o PL arca com os demais custos da pré-candidatura; recusou a proteção da PF dizendo: 'Não vou correr o risco de ele próprio infiltrar pessoas na minha campanha'.",
+    "fonte_nome": "Metrópoles",
+    "fonte_url": "https://www.metropoles.com/brasil/senado-banca-seguranca-de-flavio-em-campanha-mas-mantem-gastos-em-sigilo",
+    "fontes_complementares": [
+      { "nome": "Jornal de Brasília (Folhapress): gasto com diárias para seguranças dispara (02/06/2026)", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/gasto-do-senado-com-diarias-para-segurancas-dispara-com-eleicao-e-viagens-ao-exterior-de-flavio/" }
+    ]
+  },
+  {
     "id": "ev21-pf-interlocutor-direto",
     "data": "2026-09-10",
     "titulo": "Sigilo cai: PF descreve Flávio como 'interlocutor direto' de Vorcaro; oito são investigados",
@@ -965,6 +2226,55 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": [
       { "nome": "Agência Brasil (12/09/2026)", "url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/justica/audio/2026-09/quebra-de-sigilo-revela-cobranca-de-flavio-por-filme-dark-horse" }
     ]
+  },
+  {
+    "id": "ev31-operacao-make-up-2026",
+    "data": "2026-09-10",
+    "titulo": "Operação Make Up: PF cumpre 49 mandados contra supostos desvios de emendas para produtora do filme 'Dark Horse'; Flávio não é alvo e fala em 'interferência política'",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Mário Frias", "Karina Ferreira da Gama", "Go UP Entertainment", "Flávio Dino", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 10 de setembro de 2026, a PF cumpriu 49 mandados de busca e apreensão em três estados e no Distrito Federal na Operação Make Up, autorizada pelo ministro Flávio Dino. A apuração trata de supostos desvios de emendas parlamentares destinadas a entidades ligadas à produtora do filme sobre Jair Bolsonaro. Os alvos principais são o deputado Mário Frias (PL-SP) e Karina Ferreira da Gama, dona da Go UP Entertainment.",
+    "desdobramento": "A reportagem não diz que Flávio seja alvo da operação; ele aparece como o político que a criticou. O inquérito que o investiga é outro, sobre os repasses de Vorcaro ao filme (ver eventos de julho e setembro).",
+    "contraponto": "Em agenda de campanha em Boa Vista (RR), Flávio chamou a operação de 'interferência política' e criticou Flávio Dino, dizendo que a motivação seria ter ultrapassado Lula nas pesquisas. Afirmou que o filme não usou dinheiro público e que está tranquilo.",
+    "fonte_nome": "Diario de Pernambuco (Estadão Conteúdo)",
+    "fonte_url": "https://www.diariodepernambuco.com.br/politica/2026/09/11723580-flavio-bolsonaro-chama-operacao-da-pf-sobre-emendas-para-filme-de-interferencia-politica.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "ev32-pf-havengate-eduardo-2026",
+    "data": "2026-09-11",
+    "data_fato": "2025-02-13",
+    "periodo_fato": "fevereiro de 2025 em diante",
+    "titulo": "PF: Eduardo orientou como o dinheiro do filme seria gerido nos EUA; fundo Havengate poderia receber US$ 24 milhões de Vorcaro",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Eduardo Bolsonaro", "Daniel Vorcaro", "Paulo Calixto", "Thiago Miranda", "Antônio Carlos Freixo Junior ('Mineiro')", "André Mendonça", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Com a derrubada do sigilo por André Mendonça na noite de 10 de setembro de 2026, a TVT News noticiou o relatório da PF: Eduardo Bolsonaro teria dado 'orientações sobre a forma pela qual os recursos poderiam ser geridos nos Estados Unidos'. O fundo Havengate, sediado no Texas e administrado pelo advogado Paulo Calixto, próximo de Eduardo, teria sido usado para receber valores destinados ao filme. Criado em 2020 para um empreendimento imobiliário de US$ 21 milhões, sem imóveis em seu nome, ficou quase quatro anos sem atividade pública até ser reativado em fevereiro de 2025. A primeira remessa foi de US$ 2 milhões, em 13 de fevereiro de 2025, enviada pela Entre Investimentos, de Antônio Carlos Freixo Junior, o 'Mineiro', que tem acordo de delação homologado por Mendonça. A PF cita trocas de mensagens entre Flávio, Vorcaro e o publicitário Thiago Miranda.",
+    "desdobramento": "São afirmações da PF em investigação em andamento, não conclusões judiciais. Em maio, Flávio admitiu na GloboNews não ter certeza se parte dos recursos foi ao escritório de Paulo Calixto (ver checagem da Lupa).",
+    "contraponto": "A reportagem não traz manifestações de Eduardo, de Flávio, de Calixto ou de outros citados. Flávio sustenta que o filme é privado e que o patrocínio não envolveu dinheiro público.",
+    "fonte_nome": "TVT News",
+    "fonte_url": "https://tvtnews.com.br/pf-eduardo-bolsonaro-gestao-122-milhoes-dark-horse/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "ev33-pgr-indicios-dark-horse-2026",
+    "data": "2026-09-11",
+    "data_fato": "2026-07",
+    "periodo_fato": "manifestação da PGR em julho de 2026",
+    "titulo": "PGR viu 'indícios consistentes' de evasão de divisas e lavagem no caso Dark Horse e disse que Flávio 'manteve pessoalmente diversas tratativas' com Vorcaro",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Daniel Vorcaro", "Thiago Miranda", "PGR", "Paulo Gonet", "André Mendonça"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Com o fim do sigilo, a CNN Brasil publicou em 11 de setembro de 2026 a manifestação da PGR, de julho, favorável à investigação. Segundo o texto, a Procuradoria viu 'indícios consistentes' de evasão de divisas e lavagem de capitais e disse que os fatos 'potencialmente' envolvem corrupção passiva e corrupção ativa. A PGR afirma que Flávio 'manteve pessoalmente diversas tratativas' com Vorcaro e cita aviso do publicitário Thiago Miranda ao banqueiro de que Flávio 'desejava encontrá-lo pessoalmente para mostrar o que estava sendo gravado'. Flávio é investigado por lavagem de dinheiro, evasão de divisas, corrupção e delitos correlatos no inquérito sobre o financiamento do filme.",
+    "desdobramento": "O pedido da PGR foi acolhido por André Mendonça (ver evento de 22/07/2026). São indícios apontados no pedido de investigação, não acusação formal; não há denúncia.",
+    "contraponto": "A reportagem da CNN Brasil não traz manifestação de Flávio. Em outras ocasiões, ele disse que o patrocínio era privado e que não ofereceu vantagens.",
+    "fonte_nome": "CNN Brasil (blog de Gustavo Uribe)",
+    "fonte_url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/dark-horse-pgr-apontou-indicios-de-condutas-ilicitas-de-flavio-bolsonaro-2/",
+    "fontes_complementares": []
   },
   {
     "id": "inss03-bravo-grafeno-endereco",
@@ -999,6 +2309,76 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "inss05-willer-alvo-pf-2026",
+    "data": "2026-09-18",
+    "titulo": "Willer Tomaz, amigo de Flávio e cotista do jato em que ele voou, é alvo de busca da PF na Operação Sem Desconto",
+    "categoria": "Caso INSS (entorno)",
+    "envolvidos": ["Flávio Bolsonaro", "Willer Tomaz", "Weverton Rocha", "Fabiano Zettel", "Daniel Vorcaro", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Segundo o ND Mais, o advogado Willer Tomaz, amigo de Flávio, foi alvo de busca e apreensão da PF numa fase da Operação Sem Desconto, que investiga fraudes em descontos do INSS. A PF vê indícios de que ele atuava como 'hub financeiro, patrimonial e logístico' de políticos, com suposta lavagem de dinheiro para o senador Weverton Rocha (PDT). Flávio e Tomaz viajaram juntos de jatinho para a Flórida em 2025, segundo o colunista Igor Gadelha, do Metrópoles. A matéria também registra que Tomaz cedeu a Flávio um apartamento em São Paulo durante a campanha, o que gerou questionamentos no TSE; o imóvel foi antes de Fabiano Zettel, operador ligado a Vorcaro.",
+    "desdobramento": "A matéria não descreve sociedade ou vínculo empresarial entre Flávio e Tomaz, e não diz que Flávio seja investigado nesta operação. A data da busca não consta da reportagem.",
+    "contraponto": "Tomaz disse que a busca decorreu de ser dono da aeronave usada por Weverton Rocha numa viagem particular, que 'não é investigado' na operação e que adversários tentam atacá-lo sem fundamento; afirma não conhecer Zettel nem Vorcaro. Flávio disse ter se hospedado em hotéis.",
+    "fonte_nome": "ND Mais",
+    "fonte_url": "https://ndmais.com.br/politica/willer-tomaz-alvo-de-busca-e-apreensao-em-operacao-da-pf-sobre-fraudes-no-inss-flavio-amigo/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "ev34-neymar-pai-santos-2026",
+    "data": "2026-09-21",
+    "data_fato": "2025-02-11",
+    "periodo_fato": "fevereiro de 2025",
+    "titulo": "PF: lobista diz a Vorcaro que 'Flavio B e Neypai estão me cobrando'; pendências envolviam o filme e uma proposta de R$ 15 milhões ao Santos",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Daniel Vorcaro", "Thiago Miranda", "Neymar pai", "Santos FC", "NR Sports", "Banco Master", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Segundo relatório da PF sobre o caso Banco Master, citado pela CartaCapital e reproduzido pelo Brasil de Fato, o publicitário e lobista Thiago Miranda escreveu a Vorcaro em 11 de fevereiro de 2025, pedindo ajuda para destravar pendências: 'Flavio B e Neypai estão me cobrando'. As duas frentes eram o filme 'Dark Horse', para o qual Vorcaro repassou R$ 61 milhões, e uma proposta de R$ 15 milhões pelo uso da marca do Master em três espaços do uniforme do Santos, intermediada por Neymar pai. Em 3 de fevereiro, Miranda dissera organizar um encontro na casa do banqueiro com Neymar pai e representantes do jogador.",
+    "desdobramento": "Segundo a PF, o material não permite afirmar se houve reunião presencial com Neymar ou com o pai, nem se os acordos foram fechados.",
+    "contraponto": "A reportagem não traz manifestação de Flávio; a assessoria da NR Sports, que gerencia a imagem do jogador, também não respondeu.",
+    "fonte_nome": "Brasil de Fato (cita CartaCapital)",
+    "fonte_url": "https://www.brasildefato.com.br/2026/09/21/mensagens-apreendidas-pela-pf-mostram-pressao-de-flavio-bolsonaro-e-neymar-pai-sobre-vorcaro/",
+    "fontes_complementares": []
+  },
+  {
+    "id": "m16-emenda-miliciano-mensagens-2026",
+    "data": "2026-09-21",
+    "data_fato": "2023-09",
+    "periodo_fato": "setembro de 2023 a início de 2024 (conversas de cinco meses)",
+    "titulo": "piauí e Estadão: assessora de Flávio negociou por cinco meses a emenda de R$ 199 mil com o miliciano Robson 'Peixe', preso no caso Marielle",
+    "categoria": "Emendas e cota parlamentar",
+    "envolvidos": ["Flávio Bolsonaro", "Maria de Fátima Bezerra Castro (assessora)", "Robson Calixto Fonseca, o 'Peixe'", "Irmãos Brazão", "Polícia Federal"],
+    "valor_estimado": 199000,
+    "valor_descricao": "Emenda de R$ 199 mil para projeto de futebol infantil de uma ONG da Zona Sudoeste do Rio",
+    "resumo": "Segundo reportagens da piauí e do Estadão, citadas pelo O Tempo, Flávio enviou em 2023 uma emenda de R$ 199 mil a uma ONG de futebol infantil na Zona Sudoeste do Rio, área de milícia e reduto eleitoral dos irmãos Brazão. Em setembro de 2023, o miliciano Robson Calixto Fonseca, o 'Peixe', articulava construções em loteamentos da Taquara; no mês seguinte pediu o dinheiro público e, dois dias depois, foi chamado a uma cerimônia no gabinete do senador no Rio, onde a secretária o orientou a reforçar o pedido oficialmente. A PF identificou trocas de mensagens entre a secretária Maria de Fátima Bezerra Castro e Calixto, que duraram cinco meses; ela chegou a convidá-lo para um evento com Flávio, em que ele poderia pedir a liberação.",
+    "desdobramento": "O repasse é alvo de uma investigação mais ampla da PF sobre pagamentos a entidades do Rio (ver evento de 20/05/2026). Em fevereiro de 2026, o STF condenou Calixto a 9 anos por integrar organização criminosa armada no caso Marielle. Nas fontes consultadas, não há acusação contra Flávio por esta emenda.",
+    "contraponto": "Por meio da assessoria, Flávio disse ao Estadão que a emenda seguiu a legislação e os critérios técnicos do Ministério do Esporte, que a entidade apresentou notas fiscais e devolveu valores não usados e que a execução é responsabilidade da beneficiária. Maria de Fátima e Calixto não se manifestaram.",
+    "fonte_nome": "O Tempo",
+    "fonte_url": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/9/21/assessora-negociou-emendas-de-flavio-bolsonaro-com-miliciano-condenado-no-assassinato-de-marielle",
+    "fontes_complementares": [
+      { "nome": "Brasil de Fato: assessora negociou emenda a ONG dos irmãos Brazão (21/09/2026)", "url": "https://www.brasildefato.com.br/2026/09/21/assessora-de-flavio-bolsonaro-negociou-emenda-a-ong-dos-irmaos-brazao-com-miliciano-condenado-no-caso-marielle/" }
+    ]
+  },
+  {
+    "id": "ev36-aviao-vorcaro-nunca-2026",
+    "data": "2026-09-23",
+    "data_fato": "2025-01-19",
+    "periodo_fato": "voo de 19 de janeiro de 2025",
+    "titulo": "piauí: Flávio voou em jato com cota de empresa de Vorcaro em janeiro de 2025; em julho dissera 'nunca entrei em avião do Vorcaro'",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Fernanda Bolsonaro", "Willer Tomaz", "Daniel Vorcaro", "Laércio Cosentino", "Prime You", "Fraction 024", "Alexandre de Moraes"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Segundo a revista piauí, em 19 de janeiro de 2025 Flávio, a esposa Fernanda e as duas filhas voaram de Fort Lauderdale (EUA) a Brasília num Legacy 650 (prefixo PP-NLR), formalmente de propriedade da Fraction 024. A aeronave era operada pela Prime You, uma das três cotistas, ao lado de Willer Tomaz e Laércio Cosentino, fundador da TOTVS. A Prime You diz que Vorcaro foi sócia de 2021 a setembro de 2025, e Tomaz estava no voo. A mesma aeronave foi usada depois pelo ministro Alexandre de Moraes, e Flávio chegou a criticá-lo por isso. Em julho, num encontro com mulheres em Brasília, Flávio havia dito: 'Nunca entrei em avião do Vorcaro'.",
+    "desdobramento": "A reportagem não afirma que Flávio soubesse da participação de Vorcaro na aeronave. Em maio de 2026, a PF passou a investigar se ele tinha acesso de 'usuário master' a uma conta ligada a essa estrutura (ver evento de 14/10/2026).",
+    "contraponto": "Flávio escreveu no X: 'Ainda bem que na época o avião era de Willer. Imagina se fosse agora, eu teria viajado no avião de Alexandre de Moraes'. A reportagem observa que ele não citou a participação de Vorcaro. Tomaz disse que foi cortesia, sem cobrança.",
+    "fonte_nome": "Diario de Pernambuco (Estadão Conteúdo)",
+    "fonte_url": "https://www.diariodepernambuco.com.br/politica/2026/09/11724783-flavio-bolsonaro-rebate-viagem-em-jato-de-vorcaro-com-ironia-e-diz-que-aeronave-era-de-willer-tomaz.html",
+    "fontes_complementares": [
+      { "nome": "Diario de Pernambuco (Correio Braziliense): a frase 'nunca entrei em avião do Vorcaro' volta a circular (24/09/2026)", "url": "https://www.diariodepernambuco.com.br/politica/2026/09/11724846-declaracao-de-flavio-sobre-aviao-de-vorcaro-volta-a-circular-apos-reportagem.html" }
+    ]
+  },
+  {
     "id": "ev24-aosfatos-43-declaracoes",
     "data": "2026-09-24",
     "data_fato": "2026-02",
@@ -1015,6 +2395,40 @@ window.DADOS_INVESTIGACOES = [
     "fonte_url": "https://www.aosfatos.org/noticias/flavio-mentiu-ao-menos-43-vezes-sobre-envolvimento-com-vorcaro/",
     "fontes_complementares": [
       { "nome": "Aos Fatos: doze vezes em que Flávio mentiu sobre Vorcaro (maio)", "url": "https://www.aosfatos.org/noticias/doze-vezes-flavio-bolsonaro-mentiu-sobre-relacao-vorcaro-master/" }
+    ]
+  },
+  {
+    "id": "ev35-seis-encontros-vorcaro-2026",
+    "data": "2026-09-24",
+    "data_fato": "2025-08-20",
+    "periodo_fato": "20 de agosto a 16 de novembro de 2025",
+    "titulo": "Estadão: mensagens extraídas do celular de Vorcaro citam seis encontros com Flávio em 90 dias",
+    "categoria": "Caso Master / Dark Horse",
+    "envolvidos": ["Flávio Bolsonaro", "Daniel Vorcaro", "Eduardo Bolsonaro", "Jim Caviezel", "Cyrus Nowrasteh", "Polícia Federal"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Material que a PF extraiu do celular de Vorcaro, noticiado pelo Estadão, cita seis encontros com Flávio entre 20 de agosto e 16 de novembro de 2025, um dia antes da primeira prisão do banqueiro, embora a reportagem não confirme que todos tenham ocorrido. O único confirmado é o de 20 de agosto, marcado por Flávio para as 21h. Em meados de setembro, depois de o Banco Central rejeitar a compra do Master pelo BRB, Vorcaro tentou marcar uma reunião às 14h30 e Flávio confirmou. Em 24 de setembro, os dois tentaram combinar um encontro em São Paulo e fizeram uma ligação de voz de cerca de dois minutos. Flávio tentou ainda organizar um jantar com Vorcaro, Jim Caviezel e Cyrus Nowrasteh, do filme, que não ocorreu.",
+    "desdobramento": "O histórico recuperado cobre só 90 dias porque, segundo a reportagem, as conversas de Flávio estavam programadas para apagar a cada três meses. Ele não respondeu a uma mensagem de Vorcaro de 1º de outubro de 2025, um dia depois de a PF abrir o inquérito.",
+    "contraponto": "Flávio confirmou alguns encontros e ofereceu falar com Eduardo se Vorcaro precisasse de ajuda; numa das mensagens, escreveu: 'Fala mermao, veja o que for melhor pra vc. Vou estar aqui a semana toda'. Eduardo Bolsonaro, segundo o Estadão, negou contato com Vorcaro.",
+    "fonte_nome": "Terra (Estadão)",
+    "fonte_url": "https://www.terra.com.br/noticias/brasil/politica/mensagens-trocadas-entre-flavio-bolsonaro-e-vorcaro-mencionam-seis-encontros-entre-o-senador-e-o-banqueiro,759c606ae7fded26f0275827cc97bf9c1unkbs01.html",
+    "fontes_complementares": []
+  },
+  {
+    "id": "h15-cnbb-fake-news-2026",
+    "data": "2026-09-27",
+    "titulo": "Flávio diz que 'gente da CNBB' ajudou a espalhar a 'maior fake news da campanha'; entidade nega e afirma que 'a mentira não se combate com outra mentira'",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "CNBB", "PT"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "No domingo, 27 de setembro de 2026, Flávio afirmou que integrantes da CNBB ajudaram o PT a espalhar a informação falsa de que haveria uma tentativa de retirar de Nossa Senhora Aparecida o título de Padroeira do Brasil: 'A maior fake news dessa campanha foi essa sobre Nossa Senhora Aparecida'. Segundo o Congresso em Foco, ele não apresentou provas.",
+    "desdobramento": "A CNBB negou, em nota, ter produzido, autorizado ou participado da elaboração ou divulgação de informações falsas sobre o processo eleitoral, e disse que não integra estruturas partidárias. Em 28 de setembro, segundo reportagens, Flávio disse que a nota 'confirmava' que se tratava de fake news.",
+    "contraponto": "A CNBB considerou injusta a tentativa de vinculá-la à desinformação sem provas e afirmou que 'a mentira não se combate com outra mentira'.",
+    "fonte_nome": "Congresso em Foco",
+    "fonte_url": "https://www.congressoemfoco.com.br/noticia/122602/flavio-liga-cnbb-a-fake-news-sobre-nossa-senhora-entidade-reage",
+    "fontes_complementares": [
+      { "nome": "Diário do Grande ABC: Flávio diz que nota da CNBB confirma 'fake news' (28/09/2026)", "url": "https://www.dgabc.com.br/Noticia/4349525/flavio-diz-que-nota-da-cnbb-confirma-fake-news-entidade-desmentiu-acusacao-feita-por-ele" }
     ]
   },
   {
@@ -1069,6 +2483,21 @@ window.DADOS_INVESTIGACOES = [
     "fontes_complementares": []
   },
   {
+    "id": "h14-juiza-nega-flavio-condena-2026",
+    "data": "2026-10-08",
+    "titulo": "Juíza nega pedido de Flávio contra vídeo que o chama de 'número 01 da rachadinha' e o condena a pagar R$ 8 mil em custas e honorários",
+    "categoria": "Honra, imagem e propaganda",
+    "envolvidos": ["Flávio Bolsonaro", "Gabriela Guimarães de Faria (juíza)"],
+    "valor_estimado": 8000,
+    "valor_descricao": "R$ 8 mil em custas e honorários sucumbenciais (Flávio pedia R$ 80 mil de indenização)",
+    "resumo": "A juíza Gabriela Guimarães de Faria, da 6ª Vara Cível de Brasília, rejeitou o pedido de Flávio contra uma influenciadora ligada ao PT, cujo vídeo o associava ao caso Master e a rachadinhas e o chamava de 'número 01 do esquema da rachadinha'. Flávio pedia a remoção do vídeo, retratação pública e R$ 80 mil de danos morais, e argumentou que a postagem omitiu desfechos favoráveis, como investigações trancadas. A juíza entendeu que a crítica política, baseada em fatos e em reportagens de ampla circulação, não é ilícito civil, e que políticos estão sujeitos a 'um dever maior de tolerância e a um escrutínio público mais acentuado'.",
+    "desdobramento": "Os R$ 8 mil são a consequência comum de quem perde a ação (custas e honorários); o texto não fala em litigância de má-fé. Cabe recurso. A ação, ajuizada em maio, tramita sob o nº 0727678-66.2026.8.07.0001.",
+    "contraponto": "A decisão registra que Flávio sustentou que o vídeo omitia desfechos favoráveis a ele. A ré alegou exercício da liberdade de expressão e de crítica política e disse que usou reportagens e recurso satírico.",
+    "fonte_nome": "Conjur",
+    "fonte_url": "https://conjur.com.br/2026-out-08/juiza-nega-remocao-de-video-que-liga-flavio-ao-master-e-o-condena-a-r-8-mil/",
+    "fontes_complementares": []
+  },
+  {
     "id": "tse01-posts-ia-lula",
     "data": "2026-10-08",
     "data_fato": "2026-05-30",
@@ -1084,6 +2513,25 @@ window.DADOS_INVESTIGACOES = [
     "fonte_nome": "Poder360",
     "fonte_url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-flavio-bolsonaro-apagar-posts-com-ia-contra-lula/",
     "fontes_complementares": []
+  },
+  {
+    "id": "inss06-lindbergh-noticia-crime-2026",
+    "data": "2026-10-10",
+    "data_fato": "2025-05-22",
+    "periodo_fato": "e-mail bancário de 22 de maio de 2025",
+    "titulo": "Lindbergh leva à PF notícia-crime pedindo a inclusão de Flávio na Operação Sem Desconto e a quebra de seus sigilos",
+    "categoria": "Caso INSS (entorno)",
+    "envolvidos": ["Flávio Bolsonaro", "Lindbergh Farias", "Willer Tomaz", "Alcazar Holdings", "Santander", "Polícia Federal", "André Mendonça"],
+    "valor_estimado": null,
+    "valor_descricao": null,
+    "resumo": "Em 10 de outubro de 2026, o deputado Lindbergh Farias (PT-RJ) protocolou na PF uma notícia-crime pedindo a inclusão formal de Flávio nas investigações da Operação Sem Desconto, sobre descontos indevidos em aposentadorias do INSS, e a quebra dos sigilos bancário e fiscal dele, de sua sociedade de advocacia e de contas ligadas a Willer Tomaz, à Alcazar Holdings e à Cathedral Holdings, com análise do Coaf e cooperação internacional. A base são e-mails obtidos pela PF: em 22 de maio de 2025, uma funcionária ligada a Tomaz pediu ao Santander que uma conta identificada como 'Flávio Bolsonaro' fosse retirada de um 'usuário master' ligado ao ambiente bancário do advogado, e o banco confirmou.",
+    "desdobramento": "Uma notícia-crime não é denúncia. Os documentos não esclarecem titularidade, poderes de movimentação nem se houve transferências, e até 11 de outubro não havia prova pública de que valores desviados do INSS tenham chegado a Flávio. Quebras de sigilo dependem da PF, da PGR e de decisão do STF.",
+    "contraponto": "Flávio afirma que 'nunca manteve conta tendo como usuário master o sr. Willer Tomaz ou qualquer de suas empresas', e sua equipe atribui a divulgação ao contexto eleitoral. A defesa de Tomaz diz que 'entre os dois há apenas amizade, sem relação comercial ou financeira'.",
+    "fonte_nome": "Jornal Grande Bahia",
+    "fonte_url": "https://jornalgrandebahia.com.br/?p=1392611",
+    "fontes_complementares": [
+      { "nome": "CNN Brasil: PF apura se Flávio tinha conta conjunta com alvo da Sem Desconto (10/10/2026)", "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/pf-apura-se-flavio-tinha-conta-conjunta-com-alvo-da-sem-desconto/" }
+    ]
   },
   {
     "id": "tse02-video-descontextualizado",
