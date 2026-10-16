@@ -664,6 +664,16 @@
     return TABS.includes(h) ? h : null;
   };
 
+  // em tela estreita a barra de abas rola na horizontal: traz a aba ativa para o centro
+  function centraAbaAtiva() {
+    const lista = els.tabList;
+    const ativa = els.tabBtns.find((b) => b.dataset.tab === els.activeTab);
+    if (!ativa || lista.scrollWidth <= lista.clientWidth) return;
+    const lr = lista.getBoundingClientRect();
+    const br = ativa.getBoundingClientRect();
+    lista.scrollLeft += (br.left - lr.left) - (lr.width - br.width) / 2;
+  }
+
   function activate(tab, fromUser) {
     if (!TABS.includes(tab)) tab = 'linha';
     const changed = els.activeTab !== tab;
@@ -674,14 +684,7 @@
       b.tabIndex = on ? 0 : -1;
     });
     TABS.forEach((t) => { $(`panel-${t}`).hidden = t !== tab; });
-    // em tela estreita a barra de abas rola na horizontal: traz a aba ativa para o centro
-    const lista = els.tabList;
-    const ativa = els.tabBtns.find((b) => b.dataset.tab === tab);
-    if (ativa && lista.scrollWidth > lista.clientWidth) {
-      const lr = lista.getBoundingClientRect();
-      const br = ativa.getBoundingClientRect();
-      lista.scrollLeft += (br.left - lr.left) - (lr.width - br.width) / 2;
-    }
+    centraAbaAtiva();
     if (!changed) return;
     hideTip(true);
     if (fromUser) {
@@ -719,6 +722,9 @@
       btn.click();
     });
     window.addEventListener('hashchange', () => { const t = tabFromHash(); if (t) activate(t, true); });
+    // a fonte web e a rotação da tela mudam a largura dos botões: recentra a aba ativa
+    window.addEventListener('resize', centraAbaAtiva);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(centraAbaAtiva).catch(() => {});
     activate(tabFromHash() || 'linha', false);
   }
 

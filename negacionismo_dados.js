@@ -36,7 +36,7 @@ window.DADOS_NEGACIONISMO = {
     },
     {
       "pessoa": "eduardo",
-      "texto": "Sobre clima, o único registro que localizei foi uma ironia sobre o incêndio no pavilhão da COP30 (20/11/2025), em que ele criticou a conferência e o governo e disse que o fogo deveria ter 'poupado' o ambiente da poluição. A reportagem não o mostra negando a mudança climática. Sobre vacinas e covid, não achei declaração dele que tenha sido checada.",
+      "texto": "Além dos registros acima (AI-5, DiCaprio e queimadas, urnas, covid e vacinas), o único outro episódio sobre clima que localizei foi uma ironia sobre o incêndio no pavilhão da COP30 (20/11/2025), em que ele criticou a conferência e o governo e disse que o fogo deveria ter 'poupado' o ambiente da poluição. A reportagem não o mostra negando a mudança climática.",
       "fonte_nome": "Metrópoles: Eduardo ironiza a 'poluição' provocada pela COP30 (20/11/2025)",
       "fonte_url": "https://www.metropoles.com/brasil/apos-incendio-eduardo-ironiza-poluicao-provocada-pela-cop30",
       "ligacoes": []
@@ -67,6 +67,38 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Bolsonaro", "texto": "Na live de 26 de novembro de 2020, disse que falou apenas de sua condição física." },
+      "cronologia": [
+        { "data": "2020-03-20", "texto": "Em coletiva ao lado do ministro Luiz Henrique Mandetta, diz que não seria 'uma gripezinha' que o derrubaria.", "fonte_nome": "Congresso em Foco (26/11/2020)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/22630/bolsonaro-nega-uso-do-termo-gripezinha-mencionado-por-ele-duas-vezes" },
+        { "data": "2020-03-24", "texto": "Em pronunciamento gravado, diz que, pelo histórico de atleta, nada sentiria ou teria no máximo 'uma gripezinha ou resfriadinho', e ironiza o médico Dráuzio Varella.", "fonte_nome": "Congresso em Foco (26/11/2020)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/22630/bolsonaro-nega-uso-do-termo-gripezinha-mencionado-por-ele-duas-vezes" },
+        { "data": "2020-11-26", "texto": "Em live, nega ter usado o termo para a covid-19 e diz que não existe vídeo ou áudio seu com a expressão.", "fonte_nome": "Congresso em Foco (26/11/2020)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/22630/bolsonaro-nega-uso-do-termo-gripezinha-mencionado-por-ele-duas-vezes" }
+      ],
+      "consequencias": [
+        { "data": "2023-03-21", "texto": "O boletim do Ministério da Saúde soma 699.917 mortes por covid-19, perto das 700 mil. O país era o 11º em população e o 5º em número de mortes; a ministra Nísia Trindade disse que 'nada justifica isso'.", "fonte_nome": "Jornal de Brasília (28/03/2023)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-anunciara-700-mil-mortes-por-covid-no-brasil/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Mortes acumuladas por covid-19 no Brasil",
+          "unidade": "mortes",
+          "itens": [
+            { "nome": "28/04/2020", "valor": 5017 },
+            { "nome": "03/03/2021", "valor": 259271 },
+            { "nome": "08/04/2021", "valor": 345025 },
+            { "nome": "21/03/2023", "valor": 699917, "destaque": true }
+          ],
+          "leitura": "Três anos depois do pronunciamento de 24/03/2020, o total ficou perto de 700 mil.",
+          "ressalva": "Quatro boletins do Ministério da Saúde em datas diferentes; o de 28/04/2020 (5.017) é o do ministério, e a Johns Hopkins registrava 4.637 no mesmo dia.",
+          "fontes": [
+            { "nome": "A Gazeta (28/04/2020)", "url": "https://www.agazeta.com.br/brasil/e-dai-quer-que-eu-faca-o-que-diz-bolsonaro-sobre-mortos-por-coronavirus-0420" },
+            { "nome": "Correio Braziliense (04/03/2021)", "url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html" },
+            { "nome": "Agência Brasil (08/04/2021)", "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" },
+            { "nome": "Jornal de Brasília (28/03/2023)", "url": "https://jornaldebrasilia.com.br/noticias/brasil/ministerio-da-saude-anunciara-700-mil-mortes-por-covid-no-brasil/" }
+          ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-edai-2020", "motivo": "Um mês depois, respondeu 'E daí?' ao recorde de mortes." },
+        { "id": "nz-jair-aosfatos-1000-2020", "motivo": "A covid lidera os temas das falas falsas ou distorcidas contadas pelo Aos Fatos." }
+      ],
       "ligacoes": []
     },
     {
@@ -92,6 +124,32 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2020-04-28", "texto": "O Brasil registra 474 mortes em 24 horas e ultrapassa a China no total (5.017, segundo o Ministério da Saúde; 4.637, segundo a Johns Hopkins). Bolsonaro responde: 'E daí? Lamento. Quer que eu faça o quê? Eu sou Messias, mas não faço milagre'.", "fonte_nome": "A Gazeta (28/04/2020)", "fonte_url": "https://www.agazeta.com.br/brasil/e-dai-quer-que-eu-faca-o-que-diz-bolsonaro-sobre-mortos-por-coronavirus-0420" }
+      ],
+      "consequencias": [
+        { "data": "2021-04-08", "texto": "O país registra 4.249 mortes em 24 horas, e o total chega a 345.025.", "fonte_nome": "Agência Brasil", "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Mortes por covid-19 em 24 horas",
+          "unidade": "mortes",
+          "itens": [
+            { "nome": "28/04/2020, dia da fala", "valor": 474 },
+            { "nome": "08/04/2021, onze meses depois", "valor": 4249, "destaque": true }
+          ],
+          "leitura": "Onze meses depois, o recorde diário era quase nove vezes maior.",
+          "ressalva": "Números do Ministério da Saúde em dois dias diferentes; não indicam que a fala causou a alta.",
+          "fontes": [
+            { "nome": "A Gazeta (28/04/2020)", "url": "https://www.agazeta.com.br/brasil/e-dai-quer-que-eu-faca-o-que-diz-bolsonaro-sobre-mortos-por-coronavirus-0420" },
+            { "nome": "Agência Brasil (08/04/2021)", "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" }
+          ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-maricas-2020", "motivo": "Mesma linha de minimizar a pandemia e criticar as restrições." },
+        { "id": "nz-jair-gripezinha-2020", "motivo": "Um mês antes, havia chamado a covid-19 de 'gripezinha'." }
+      ],
       "ligacoes": []
     },
     {
@@ -132,6 +190,36 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Bolsonaro", "texto": "Diz que cada pessoa deve escolher, com seu médico, a forma de tratamento, e que os remédios são baratos e seguros." },
+      "cronologia": [
+        { "data": "2020-03-23", "texto": "Segundo o Ministério da Defesa, é a data do pedido para ampliar a produção de cloroquina no Laboratório do Exército; o documento não diz quem pediu. A reportagem fala em produção 'por ordem de Bolsonaro'; a Defesa diz que o primeiro lote já estava planejado desde 2019.", "fonte_nome": "O Povo (02/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/02/exercito-gastou-mais-de-r--1-milhao-com-comprimidos-de-cloroquina-em-2020.html" },
+        { "data": "2020-07-07", "texto": "Bolsonaro testa positivo para a covid-19.", "fonte_nome": "Jovem Pan (25/07/2020)", "fonte_url": "https://jovempan.com.br/brasil/bolsonaro-teste-covid-19-deu-negativo/" },
+        { "data": "2020-07-23", "texto": "Estudo da Coalizão Covid-19 Brasil, com 667 pacientes, não mostra benefício da hidroxicloroquina.", "fonte_nome": "Forbes Brasil", "fonte_url": "https://forbes.com.br/colunas/2020/07/hidroxicloroquina-nao-traz-melhoria-em-hospitalizados-com-covid-19-leve-ou-moderada-diz-estudo-brasileiro/" },
+        { "data": "2020-07-25", "texto": "Divulga novo teste negativo segurando uma caixa de hidroxicloroquina.", "fonte_nome": "Jovem Pan (25/07/2020)", "fonte_url": "https://jovempan.com.br/brasil/bolsonaro-teste-covid-19-deu-negativo/" },
+        { "data": "2020-10-23", "texto": "Diz a franceses que a cloroquina tomada no início dos sintomas teria '100% de cura' no Brasil.", "fonte_nome": "Estado de Minas (24/10/2020)", "fonte_url": "https://www.em.com.br/app/noticia/politica/2020/10/24/interna_politica,1197790/bolsonaro-a-franceses-em-brasilia-brasil-cloroquina-tem-100-cura.shtml" },
+        { "data": "2021-05-07", "texto": "Depois das críticas na CPI, defende o 'tratamento precoce' e diz que cada um é 'livre para escolher, com o seu médico'.", "fonte_nome": "CNN Brasil (07/05/2021)", "fonte_url": "https://www.cnnbrasil.com.br/politica/bolsonaro-defende-hidroxicloroquina-e-ivermectina-apos-criticas-na-cpi/" },
+        { "data": "2021-07-14", "texto": "O Ministério da Saúde admite à CPI que o 'kit covid' não teve benefício clínico em internados.", "fonte_nome": "Congresso em Foco (14/07/2021)", "fonte_url": "https://congressoemfoco.com.br/noticia/21691/saude-admite-ineficacia-de-cloroquina-e-outros-medicamentos-do-kit-covid" }
+      ],
+      "consequencias": [
+        { "data": "2021-06-02", "texto": "Um processo no TCU, sob relatoria do ministro Benjamin Zymler, cobra do governo os valores das compras de insumos para a produção no Laboratório do Exército; o estoque em janeiro de 2021 era de cerca de 400 mil unidades.", "fonte_nome": "O Povo", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/02/exercito-gastou-mais-de-r--1-milhao-com-comprimidos-de-cloroquina-em-2020.html" },
+        { "data": "2021-10-26", "texto": "O relatório final da CPI da Pandemia atribui a Bolsonaro nove crimes, entre eles charlatanismo e epidemia com resultado morte.", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Comprimidos de cloroquina produzidos pelo Laboratório do Exército",
+          "unidade": "comprimidos",
+          "itens": [
+            { "nome": "2017", "valor": 259470 },
+            { "nome": "2020", "valor": 3200000, "destaque": true }
+          ],
+          "leitura": "A produção de 2020 foi cerca de 12 vezes a de 2017, e o gasto passou de R$ 43,4 mil para R$ 1,14 milhão.",
+          "ressalva": "A Defesa afirma que o primeiro lote já estava planejado desde 2019, e o TCU ainda questionava os valores quando a reportagem foi publicada.",
+          "fontes": [ { "nome": "O Povo (02/06/2021)", "url": "https://www.opovo.com.br/noticias/politica/2021/06/02/exercito-gastou-mais-de-r--1-milhao-com-comprimidos-de-cloroquina-em-2020.html" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-teich-2020", "motivo": "Teich disse à CPI que deixou o ministério pelo pedido específico de uso da cloroquina." },
+        { "id": "nz-flavio-cloroquina-2020", "motivo": "O filho seguiu o mesmo tratamento ao ter covid-19." }
+      ],
       "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
     },
     {
@@ -153,6 +241,16 @@ window.DADOS_NEGACIONISMO = {
       "ciencia": [],
       "resposta": null,
       "ressalva": "A decisão foi do governo Bolsonaro; o depoimento é de um ex-ministro. O Aos Fatos checou a fala de Teich e apontou que ele também distorceu fatos ao se eximir de responsabilidade sobre a cloroquina.",
+      "cronologia": [
+        { "data": "2020-05-15", "texto": "Nelson Teich deixa o Ministério da Saúde, menos de um mês depois de assumir.", "fonte_nome": "Congresso em Foco (05/05/2021)", "fonte_url": "https://congressoemfoco.com.br/noticia/14620/cpi-da-covid-nelson-teich-cloroquina" },
+        { "data": "2021-05-05", "texto": "Na CPI, diz: 'Pedi demissão pelo pedido específico de uso da cloroquina'; afirma que o uso era tecnicamente inadequado e que não tinha autonomia.", "fonte_nome": "Congresso em Foco (05/05/2021)", "fonte_url": "https://congressoemfoco.com.br/noticia/14620/cpi-da-covid-nelson-teich-cloroquina" }
+      ],
+      "consequencias": [
+        { "data": "2021-05-05", "texto": "O presidente da CPI, Omar Aziz, observa que Bolsonaro sempre defendeu publicamente a cloroquina, de modo que a fala de Teich não era novidade.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://congressoemfoco.com.br/noticia/14620/cpi-da-covid-nelson-teich-cloroquina" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-cloroquina-2020", "motivo": "O mesmo debate: pressão do presidente pela cloroquina." }
+      ],
       "ligacoes": []
     },
     {
@@ -179,6 +277,16 @@ window.DADOS_NEGACIONISMO = {
       ],
       "resposta": null,
       "ressalva": "A reportagem da Gazeta não informa quantas mortes havia no país na data da fala.",
+      "cronologia": [
+        { "data": "2020-11-10", "texto": "Num evento com empresários do turismo, diz que é preciso 'deixar de ser um país de maricas' e acusa governantes de 'amedrontar o povo' com a segunda onda.", "fonte_nome": "A Gazeta (10/11/2020)", "fonte_url": "https://www.agazeta.com.br/brasil/tem-que-deixar-de-ser-um-pais-de-maricas-diz-bolsonaro-sobre-covid-19-1120" }
+      ],
+      "consequencias": [
+        { "data": "2021-04-06", "texto": "A segunda onda se confirma: o país passa de 4 mil mortes em um dia (4.195).", "fonte_nome": "Agência Brasil (08/04/2021)", "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" },
+        { "data": "2021-04-08", "texto": "Novo recorde: 4.249 mortes em 24 horas; total de 345.025.", "fonte_nome": "Agência Brasil", "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-edai-2020", "motivo": "Mesma linha de minimizar a pandemia." }
+      ],
       "ligacoes": []
     },
     {
@@ -216,6 +324,34 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Governo", "texto": "Chamou de 'leoninas' as cláusulas de responsabilidade propostas pela Pfizer." },
+      "cronologia": [
+        { "data": "2020-10-21", "texto": "Diz que 'o povo brasileiro não será cobaia de ninguém' e desautoriza a compra da CoronaVac.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2020-12-15", "texto": "Diz: 'Eu não vou tomar vacina. E ponto final'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2020-12-17", "texto": "Sobre a Pfizer: 'Se você virar um jacaré, problema de você'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2021-01-17", "texto": "A Anvisa aprova a CoronaVac e a vacina de Oxford.", "fonte_nome": "A Gazeta (17/01/2021)", "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121" },
+        { "data": "2021-03-19", "texto": "O governo fecha o acordo com a Pfizer, para 100 milhões de doses.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" }
+      ],
+      "consequencias": [
+        { "data": "2021-06-24", "texto": "Pedro Hallal diz à CPI que cerca de 400 mil mortes poderiam ter sido evitadas e que 95,5 mil estariam ligadas à demora em assinar contratos de vacinas.", "fonte_nome": "TNH1 (Folhapress)", "fonte_url": "https://www.tnh1.com.br/noticia/nid/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Mortes evitáveis estimadas por Pedro Hallal à CPI",
+          "unidade": "mortes",
+          "itens": [
+            { "nome": "Evitáveis com controle da pandemia (vacinas, isolamento, máscaras)", "valor": 400000 },
+            { "nome": "Das quais, ligadas à demora nos contratos de vacinas", "valor": 95500, "destaque": true }
+          ],
+          "leitura": "Segundo a estimativa, a demora nos contratos responde por cerca de um quarto das mortes evitáveis.",
+          "ressalva": "São estimativas e projeções apresentadas à CPI, não uma contagem; o 'cerca de um quarto' é a razão entre os dois números.",
+          "fontes": [ { "nome": "TNH1 (Folhapress, 24/06/2021)", "url": "https://www.tnh1.com.br/noticia/nid/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-pfizer-ofertas-2020", "motivo": "As ofertas da Pfizer em 2020 ficaram sem resposta." },
+        { "id": "nz-jair-criancas-anvisa-2021", "motivo": "Em dezembro de 2021 repetiu que não tomaria a vacina e questionou a vacinação infantil." },
+        { "id": "nz-flavio-vacina-2021", "motivo": "Flávio disse em 2025 que o pai 'não quis tomar a vacina'." }
+      ],
       "ligacoes": ["f09-jair-cartao-vacina-2024"]
     },
     {
@@ -244,6 +380,44 @@ window.DADOS_NEGACIONISMO = {
       ],
       "resposta": { "quem": "Governo", "texto": "O então ministro Eduardo Pazuello sustentou que as propostas foram respondidas, e o ex-secretário Élcio Franco disse que a Pfizer era 'redundante' nos e-mails, segundo reportagens sobre a CPI." },
       "ressalva": "A omissão é atribuída ao governo, e a CPI a relacionou à postura do presidente; não é uma declaração isolada.",
+      "cronologia": [
+        { "data": "2020-08-14", "texto": "A Pfizer faz a primeira oferta, de 70 milhões de doses, com prazo de 15 dias para resposta, que não foi atendido.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" },
+        { "data": "2020-08-26", "texto": "Houve novas ofertas em 18 e 26 de agosto, todas com entrega prevista ainda em 2020.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" },
+        { "data": "2020-11-10", "texto": "A Pfizer havia enviado 53 e-mails ao governo, 47 sem resposta até esta data, segundo Randolfe Rodrigues.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" },
+        { "data": "2021-02", "texto": "A Pfizer faz proposta de 100 milhões de doses.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" },
+        { "data": "2021-03-19", "texto": "O governo fecha o acordo; o primeiro lote chega no fim de abril.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" },
+        { "data": "2021-05-13", "texto": "Carlos Murillo, da Pfizer, depõe à CPI e relata as ofertas.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" }
+      ],
+      "consequencias": [
+        { "data": "2021-06-24", "texto": "Hallal estima 95,5 mil mortes evitáveis ligadas à demora nos contratos.", "fonte_nome": "TNH1 (Folhapress)", "fonte_url": "https://www.tnh1.com.br/noticia/nid/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "E-mails da Pfizer ao governo até 10/11/2020",
+          "unidade": "e-mails",
+          "itens": [
+            { "nome": "Enviados", "valor": 53 },
+            { "nome": "Sem resposta", "valor": 47, "destaque": true }
+          ],
+          "leitura": "Segundo a contagem do vice-presidente da CPI, 47 dos 53 e-mails não tiveram resposta.",
+          "ressalva": "Outras contagens citadas por reportagens chegam a 81 e-mails; o governo diz que as propostas foram respondidas.",
+          "fontes": [ { "nome": "O Povo (04/06/2021)", "url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" } ]
+        },
+        {
+          "rotulo": "Doses oferecidas pela Pfizer",
+          "unidade": "milhões de doses",
+          "itens": [
+            { "nome": "Primeira oferta (14/08/2020)", "valor": 70 },
+            { "nome": "Proposta de fevereiro de 2021", "valor": 100 }
+          ],
+          "leitura": "O acordo fechado em março de 2021 foi para 100 milhões de doses.",
+          "ressalva": "As ofertas de 2020 tinham entrega prevista ainda em 2020; o acordo de 2021, não.",
+          "fontes": [ { "nome": "O Povo (04/06/2021)", "url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-vacina-recusa-2020", "motivo": "No mesmo período, ele disse que não tomaria a vacina e falou em 'virar jacaré'." }
+      ],
       "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
     },
     {
@@ -270,6 +444,19 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2021-06-07", "texto": "O TCU afirma em nota que nenhum relatório seu dizia que o número de mortes era menor que o registrado.", "fonte_nome": "Poder360 (12/06/2021)", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "data": "2021-06-09", "texto": "Pergunta se 'a vacina tem comprovação científica ou está em estado experimental ainda'.", "fonte_nome": "Poder360 (12/06/2021)", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "data": "2021-06-12", "texto": "Depois da motociata, diz que nada está 'comprovado cientificamente' e cita um documento 'não conclusivo' do TCU.", "fonte_nome": "Poder360 (12/06/2021)", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "data": "2021-06-17", "texto": "Em live, diz que quem se contaminou está vacinado 'até de forma mais eficaz que a própria vacina'.", "fonte_nome": "O Povo (18/06/2021)", "fonte_url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html" }
+      ],
+      "consequencias": [
+        { "data": "", "texto": "Segundo o Poder360, o auditor autor do documento foi afastado das funções; a data do afastamento não consta da matéria.", "fonte_nome": "Poder360", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-mascaras-2020", "motivo": "Na mesma fala, pediu que se estudasse dispensar a máscara a vacinados." },
+        { "id": "nz-jair-imunidade-2021", "motivo": "Cinco dias depois, disse que quem teve covid está vacinado 'de forma mais eficaz'." }
+      ],
       "ligacoes": []
     },
     {
@@ -296,6 +483,32 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2021-07", "texto": "O YouTube apaga 14 transmissões do presidente que defendiam remédios sem eficácia.", "fonte_nome": "Aos Fatos (25/10/2021)", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" },
+        { "data": "2021-10-21", "texto": "Em live, lê o título de um texto que associa falsamente a vacina à Aids.", "fonte_nome": "Aos Fatos (25/10/2021)", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" },
+        { "data": "2021-10-24", "texto": "Facebook e Instagram removem a live.", "fonte_nome": "Aos Fatos (25/10/2021)", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" },
+        { "data": "2021-10-25", "texto": "O YouTube remove o vídeo e o impede de publicar por sete dias.", "fonte_nome": "Aos Fatos (25/10/2021)", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" }
+      ],
+      "consequencias": [
+        { "data": "2021-10-25", "texto": "Foi a primeira vez que as plataformas removeram um vídeo do presidente por desinformação; a live tinha mais de 210 mil visualizações.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Transmissões do presidente removidas pelo YouTube",
+          "unidade": "transmissões",
+          "itens": [
+            { "nome": "Julho de 2021 (remédios sem eficácia)", "valor": 14 },
+            { "nome": "Outubro de 2021 (vacina e Aids)", "valor": 1 }
+          ],
+          "leitura": "Em outubro, Facebook e Instagram também removeram a live; o YouTube, além disso, o impediu de publicar por sete dias.",
+          "ressalva": "Contagem do Aos Fatos sobre o YouTube.",
+          "fontes": [ { "nome": "Aos Fatos (25/10/2021)", "url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-criancas-anvisa-2021", "motivo": "Dois meses depois, questionou a vacina infantil." },
+        { "id": "nz-jair-vacina-recusa-2020", "motivo": "Dúvidas sobre a vacina em 2020 e em 2021, nas falas e nas lives do presidente." }
+      ],
       "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
     },
     {
@@ -326,6 +539,34 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Anvisa", "texto": "Em nota, disse que seu ambiente de trabalho é 'avesso a pressões externas'." },
+      "cronologia": [
+        { "data": "2021-12-08", "texto": "Diz: 'Da minha parte, eu não tomei vacina e não vou tomar vacina'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2021-12-16", "texto": "A Anvisa aprova a vacina da Pfizer para crianças de 5 a 11 anos, depois de 35 dias de análise.", "fonte_nome": "Tribuna de Jundiaí (16/12/2021)", "fonte_url": "https://tribunadejundiai.com.br/saude/coronavirus/anvisa-aprova-vacina-da-pfizer-para-criancas-de-5-a-11-anos/" },
+        { "data": "2021-12-16", "texto": "Bolsonaro diz ter pedido, informalmente, o nome dos técnicos que aprovaram a vacinação infantil.", "fonte_nome": "Poder360 (19/12/2021)", "fonte_url": "https://www.poder360.com.br/governo/inacreditavel-o-que-a-anvisa-fez-diz-bolsonaro/" },
+        { "data": "2021-12-19", "texto": "Chama a liberação de 'inacreditável'.", "fonte_nome": "Poder360 (19/12/2021)", "fonte_url": "https://www.poder360.com.br/governo/inacreditavel-o-que-a-anvisa-fez-diz-bolsonaro/" },
+        { "data": "2021-12-27", "texto": "Diz que 'não vem morrendo crianças que justifique uma vacina emergencial'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2022-01-12", "texto": "Diz que a vacinação das crianças não se justificava 'pelos efeitos colaterais adversos'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" }
+      ],
+      "consequencias": [
+        { "data": "2021-12-16", "texto": "A Anvisa, em nota, diz que seu ambiente de trabalho é 'avesso a pressões externas'.", "fonte_nome": "Poder360 (19/12/2021)", "fonte_url": "https://www.poder360.com.br/governo/inacreditavel-o-que-a-anvisa-fez-diz-bolsonaro/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Reforço contra a pólio em crianças de 1 a 4 anos (até 16/09/2022)",
+          "unidade": "% das crianças",
+          "itens": [
+            { "nome": "Receberam o reforço", "valor": 44, "destaque": true },
+            { "nome": "Meta do Ministério da Saúde", "valor": 95 }
+          ],
+          "leitura": "A Opas incluiu o Brasil entre os países de alto risco de reintrodução da pólio.",
+          "ressalva": "É um dado sobre outra vacina. A reportagem do Olhar Digital não o atribui a nenhuma fala de Bolsonaro; entra aqui só como contexto da cobertura vacinal infantil no país.",
+          "fontes": [ { "nome": "Olhar Digital (22/09/2022)", "url": "https://olhardigital.com.br/2022/09/22/medicina-e-saude/poliomielite-brasil-corre-alto-risco-de-reintroducao-da-doenca/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-vacina-recusa-2020", "motivo": "Mesma recusa pessoal à vacina, em 2020 e 2021." },
+        { "id": "nz-jair-aids-2021", "motivo": "Dois meses antes, havia associado falsamente a vacina à Aids, em live." }
+      ],
       "ligacoes": ["f09-jair-cartao-vacina-2024"]
     },
     {
@@ -364,6 +605,43 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Marcos Pontes (ministro)", "texto": "Em setembro de 2019, disse ao Senado que a saída foi por 'perda de confiança', que o material do Inpe estava correto, mas foi mal interpretado, e que houve 'erro de comunicação'." },
+      "cronologia": [
+        { "data": "2019-06", "texto": "O sistema Deter registra alta de 88% no desmatamento sobre junho de 2018.", "fonte_nome": "Jornal do Brasil (04/08/2019)", "fonte_url": "https://www.jb.com.br/pais/2019/08/1012667-aumento-acentuado-do-desmatamento-e-inegavel--diz-diretor-exonerado-do-inpe.html" },
+        { "data": "2019-07-19", "texto": "Bolsonaro diz que os dados do Inpe 'não eram verdadeiros'.", "fonte_nome": "Tribuna de Jundiaí (02/08/2019)", "fonte_url": "https://tribunadejundiai.com.br/politica/diretor-do-inpe-e-exonerado-apos-discordancia-de-bolsonaro-sobre-desmatamento/" },
+        { "data": "2019-08-02", "texto": "O diretor Ricardo Galvão é exonerado depois de reunião com o ministro Marcos Pontes.", "fonte_nome": "Tribuna de Jundiaí (02/08/2019)", "fonte_url": "https://tribunadejundiai.com.br/politica/diretor-do-inpe-e-exonerado-apos-discordancia-de-bolsonaro-sobre-desmatamento/" },
+        { "data": "2019-08-04", "texto": "Galvão diz que o aumento do desmatamento é 'inegável'.", "fonte_nome": "Jornal do Brasil (04/08/2019)", "fonte_url": "https://www.jb.com.br/pais/2019/08/1012667-aumento-acentuado-do-desmatamento-e-inegavel--diz-diretor-exonerado-do-inpe.html" },
+        { "data": "2019-09-17", "texto": "Pontes diz ao Senado que a saída foi por 'perda de confiança' e que houve 'erro de comunicação'.", "fonte_nome": "Agência Senado (17/09/2019)", "fonte_url": "https://www12.senado.leg.br/noticias/materias/2019/09/17/diretor-do-inpe-caiu-por-perda-de-confianca-diz-marcos-pontes" }
+      ],
+      "consequencias": [
+        { "data": "2022-11-30", "texto": "O SBT News registra que a taxa consolidada de 2021 foi de 13.038 km², a mais alta em 13 anos segundo o Observatório do Clima, e que o desmatamento subiu 59,5% sob o governo Bolsonaro, a maior alta de um mandato desde 1988 (a matéria não atribui explicitamente esse último dado ao Observatório).", "fonte_nome": "SBT News (30/11/2022)", "fonte_url": "https://sbtnews.sbt.com.br/noticia/brasil/231989-inpe-estimativa-de-desmatamento-na-amazonia-em-2022-reduz-11" },
+        { "data": "2024-05-24", "texto": "O Inpe divulga a taxa consolidada de 2023: 9.064 km², queda de 21,8% sobre 2022.", "fonte_nome": "Portal Amazônia (24/05/2024)", "fonte_url": "https://portalamazonia.com/meio-ambiente/taxa-consolidada-desmatamento-amazonia-2023/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Desmatamento anual da Amazônia Legal (Prodes/Inpe)",
+          "unidade": "km²",
+          "itens": [
+            { "nome": "2018", "valor": 7536 },
+            { "nome": "2019", "valor": 10129 },
+            { "nome": "2020", "valor": 10851 },
+            { "nome": "2021", "valor": 13038, "destaque": true },
+            { "nome": "2022", "valor": 11594 },
+            { "nome": "2023", "valor": 9064 }
+          ],
+          "leitura": "A taxa subiu de 2018 a 2021 e caiu em 2022 e 2023. O que Bolsonaro contestou, em julho de 2019, era o alerta mensal do Deter, e o Prodes anual confirmou a alta.",
+          "ressalva": "Cada ano Prodes vai de agosto a julho (2023 = ago/2022 a jul/2023). Os valores vêm de fontes distintas (FAPESP, nota técnica do Inpe sobre 2021, SBT News e Portal Amazônia); o de 2020 é o da nota técnica do Inpe sobre o Prodes 2021. O aumento de 2021 não prova causa nem autoria de uma declaração específica.",
+          "fontes": [
+            { "nome": "Pesquisa FAPESP (2018 e 2019)", "url": "https://revistapesquisa.fapesp.br/desmatamento-na-amazonia-cresceu-34-em-2019/" },
+            { "nome": "Inpe: nota técnica do Prodes 2021 (2020 e 2021)", "url": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/nota-tecnica-prodes/NotaTecnica_consolidado_PRODES_2021_rev.pdf" },
+            { "nome": "SBT News (13.038 km² em 2021)", "url": "https://sbtnews.sbt.com.br/noticia/brasil/231989-inpe-estimativa-de-desmatamento-na-amazonia-em-2022-reduz-11" },
+            { "nome": "Portal Amazônia (2022 e 2023)", "url": "https://portalamazonia.com/meio-ambiente/taxa-consolidada-desmatamento-amazonia-2023/" }
+          ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-ongs-queimadas-2019", "motivo": "No mês seguinte, sem provas, apontou ONGs como suspeitas das queimadas." },
+        { "id": "nz-jair-onu-2020", "motivo": "Em 2020, na ONU, atribuiu as queimadas a 'índios e caboclos' e falou em 'campanha de desinformação'." }
+      ],
       "ligacoes": []
     },
     {
@@ -390,6 +668,32 @@ window.DADOS_NEGACIONISMO = {
       ],
       "resposta": null,
       "ressalva": "A reportagem da Exame não traz resposta das ONGs; outras reportagens registram que 118 ONGs assinaram um manifesto rejeitando a acusação.",
+      "cronologia": [
+        { "data": "2019-08-10", "texto": "Salto de 300% nos focos em Novo Progresso (PA), depois de um 'dia do fogo' combinado entre fazendeiros e grileiros.", "fonte_nome": "Exame (Reuters, 21/08/2019)", "fonte_url": "https://exame.com/brasil/sem-provas-bolsonaro-diz-que-ongs-podem-estar-por-tras-de-queimadas/" },
+        { "data": "2019-08-21", "texto": "Bolsonaro diz que ONGs 'podem estar' por trás das queimadas, mas ressalva que 'não estou afirmando'; não apresenta provas.", "fonte_nome": "Exame (Reuters, 21/08/2019)", "fonte_url": "https://exame.com/brasil/sem-provas-bolsonaro-diz-que-ongs-podem-estar-por-tras-de-queimadas/" },
+        { "data": "2019-11-26", "texto": "A Polícia Civil do Pará prende quatro brigadistas de Alter do Chão, suspeitos de iniciar queimadas para obter doações; são soltos dois dias depois.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" },
+        { "data": "2019-11-29", "texto": "Bolsonaro acusa DiCaprio de 'colaborar com a queimada na Amazônia'.", "fonte_nome": "Bahia Notícias (29/11/2019)", "fonte_url": "https://www.bahianoticias.com.br/cultura/noticia/36502-sem-provas-bolsonaro-acusa-dicaprio-de-colaborar-com-queimadas-na-amazonia" }
+      ],
+      "consequencias": [
+        { "data": "", "texto": "Em outro caso, a PF concluiu, depois de perícia de quatro meses, que não havia indício de participação de brigadistas ou ONGs nos incêndios de Alter do Chão (ver o registro de DiCaprio).", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Focos de queimadas de 1º de janeiro a 18 de agosto",
+          "unidade": "focos",
+          "itens": [
+            { "nome": "2018", "valor": 39194 },
+            { "nome": "2019", "valor": 71497, "destaque": true }
+          ],
+          "leitura": "Alta de 82% sobre 2018, segundo o Inpe; a Amazônia respondeu por 51,9% dos casos.",
+          "ressalva": "Os números são do Inpe, na reportagem da Reuters; focos de calor medem satélites, não áreas queimadas.",
+          "fontes": [ { "nome": "Exame (Reuters, 21/08/2019)", "url": "https://exame.com/brasil/sem-provas-bolsonaro-diz-que-ongs-podem-estar-por-tras-de-queimadas/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-onu-2020", "motivo": "Mesma lógica: atribuir o fogo a terceiros ou ao clima local." },
+        { "id": "nz-jair-inpe-2019", "motivo": "Um mês antes, havia dito que os dados do Inpe sobre desmatamento 'não eram verdadeiros'." }
+      ],
       "ligacoes": []
     },
     {
@@ -424,6 +728,29 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2020-09-22", "texto": "Na ONU, atribui o fogo ao 'caboclo e ao índio' e fala em 'campanha de desinformação' sobre a Amazônia e o Pantanal.", "fonte_nome": "Brasil de Fato (22/09/2020)", "fonte_url": "https://www.brasildefato.com.br/2020/09/22/bolsonaro-culpa-indios-caboclos-midia-e-ongs-por-queimadas-e-consequencias-da-covid" },
+        { "data": "2020-09", "texto": "O Inpe contou 5.820 focos no Pantanal até o dia 22, recorde para o mês.", "fonte_nome": "Revista Pesquisa FAPESP (10/2020)", "fonte_url": "https://revistapesquisa.fapesp.br/recorde-de-queimadas-no-pantanal-em-2020/" }
+      ],
+      "consequencias": [
+        { "data": "2020-10", "texto": "A FAPESP registra que mais da metade das áreas em chamas no Pantanal fica em propriedades privadas.", "fonte_nome": "Revista Pesquisa FAPESP", "fonte_url": "https://revistapesquisa.fapesp.br/recorde-de-queimadas-no-pantanal-em-2020/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Focos de calor no Pantanal em 2020",
+          "unidade": "focos",
+          "itens": [
+            { "nome": "1º semestre", "valor": 2534 },
+            { "nome": "Só em setembro, até o dia 22", "valor": 5820, "destaque": true }
+          ],
+          "leitura": "Setembro, em 22 dias, teve mais que o dobro dos focos do primeiro semestre inteiro.",
+          "ressalva": "O primeiro semestre teve 158% mais focos que o de 2019, segundo o Inpe.",
+          "fontes": [ { "nome": "Revista Pesquisa FAPESP", "url": "https://revistapesquisa.fapesp.br/recorde-de-queimadas-no-pantanal-em-2020/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-inpe-2019", "motivo": "Mesmo debate sobre os dados do Inpe e a origem do fogo." }
+      ],
       "ligacoes": []
     },
     {
@@ -450,6 +777,28 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Bolsonaro", "texto": "A assessoria não respondeu aos pedidos de esclarecimento do Aos Fatos." },
+      "cronologia": [
+        { "data": "2019-01", "texto": "O Aos Fatos começa a contar as declarações falsas ou distorcidas do presidente, desde o início do mandato.", "fonte_nome": "Aos Fatos (08/05/2020)", "fonte_url": "https://www.aosfatos.org/noticias/bolsonaro-chega-1000-declaracoes-falsas-ou-distorcidas-com-492-dias-de-mandato/" },
+        { "data": "2020-05-07", "texto": "O contador chega a 1.000 declarações falsas ou distorcidas, em 492 dias de mandato.", "fonte_nome": "Aos Fatos (08/05/2020)", "fonte_url": "https://www.aosfatos.org/noticias/bolsonaro-chega-1000-declaracoes-falsas-ou-distorcidas-com-492-dias-de-mandato/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Participação de cada tema nas declarações falsas ou distorcidas",
+          "unidade": "% das declarações enganosas",
+          "itens": [
+            { "nome": "Covid-19", "valor": 22.7, "destaque": true },
+            { "nome": "Economia", "valor": 14 },
+            { "nome": "Meio ambiente", "valor": 8.8 }
+          ],
+          "leitura": "De 1.684 falas checadas, cerca de 60% eram falsas ou distorcidas, em média duas por dia.",
+          "ressalva": "Contagem de uma agência de checagem, com critérios próprios; as falas verdadeiras são compiladas, mas não entram na contagem.",
+          "fontes": [ { "nome": "Aos Fatos (08/05/2020)", "url": "https://www.aosfatos.org/noticias/bolsonaro-chega-1000-declaracoes-falsas-ou-distorcidas-com-492-dias-de-mandato/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-inpe-2019", "motivo": "O meio ambiente aparece entre os temas das falas enganosas." },
+        { "id": "nz-jair-gripezinha-2020", "motivo": "A covid lidera os temas." }
+      ],
       "ligacoes": []
     },
     {
@@ -476,6 +825,30 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Ministro da Defesa", "texto": "Fernando Azevedo e Silva disse que o termo 'comemoração' não era o correto para o aniversário, segundo outras reportagens." },
+      "cronologia": [
+        { "data": "2011", "texto": "A presidente Dilma Rousseff suspende atividades comemorativas do 31 de março nas unidades militares.", "fonte_nome": "Jornal de Brasília (26/03/2019)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-determina-que-sejam-feitas-comemoracoes-devidas-a-64/" },
+        { "data": "2014-12-10", "texto": "A Comissão Nacional da Verdade entrega o relatório final: 434 mortos e desaparecidos.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://www.congressoemfoco.com.br/noticia/53424/comissao-aponta-434-mortos-e-desaparecidos-na-ditadura" },
+        { "data": "2019-03-25", "texto": "Bolsonaro determina ao Ministério da Defesa as 'comemorações devidas' dos 55 anos do golpe, segundo o Estadão.", "fonte_nome": "Jornal de Brasília (Agência Estado, 26/03/2019)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-determina-que-sejam-feitas-comemoracoes-devidas-a-64/" },
+        { "data": "2019-03-26", "texto": "O porta-voz diz que o presidente 'não considera 31 de março de 1964 um golpe militar'.", "fonte_nome": "Jornal de Brasília (26/03/2019)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-determina-que-sejam-feitas-comemoracoes-devidas-a-64/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Comissão Nacional da Verdade: mortes e desaparecimentos na ditadura",
+          "unidade": "casos",
+          "itens": [
+            { "nome": "Mortos e desaparecidos confirmados", "valor": 434, "destaque": true },
+            { "nome": "Dos quais, desaparecidos", "valor": 210 }
+          ],
+          "leitura": "O relatório também responsabilizou mais de 300 pessoas e concluiu que a repressão foi política de Estado.",
+          "ressalva": "O relatório é de dezembro de 2014.",
+          "fontes": [ { "nome": "Congresso em Foco", "url": "https://www.congressoemfoco.com.br/noticia/53424/comissao-aponta-434-mortos-e-desaparecidos-na-ditadura" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-eduardo-ai5-2019", "motivo": "Em novembro de 2019, Eduardo falou em um 'novo AI-5'." },
+        { "id": "nz-jair-santa-cruz-2019", "motivo": "Quatro meses depois, o presidente contestou a morte de um desaparecido político, Fernando Santa Cruz." },
+        { "id": "nz-jair-ustra-2016", "motivo": "Em 2016, ainda deputado, havia homenageado o coronel Ustra na votação do impeachment." }
+      ],
       "ligacoes": []
     },
     {
@@ -501,6 +874,18 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Eduardo Bolsonaro", "texto": "Segundo reportagens, chamou a fala de 'um pouco infeliz', disse que era um cenário hipotético e que não defende a volta do AI-5." },
+      "cronologia": [
+        { "data": "2019-10", "texto": "Em entrevista, no fim do mês, diz que o AI-5 poderia ser a resposta do governo a uma eventual radicalização da esquerda.", "fonte_nome": "Money Times (26/11/2019)", "fonte_url": "https://www.moneytimes.com.br/conselho-de-etica-da-camara-instaura-processos-contra-eduardo-bolsonaro/" },
+        { "data": "2019-11-26", "texto": "O Conselho de Ética da Câmara abre dois processos contra Eduardo: um pela menção ao AI-5 e outro por ofensas à deputada Joice Hasselmann.", "fonte_nome": "Money Times (26/11/2019)", "fonte_url": "https://www.moneytimes.com.br/conselho-de-etica-da-camara-instaura-processos-contra-eduardo-bolsonaro/" }
+      ],
+      "consequencias": [
+        { "data": "", "texto": "O general Augusto Heleno disse desconhecer a fala, e o ministro Paulo Guedes a chamou de 'inconcebível'; a reportagem não informa a data dessas reações.", "fonte_nome": "Money Times (26/11/2019)", "fonte_url": "https://www.moneytimes.com.br/conselho-de-etica-da-camara-instaura-processos-contra-eduardo-bolsonaro/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-31marco-2019", "motivo": "O pai havia mandado celebrar o golpe de 1964 em março do mesmo ano." },
+        { "id": "nz-jair-santa-cruz-2019", "motivo": "Quatro meses antes, o pai contestou a morte de um desaparecido político, Fernando Santa Cruz." },
+        { "id": "nz-jair-ustra-2016", "motivo": "Em 2016, o pai havia homenageado o coronel Ustra na votação do impeachment." }
+      ],
       "ligacoes": ["e04-eduardo-novo-ai5-2019"]
     },
     {
@@ -528,6 +913,19 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2021-07-29", "texto": "Em live, diz ter 'indícios fortíssimos' de fraude, defende o voto impresso e admite: 'Não temos provas'.", "fonte_nome": "Poder360 (19/07/2022)", "fonte_url": "https://www.poder360.com.br/midia/youtube-tira-do-ar-live-de-bolsonaro-de-2021-sobre-urnas/" },
+        { "data": "2021-08-02", "texto": "O TSE decide, por unanimidade, abrir inquérito administrativo e incluir Bolsonaro no inquérito das fake news do STF.", "fonte_nome": "CUT (03/08/2021)", "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" },
+        { "data": "2021-08-10", "texto": "A Câmara rejeita a PEC do voto impresso por 229 a 218.", "fonte_nome": "Agência Câmara (10/08/2021)", "fonte_url": "https://www.camara.leg.br/noticias/792343-camara-rejeita-proposta-que-tornava-obrigatorio-o-voto-impresso/" },
+        { "data": "2022-07-18", "texto": "O YouTube retira a live do ar.", "fonte_nome": "Poder360 (19/07/2022)", "fonte_url": "https://www.poder360.com.br/midia/youtube-tira-do-ar-live-de-bolsonaro-de-2021-sobre-urnas/" }
+      ],
+      "consequencias": [
+        { "data": "2021-08-02", "texto": "Inquérito administrativo no TSE e inclusão de Bolsonaro no inquérito das fake news do STF.", "fonte_nome": "CUT", "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" },
+        { "data": "2023-06-30", "texto": "O TSE o torna inelegível por oito anos, por 5 votos a 2, pela reunião com embaixadores de 2022.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-embaixadores-2022", "motivo": "A mesma tese de fraude voltou à reunião com embaixadores, em julho de 2022." }
+      ],
       "ligacoes": ["j08-vazamento-inquerito-tse-2022", "f08-tse-jair-inelegivel-2023"]
     },
     {
@@ -553,6 +951,29 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": { "quem": "Defesa", "texto": "Sinalizou recurso ao STF, alegando uso de prova indevida, como a minuta do golpe encontrada na casa de Anderson Torres." },
+      "cronologia": [
+        { "data": "2022-07", "texto": "No Palácio da Alvorada, Bolsonaro reúne embaixadores estrangeiros e ataca o sistema eleitoral.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" },
+        { "data": "2023-06-30", "texto": "O TSE conclui, por 5 votos a 2, que o encontro serviu para atacar o sistema eleitoral e promover a candidatura, e declara a inelegibilidade por oito anos.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "consequencias": [
+        { "data": "2023-06-30", "texto": "Inelegível até 2030; votaram vencidos Raul Araújo e Kassio Nunes Marques. A defesa sinalizou recurso ao STF.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Votos no TSE sobre a reunião com embaixadores (30/06/2023)",
+          "unidade": "votos",
+          "itens": [
+            { "nome": "Pela condenação", "valor": 5, "destaque": true },
+            { "nome": "Contra", "valor": 2 }
+          ],
+          "leitura": "Os dois votos vencidos viram a reunião como reação espontânea a um encontro promovido pelo TSE dias antes.",
+          "ressalva": "A decisão é do TSE; a defesa disse que recorreria ao STF, alegando prova indevida.",
+          "fontes": [ { "nome": "InfoMoney (30/06/2023)", "url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-urnas-live-2021", "motivo": "A tese de fraude vinha da live de 2021, na qual ele admitiu não ter provas." }
+      ],
       "ligacoes": ["f08-tse-jair-inelegivel-2023"]
     },
     {
@@ -588,6 +1009,14 @@ window.DADOS_NEGACIONISMO = {
       ],
       "resposta": { "quem": "Flávio Bolsonaro", "texto": "Em 2026, no Jornal Nacional, disse não considerar que os fenômenos climáticos tenham relação 'só com a influência do ser humano' (ver registro seguinte)." },
       "ressalva": "O texto é um artigo de opinião de dois senadores; os trechos acima são resumos feitos pela reportagem do Congresso em Foco.",
+      "cronologia": [
+        { "data": "2019-04-26", "texto": "Flávio e Márcio Bittar publicam o artigo em que rejeitam a causa humana do aquecimento global.", "fonte_nome": "Congresso em Foco (26/04/2019)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/25856/mitos-e-falacias" },
+        { "data": "2021-08", "texto": "O IPCC publica o Sexto Relatório, que diz ser 'inequívoco' que a influência humana aqueceu a atmosfera, o oceano e a terra.", "fonte_nome": "IPCC AR6 WGI", "fonte_url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/" },
+        { "data": "2026-08-28", "texto": "No Jornal Nacional, Flávio é questionado sobre o artigo e não diz que o aquecimento global existe.", "fonte_nome": "Poder360 (28/08/2026)", "fonte_url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-evita-aquecimento-global-e-cita-saneamento-como-resposta/" }
+      ],
+      "relacionados": [
+        { "id": "nz-flavio-jn-clima-2026", "motivo": "Sete anos depois, o JN o questionou sobre o mesmo artigo." }
+      ],
       "ligacoes": []
     },
     {
@@ -626,6 +1055,18 @@ window.DADOS_NEGACIONISMO = {
       ],
       "resposta": { "quem": "Flávio Bolsonaro", "texto": "Disse reconhecer os eventos climáticos e que 'a melhor forma que nós temos de proteger o meio ambiente é oferecer saneamento básico para a população'." },
       "ressalva": "Os veículos divergem no enquadramento: Estadão e O Liberal dizem que ele se recusou a afirmar que acredita em aquecimento global; outros dizem que ele o negou. Lula chamou a resposta de 'amadorismo irresponsável'.",
+      "cronologia": [
+        { "data": "2019-04-26", "texto": "O artigo com Márcio Bittar chama o aquecimento causado pelo homem de 'discurso apocalíptico'.", "fonte_nome": "Congresso em Foco (26/04/2019)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/25856/mitos-e-falacias" },
+        { "data": "2026-08-28", "texto": "Na sabatina da TV Globo, não afirma que o aquecimento global existe e cita o saneamento básico como resposta.", "fonte_nome": "Poder360 (28/08/2026)", "fonte_url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-evita-aquecimento-global-e-cita-saneamento-como-resposta/" },
+        { "data": "2026-10-07", "texto": "O ClimaInfo e o Fakebook.eco publicam levantamento sobre falas de Flávio sobre clima e meio ambiente.", "fonte_nome": "ClimaInfo (07/10/2026)", "fonte_url": "https://climainfo.org.br/2026/10/07/assim-como-seu-pai-flavio-bolsonaro-mente-e-exagera-sobre-clima-e-meio-ambiente/" }
+      ],
+      "consequencias": [
+        { "data": "2026-08-28", "texto": "A Agência Lupa classifica como falsa a afirmação sobre eventos extremos; Lula chama a resposta de 'amadorismo irresponsável'.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" }
+      ],
+      "relacionados": [
+        { "id": "nz-flavio-urnas-2026", "motivo": "Mesma sabatina: a Lupa também classificou como falsa a fala sobre as urnas." },
+        { "id": "nz-flavio-artigo-clima-2019", "motivo": "O JN o questionou sobre este artigo, publicado sete anos antes." }
+      ],
       "ligacoes": ["h13-lupa-jornal-nacional-2026"]
     },
     {
@@ -655,6 +1096,17 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2020-08-24", "texto": "Flávio começa a tomar cloroquina e azitromicina, segundo a assessoria, assintomático e em isolamento em casa.", "fonte_nome": "Poder360 (25/08/2020)", "fonte_url": "https://www.poder360.com.br/congresso/flavio-bolsonaro-e-diagnosticado-com-covid-19/" },
+        { "data": "2020-08-25", "texto": "O diagnóstico positivo é divulgado; é o quarto caso na família, depois de Jair, Michelle e Jair Renan.", "fonte_nome": "Poder360 (25/08/2020)", "fonte_url": "https://www.poder360.com.br/congresso/flavio-bolsonaro-e-diagnosticado-com-covid-19/" },
+        { "data": "2020-09-06", "texto": "Segundo reportagens, diz estar curado e publica foto com uma caixa de cloroquina.", "fonte_nome": "Jovem Pan", "fonte_url": "https://jovempan.com.br/?p=128614" }
+      ],
+      "consequencias": [
+        { "data": "2021-10-26", "texto": "O relatório final da CPI da Pandemia pede o indiciamento de Flávio por incitação ao crime (art. 286 do Código Penal).", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-cloroquina-2020", "motivo": "Mesmo tratamento que o pai usou e defendeu em julho de 2020." }
+      ],
       "ligacoes": ["cpi01-covid-incitacao-2021"]
     },
     {
@@ -676,6 +1128,19 @@ window.DADOS_NEGACIONISMO = {
       "ciencia": [],
       "resposta": null,
       "ressalva": "Este registro mostra a posição inicial e a mudança dele. O relatório da CPI da Pandemia pediu o indiciamento de Flávio por incitação ao crime (ver linha do tempo); a reportagem consultada não detalha a justificativa.",
+      "cronologia": [
+        { "data": "2021-01", "texto": "Diz que seguiria a ciência e não tomaria a vacina 'naquele momento', porque já havia sido infectado.", "fonte_nome": "Metrópoles (22/07/2021)", "fonte_url": "https://www.metropoles.com/brasil/politica-brasil/flavio-bolsonaro-e-vacinado-e-agradece-negacionista-jair-bolsonaro" },
+        { "data": "2021-03-23", "texto": "Compartilha o vídeo da Secom que acusa a imprensa de espalhar notícias falsas sobre a posição do governo em vacinas.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://congressoemfoco.com.br/saude/governo-diz-que-sempre-apoiou-vacinacao-declaracoes-mostram-o-contrario" },
+        { "data": "2021-07-22", "texto": "Recebe a primeira dose da AstraZeneca/Fiocruz, aplicada pelo ministro Marcelo Queiroga.", "fonte_nome": "Metrópoles (22/07/2021)", "fonte_url": "https://www.metropoles.com/brasil/politica-brasil/flavio-bolsonaro-e-vacinado-e-agradece-negacionista-jair-bolsonaro" },
+        { "data": "2025-12-09", "texto": "À Folha, diz: 'Ele não quis tomar a vacina. Eu tomei duas doses no braço'.", "fonte_nome": "Poder360 (20/12/2025)", "fonte_url": "https://www.poder360.com.br/poder-gente/flavio-diz-ter-divergencias-com-bolsonaro-e-cita-vacinacao-contra-covid/" }
+      ],
+      "consequencias": [
+        { "data": "2021-10-26", "texto": "O relatório final da CPI pede o indiciamento de Flávio por incitação ao crime.", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" }
+      ],
+      "relacionados": [
+        { "id": "nz-flavio-cpi-tratamento-2021", "motivo": "No mesmo ano de 2021, Flávio defendeu o 'tratamento precoce' no Senado e tomou a vacina." },
+        { "id": "nz-jair-vacina-recusa-2020", "motivo": "Em 2025, disse que o pai 'não quis tomar a vacina'." }
+      ],
       "ligacoes": ["cpi01-covid-incitacao-2021", "j06-cpi-pandemia-relatorio-final-2021"]
     },
     {
@@ -701,7 +1166,978 @@ window.DADOS_NEGACIONISMO = {
         }
       ],
       "resposta": null,
+      "cronologia": [
+        { "data": "2014", "texto": "Questiona as urnas em discurso na Alerj, segundo a Lupa.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" },
+        { "data": "2018", "texto": "Em post no X, escreve que 'é impossível garantir a lisura das urnas sem o voto impresso'.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" },
+        { "data": "2021", "texto": "Alerta para 'eleições sob suspeita'.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" },
+        { "data": "2022", "texto": "Diz que não houve fraude, mas que 'podia ter acontecido'.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" },
+        { "data": "2026-08-28", "texto": "No Jornal Nacional, diz que nunca questionou o processo eleitoral; a Lupa classifica como falso.", "fonte_nome": "Agência Lupa (28/08/2026)", "fonte_url": "https://www.agencialupa.org/checagem/2026/08/28/ao-vivo-checagem-da-entrevista-de-flavio-bolsonaro-ao-jornal-nacional/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-voto-impresso-2021", "motivo": "Em 2018, Flávio já defendia o voto impresso como garantia da lisura." },
+        { "id": "nz-flavio-jn-clima-2026", "motivo": "Mesma entrevista ao Jornal Nacional, em 28/08/2026." }
+      ],
       "ligacoes": ["h13-lupa-jornal-nacional-2026"]
+    },
+    {
+      "id": "nz-jair-tratecov-2021",
+      "pessoa": "jair",
+      "tema": "covid",
+      "data": "2021-01-21",
+      "titulo": "Ministério da Saúde testa em Manaus, em plena crise de oxigênio, um aplicativo que receitava cloroquina e azitromicina, e o tira do ar dizendo que foi 'invadido'",
+      "resumo": "O TrateCov gerava receitas do 'kit covid' para qualquer pessoa que preenchesse o formulário; o Conselho Federal de Medicina pediu a retirada imediata.",
+      "detalhe": [
+        "O TrateCov foi apresentado como plataforma para profissionais de saúde e, segundo o ministério, testado apenas em Manaus, onde os casos disparavam. Segundo o Poder360, qualquer pessoa podia preencher o formulário e obter receitas com cloroquina, hidroxicloroquina e azitromicina, remédios sem eficácia comprovada contra a covid-19.",
+        "Em 21 de janeiro de 2021, o aplicativo saiu do ar. O ministério disse que era um 'projeto-piloto' que 'não estava funcionando oficialmente, apenas como um simulador', que o sistema foi 'invadido e ativado indevidamente' e que a retirada seria 'momentânea'. O Conselho Federal de Medicina pediu a 'retirada imediata': a ferramenta permitia o preenchimento por não médicos, dava validação científica a drogas sem reconhecimento internacional e induzia à automedicação."
+      ],
+      "fonte_nome": "Poder360 (21/01/2021)",
+      "fonte_url": "https://www.poder360.com.br/midia/aplicativo-da-saude-que-recomendava-tratamento-precoce-para-covid-19-sai-do-ar/",
+      "fontes_extra": [
+        { "nome": "Poder360: Mayra Pinheiro contradiz Pazuello sobre a crise de oxigênio em Manaus (25/05/2021)", "url": "https://www.poder360.com.br/brasil/mayra-pinheiro-contradiz-pazuello-sobre-crise-de-oxigenio-em-manaus/" },
+        { "nome": "Poder360: Pazuello diz que a falta de oxigênio foi 'surpresa' (18/01/2021)", "url": "https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "Ministério da Saúde",
+          "texto": "Em documentos enviados à CPI em julho de 2021, o próprio ministério admitiu que hidroxicloroquina, cloroquina, azitromicina e outros remédios do 'kit covid' não tiveram benefício clínico em pacientes internados e não devem ser usados.",
+          "fonte_nome": "Congresso em Foco",
+          "fonte_url": "https://congressoemfoco.com.br/noticia/21691/saude-admite-ineficacia-de-cloroquina-e-outros-medicamentos-do-kit-covid",
+          "data": "2021-07-14"
+        },
+        {
+          "tipo": "orgao",
+          "quem": "Conselho Federal de Medicina",
+          "texto": "Pediu a retirada imediata do aplicativo: a ferramenta não preserva o sigilo, deixa que não médicos preencham, dá validação científica a drogas sem reconhecimento internacional e induz à automedicação.",
+          "fonte_nome": "Poder360",
+          "fonte_url": "https://www.poder360.com.br/midia/aplicativo-da-saude-que-recomendava-tratamento-precoce-para-covid-19-sai-do-ar/",
+          "data": "2021-01-21"
+        }
+      ],
+      "resposta": { "quem": "Ministério da Saúde", "texto": "Disse que o aplicativo era um projeto-piloto, 'apenas um simulador', e que foi 'invadido e ativado indevidamente'. O Poder360 apenas relata a versão, sem verificação independente." },
+      "ressalva": "O aplicativo foi uma iniciativa do ministério no governo Bolsonaro; as reportagens consultadas não atribuem o TrateCov a uma ordem direta do presidente. A data de lançamento não consta na matéria do Poder360, e outras reportagens divergem sobre ela.",
+      "cronologia": [
+        { "data": "2021-01-04", "texto": "Segundo Pazuello, o ministério monitorava o aumento de casos e mortes em Manaus desde dezembro e enviou uma equipe à cidade.", "fonte_nome": "Poder360 (18/01/2021)", "fonte_url": "https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/" },
+        { "data": "2021-01-08", "texto": "Segundo Pazuello (em 18 de janeiro de 2021) e a secretária Mayra Pinheiro (à CPI, em maio), o ministério soube da possível falta de oxigênio pela White Martins (carta, segundo Pazuello; e-mail repassado pela Secretaria de Saúde de Manaus, segundo Mayra).", "fonte_nome": "Poder360 (18/01/2021)", "fonte_url": "https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/" },
+        { "data": "2021-01-10", "texto": "À CPI, Pazuello deu esta data como a do primeiro aviso ao ministério, o que contradiz a versão de 8 de janeiro.", "fonte_nome": "Poder360 (25/05/2021)", "fonte_url": "https://www.poder360.com.br/brasil/mayra-pinheiro-contradiz-pazuello-sobre-crise-de-oxigenio-em-manaus/" },
+        { "data": "2021-01", "texto": "No auge da crise, o ministério enviou ofício à Secretaria de Saúde de Manaus para estimular o uso de remédios contra a covid-19, entre eles a cloroquina.", "fonte_nome": "Poder360 (25/05/2021)", "fonte_url": "https://www.poder360.com.br/brasil/mayra-pinheiro-contradiz-pazuello-sobre-crise-de-oxigenio-em-manaus/" },
+        { "data": "2021-01-15", "texto": "O estoque de oxigênio acabou em vários hospitais de Manaus.", "fonte_nome": "Poder360 (18/01/2021)", "fonte_url": "https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/" },
+        { "data": "2021-01-21", "texto": "O TrateCov sai do ar. O CFM pede a retirada imediata.", "fonte_nome": "Poder360 (21/01/2021)", "fonte_url": "https://www.poder360.com.br/midia/aplicativo-da-saude-que-recomendava-tratamento-precoce-para-covid-19-sai-do-ar/" }
+      ],
+      "consequencias": [
+        { "data": "2021-05-25", "texto": "Na CPI, Mayra Pinheiro classificou como 'inadmissível' que Manaus não tivesse adotado a orientação do ofício sobre cloroquina. Ela disse que o abastecimento de oxigênio não era competência do ministério.", "fonte_nome": "Poder360", "fonte_url": "https://www.poder360.com.br/brasil/mayra-pinheiro-contradiz-pazuello-sobre-crise-de-oxigenio-em-manaus/" },
+        { "data": "2021-07-14", "texto": "O ministério admite à CPI que o 'kit covid' não tem benefício clínico em internados.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://congressoemfoco.com.br/noticia/21691/saude-admite-ineficacia-de-cloroquina-e-outros-medicamentos-do-kit-covid" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Mortes por dia em Manaus, segundo Pazuello (18/01/2021)",
+          "unidade": "mortes",
+          "itens": [
+            { "nome": "Dia normal (faixa baixa)", "valor": 26 },
+            { "nome": "Dia normal (faixa alta)", "valor": 30 },
+            { "nome": "Dia citado por Pazuello", "valor": 180, "destaque": true }
+          ],
+          "leitura": "Pazuello atribuiu cerca de 80 dessas mortes à covid-19 e cerca de 100 a cirurgias eletivas não realizadas e a outras doenças agravadas.",
+          "ressalva": "Os números são da fala do ministro; a reportagem avisa que não foram verificados e que ainda não era possível dimensionar as mortes causadas pela falta de oxigênio.",
+          "fontes": [ { "nome": "Poder360 (18/01/2021)", "url": "https://www.poder360.com.br/governo/pazuello-diz-que-falta-de-oxigenio-em-manaus-foi-surpresa/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-cloroquina-2020", "motivo": "O mesmo 'kit covid': o aplicativo gerava receitas com cloroquina e azitromicina." },
+        { "id": "nz-jair-teich-2020", "motivo": "Teich disse que deixou o ministério pela pressão pela cloroquina; o TrateCov era do mesmo ministério e do mesmo 'kit covid'." },
+        { "id": "nz-flavio-cpi-tratamento-2021", "motivo": "Flávio defendeu o 'tratamento precoce' na CPI que investigou o caso de Manaus." }
+      ],
+      "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
+    },
+    {
+      "id": "nz-jair-frescura-2021",
+      "pessoa": "jair",
+      "tema": "covid",
+      "data": "2021-03-04",
+      "titulo": "Diz 'chega de frescura, de mimimi. Vão ficar chorando até quando?' um dia depois do recorde de 1.910 mortes em 24 horas",
+      "resumo": "Em inauguração em Goiás, chamou o isolamento de 'tratamento errado' e pediu que governadores 'repensem a política do fecha tudo'.",
+      "detalhe": [
+        "Em 4 de março de 2021, na inauguração de um trecho da Ferrovia Norte-Sul, em São Simão (GO), Bolsonaro criticou os governadores e prefeitos que adotaram lockdown e cobrou a volta ao trabalho. Disse: 'Chega de frescura, de mimimi. Vão ficar chorando até quando?'. Chamou o isolamento e o fechamento do comércio de 'tratamento errado' e afirmou que o 'efeito colateral do tratamento errado da covid' é 'muito mais danoso que o próprio vírus'.",
+        "Também disse: 'Vamos combater o vírus, mas não de forma burra, ignorante, suicida', e pediu aos governadores que 'repensem a política do fecha tudo'. O Ministério da Saúde tinha informado, no dia anterior, 1.910 mortes em 24 horas, recorde na pandemia até então, e 259.271 no total."
+      ],
+      "fonte_nome": "Correio Braziliense (04/03/2021)",
+      "fonte_url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html",
+      "ciencia": [
+        {
+          "tipo": "dados",
+          "quem": "Ministério da Saúde",
+          "texto": "Cinco semanas depois da fala, em 8 de abril de 2021, o país registrou 4.249 mortes em 24 horas, e o total chegou a 345.025.",
+          "fonte_nome": "Agência Brasil",
+          "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas",
+          "data": "2021-04-08"
+        },
+        {
+          "tipo": "estudo",
+          "quem": "Pedro Hallal (epidemiologista) à CPI",
+          "texto": "Estimou que cerca de 400 mil mortes poderiam ter sido evitadas com controle da pandemia (vacinação eficiente, isolamento e máscaras).",
+          "fonte_nome": "TNH1 (Folhapress)",
+          "fonte_url": "https://www.tnh1.com.br/noticia/nid/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas/",
+          "data": "2021-06-24",
+          "ressalva": "É uma estimativa apresentada à CPI, não uma contagem."
+        }
+      ],
+      "resposta": { "quem": "Bolsonaro", "texto": "Defendeu o retorno ao trabalho e disse que combater o vírus não deveria ser feito 'de forma burra, ignorante, suicida'." },
+      "ressalva": "A matéria registra que ele criticou o lockdown; as medidas de isolamento eram decididas por governadores e prefeitos.",
+      "cronologia": [
+        { "data": "2021-03-02", "texto": "O país já havia batido recorde de mortes em 24 horas, segundo a reportagem, que fala em recorde por dois dias seguidos.", "fonte_nome": "Correio Braziliense (04/03/2021)", "fonte_url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html" },
+        { "data": "2021-03-03", "texto": "O Ministério da Saúde informa 1.910 mortes em 24 horas e 259.271 no total; a reportagem calcula uma vítima a cada 45 segundos.", "fonte_nome": "Correio Braziliense (04/03/2021)", "fonte_url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html" },
+        { "data": "2021-03-04", "texto": "Fala em São Simão (GO): 'Chega de frescura, de mimimi'.", "fonte_nome": "Correio Braziliense (04/03/2021)", "fonte_url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html" },
+        { "data": "2021-04-06", "texto": "O país passa de 4 mil mortes em um dia (4.195).", "fonte_nome": "Agência Brasil (08/04/2021)", "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" },
+        { "data": "2021-04-08", "texto": "Novo recorde: 4.249 mortes em 24 horas; total de 345.025.", "fonte_nome": "Agência Brasil (08/04/2021)", "fonte_url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" }
+      ],
+      "consequencias": [
+        { "data": "2021-06-24", "texto": "Hallal diz à CPI que cerca de 400 mil mortes poderiam ter sido evitadas com vacinação eficiente, isolamento e máscaras.", "fonte_nome": "TNH1 (Folhapress)", "fonte_url": "https://www.tnh1.com.br/noticia/nid/epidemiologista-afirma-a-cpi-da-covid-que-400-mil-mortes-poderiam-ter-sido-evitadas/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Mortes por covid-19 em 24 horas",
+          "unidade": "mortes",
+          "itens": [
+            { "nome": "03/03/2021, véspera da fala", "valor": 1910 },
+            { "nome": "08/04/2021, cinco semanas depois", "valor": 4249, "destaque": true }
+          ],
+          "leitura": "O recorde diário mais que dobrou em cinco semanas.",
+          "ressalva": "Dois recordes de dias diferentes, ambos do Ministério da Saúde; os números não provam que a fala causou a alta.",
+          "fontes": [
+            { "nome": "Correio Braziliense (04/03/2021)", "url": "https://www.correiobraziliense.com.br/politica/2021/03/4910166-bolsonaro-chega-de-frescura-de-mimimi--vao-ficar-chorando-ate-quando.html" },
+            { "nome": "Agência Brasil (08/04/2021)", "url": "https://agenciabrasil.ebc.com.br/saude/noticia/2021-04/covid-19-brasil-bate-recorde-com-4249-mortes-registradas-em-24-horas" }
+          ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-edai-2020", "motivo": "Duas respostas a recordes de mortes, com quase um ano de intervalo: 'E daí?' e 'mimimi'." },
+        { "id": "nz-jair-maricas-2020", "motivo": "Mesmo argumento contra o isolamento e as restrições." },
+        { "id": "nz-jair-mascaras-2020", "motivo": "Críticas às medidas de proteção no mesmo período." }
+      ],
+      "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
+    },
+    {
+      "id": "nz-jair-mascaras-2020",
+      "pessoa": "jair",
+      "tema": "covid",
+      "data": "2020-07",
+      "titulo": "Veta a obrigatoriedade de máscara em comércio, escolas e igrejas; o Congresso derruba o veto por 454 a 14 e, em novembro, ele diz que falta 'um estudo sério' sobre a efetividade",
+      "resumo": "Alegou 'possível violação de domicílio'; depois pôs em dúvida a eficácia das máscaras e, em 2021, pediu que se estudasse dispensá-las a vacinados.",
+      "detalhe": [
+        "Ao sancionar, em julho de 2020, a lei que obriga o uso de máscaras, Bolsonaro vetou o trecho que valia para estabelecimentos comerciais e industriais, templos religiosos, escolas e 'demais locais fechados em que haja reunião de pessoas'. A justificativa do governo foi que a expressão poderia configurar violação de domicílio. Em 19 de agosto de 2020, em sessão remota do Congresso, o veto foi derrubado por 454 votos a 14, com uma abstenção.",
+        "Em 26 de novembro de 2020, numa live, disse: 'Ainda vai ter um estudo sério falando da efetividade da máscara' e 'Falta apenas o último tabu a cair'. Questionou percentuais de proteção (100%, 80%, 90%, 10%, 4%, 1%) sem citar fontes. Em junho de 2021, pediu ao ministro da Saúde que estudasse dispensar a máscara a quem já foi vacinado e, em live de 17 de junho, falou em desobrigar o uso."
+      ],
+      "fonte_nome": "TNH1 (19/08/2020)",
+      "fonte_url": "https://www.tnh1.com.br/noticia/nid/deputados-derrubam-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio/",
+      "fontes_extra": [
+        { "nome": "Congresso em Foco: com casos em alta, Bolsonaro questiona o uso de máscaras (26/11/2020)", "url": "https://www.congressoemfoco.com.br/noticia/22632/com-casos-de-covid-19-em-alta-bolsonaro-questiona-uso-de-mascaras" },
+        { "nome": "Poder360: depois da motociata, defende cloroquina (12/06/2021)", "url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "nome": "O Povo: fala sobre desobrigar máscaras (18/06/2021)", "url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "estudo",
+          "quem": "Revisão sistemática encomendada pela OMS (The Lancet, 2020)",
+          "texto": "A análise de 44 estudos comparativos, de 16 países, concluiu que o distanciamento físico e o uso de máscaras e de proteção ocular ajudam a reduzir a infecção. Para máscaras usadas na comunidade, a proteção existe, mas a evidência direta era limitada; respiradores N95 podem proteger mais profissionais de saúde.",
+          "fonte_nome": "McMaster University",
+          "fonte_url": "https://news.mcmaster.ca/evidence-supports-physical-distancing-masks-and-eye-protection-to-help-prevent-covid-19/",
+          "data": "2020-06",
+          "ressalva": "Não houve ensaios randomizados nessa revisão, e os autores pedem estudos maiores; a evidência vinha em boa parte de outros coronavírus (SARS e MERS)."
+        },
+        {
+          "tipo": "imprensa",
+          "quem": "Congresso em Foco",
+          "texto": "A matéria diz que a comunidade científica e as autoridades de saúde têm comprovações da eficácia das máscaras, contrariando a fala do presidente, e lembra que a OMS as inclui entre as principais medidas.",
+          "fonte_nome": "Congresso em Foco",
+          "fonte_url": "https://www.congressoemfoco.com.br/noticia/22632/com-casos-de-covid-19-em-alta-bolsonaro-questiona-uso-de-mascaras",
+          "data": "2020-11-26",
+          "ressalva": "A matéria não detalha os estudos citados."
+        }
+      ],
+      "resposta": { "quem": "Governo", "texto": "Justificou o veto dizendo que a expressão 'locais fechados em que haja reunião de pessoas' poderia configurar violação de domicílio." },
+      "cronologia": [
+        { "data": "2020-07", "texto": "Sanciona com vetos a lei que obriga o uso de máscaras e retira a exigência para comércio, templos, escolas e outros locais fechados.", "fonte_nome": "TNH1 (19/08/2020)", "fonte_url": "https://www.tnh1.com.br/noticia/nid/deputados-derrubam-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio/" },
+        { "data": "2020-08-19", "texto": "O Congresso derruba o veto por 454 votos a 14, com uma abstenção.", "fonte_nome": "TNH1 (19/08/2020)", "fonte_url": "https://www.tnh1.com.br/noticia/nid/deputados-derrubam-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio/" },
+        { "data": "2020-11-26", "texto": "Em live, diz que 'ainda vai ter um estudo sério' sobre a efetividade da máscara.", "fonte_nome": "Congresso em Foco (26/11/2020)", "fonte_url": "https://www.congressoemfoco.com.br/noticia/22632/com-casos-de-covid-19-em-alta-bolsonaro-questiona-uso-de-mascaras" },
+        { "data": "2021-06-12", "texto": "Pede ao ministro Marcelo Queiroga que estude dispensar a máscara a quem já foi vacinado.", "fonte_nome": "Poder360 (12/06/2021)", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "data": "2021-06-17", "texto": "Em live, volta a falar na proposta de desobrigar o uso de máscaras.", "fonte_nome": "O Povo (18/06/2021)", "fonte_url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html" }
+      ],
+      "consequencias": [
+        { "data": "2020-08-19", "texto": "O trecho vetado voltou à lei: a obrigatoriedade passou a valer também em escolas, comércio e templos.", "fonte_nome": "TNH1", "fonte_url": "https://www.tnh1.com.br/noticia/nid/deputados-derrubam-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Votos na derrubada do veto (19/08/2020)",
+          "unidade": "votos",
+          "itens": [
+            { "nome": "Derrubar o veto", "valor": 454, "destaque": true },
+            { "nome": "Manter o veto", "valor": 14 }
+          ],
+          "leitura": "O Congresso restabeleceu o trecho por ampla maioria; houve uma abstenção.",
+          "ressalva": "A reportagem relata o resultado da Câmara e dos senadores em sessão conjunta e diz que a votação dos senadores estava prevista para a tarde do mesmo dia.",
+          "fontes": [ { "nome": "TNH1 (19/08/2020)", "url": "https://www.tnh1.com.br/noticia/nid/deputados-derrubam-veto-ao-uso-obrigatorio-de-mascara-em-escola-e-comercio/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-comprovacao-tcu-2021", "motivo": "Em 12/06/2021, a mesma fala em que pediu que se estudasse dispensar a máscara a vacinados." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-coronavac-2020",
+      "pessoa": "jair",
+      "tema": "vacinas",
+      "data": "2020-10-21",
+      "titulo": "Desautoriza o ministro da Saúde, cancela o protocolo de 46 milhões de doses da CoronaVac e diz que 'o povo brasileiro não será cobaia de ninguém'",
+      "resumo": "Um dia depois de Pazuello anunciar o acordo com São Paulo, Bolsonaro disse que o governo não compraria a 'vacina chinesa de João Doria'.",
+      "detalhe": [
+        "Em 20 de outubro de 2020, o ministro Eduardo Pazuello assinou um protocolo para comprar 46 milhões de doses da CoronaVac, produzida pelo Butantan; o acordo previa uma medida provisória com crédito de R$ 1,9 bilhão. No dia seguinte, Bolsonaro desautorizou o ministro. Em mensagem a ministros, escreveu: 'Alerto que não compraremos vacina da China' e que seu governo 'não mantém diálogo com João Doria sobre covid-19'. Falou em 'traição', em 'vacina chinesa de João Doria' e escreveu: 'minha decisão é a de não adquirir a referida vacina' e 'O povo brasileiro NÃO SERÁ COBAIA DE NINGUÉM'.",
+        "O presidente do Butantan, Dimas Covas, respondeu que a segurança da vacina estava comprovada e que faltava testar a eficácia: 'É a vacina mais segura, no momento'."
+      ],
+      "fonte_nome": "Poder360 (21/10/2020)",
+      "fonte_url": "https://poder360.com.br/coronavirus/nao-compraremos-vacina-da-china-diz-bolsonaro/",
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "Anvisa",
+          "texto": "Em 17 de janeiro de 2021, a diretoria da agência aprovou por unanimidade o uso emergencial da CoronaVac e da vacina de Oxford/AstraZeneca. A eficácia geral apresentada para a CoronaVac foi de 50,39%, e a área técnica fez ressalvas ao uso.",
+          "fonte_nome": "A Gazeta",
+          "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121",
+          "data": "2021-01-17",
+          "ressalva": "A eficácia de 50,39% é a divulgada para o estudo; é um dado da fase de pesquisa, não uma medida de proteção na população."
+        }
+      ],
+      "resposta": { "quem": "Bolsonaro", "texto": "Escreveu: 'minha decisão é a de não adquirir a referida vacina'." },
+      "ressalva": "Havia o contexto de rivalidade política entre Bolsonaro e Doria, registrado pelo Poder360. A matéria não traz número de mortes da época.",
+      "cronologia": [
+        { "data": "2020-10-20", "texto": "Pazuello assina o protocolo para comprar 46 milhões de doses da CoronaVac.", "fonte_nome": "Poder360 (21/10/2020)", "fonte_url": "https://poder360.com.br/coronavirus/nao-compraremos-vacina-da-china-diz-bolsonaro/" },
+        { "data": "2020-10-21", "texto": "Bolsonaro desautoriza o ministro e diz que não comprará a 'vacina da China'.", "fonte_nome": "Poder360 (21/10/2020)", "fonte_url": "https://poder360.com.br/coronavirus/nao-compraremos-vacina-da-china-diz-bolsonaro/" },
+        { "data": "2020-12-15", "texto": "Diz: 'Eu não vou tomar vacina. E ponto final'.", "fonte_nome": "Poder360 (17/01/2022)", "fonte_url": "https://www.poder360.com.br/governo/relembre-declaracoes-de-bolsonaro-sobre-a-vacinacao/" },
+        { "data": "2021-01-17", "texto": "A Anvisa aprova a CoronaVac e a vacina de Oxford para uso emergencial; o Butantan tinha 6 milhões de doses prontas para uso.", "fonte_nome": "A Gazeta (17/01/2021)", "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121" }
+      ],
+      "consequencias": [
+        { "data": "2021-01-17", "texto": "A CoronaVac, que o governo recusara três meses antes, foi uma das duas vacinas aprovadas pela Anvisa para uso emergencial.", "fonte_nome": "A Gazeta", "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121" },
+        { "data": "2021-03-19", "texto": "O governo fecha o contrato com a Pfizer, depois de ofertas sem resposta em 2020.", "fonte_nome": "O Povo (04/06/2021)", "fonte_url": "https://www.opovo.com.br/noticias/politica/2021/06/04/senador-randolfe-rodrigues-revela-que-pfizer-enviou-53-e-mails-ao-governo-sobre-oferta-de-vacinas.html" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "CoronaVac: o que foi recusado e o que estava pronto",
+          "unidade": "milhões de doses",
+          "itens": [
+            { "nome": "Protocolo cancelado (20/10/2020)", "valor": 46, "destaque": true },
+            { "nome": "Prontas no Butantan quando a Anvisa aprovou (17/01/2021)", "valor": 6 }
+          ],
+          "leitura": "Os dois números são de momentos diferentes e não são comparáveis: o protocolo previa a compra de 46 milhões de doses; o segundo é o estoque pronto na data da aprovação.",
+          "ressalva": "Outras reportagens da época citam outro volume de doses prontas; aqui vale o da matéria da A Gazeta.",
+          "fontes": [
+            { "nome": "Poder360 (21/10/2020)", "url": "https://poder360.com.br/coronavirus/nao-compraremos-vacina-da-china-diz-bolsonaro/" },
+            { "nome": "A Gazeta (17/01/2021)", "url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121" }
+          ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-vacina-recusa-2020", "motivo": "A frase 'não será cobaia' é desta mesma semana; ele disse depois que não tomaria vacina." },
+        { "id": "nz-jair-pfizer-ofertas-2020", "motivo": "Outra oferta de vacina que o governo não aceitou em 2020." }
+      ],
+      "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
+    },
+    {
+      "id": "nz-jair-imunidade-2021",
+      "pessoa": "jair",
+      "tema": "vacinas",
+      "data": "2021-06-17",
+      "titulo": "Diz em live que quem se contaminou está 'vacinado, até de forma mais eficaz que a própria vacina'",
+      "resumo": "Ao defender o fim da exigência de máscara, comparou a imunidade de quem teve covid-19 com a da vacina.",
+      "detalhe": [
+        "Em live de 17 de junho de 2021, ao falar da proposta de desobrigar o uso de máscaras e de ampliar o porte de armas, Bolsonaro disse: 'Todos que contraíram o vírus estão vacinados, até de forma mais eficaz que a própria vacina'."
+      ],
+      "fonte_nome": "O Povo (18/06/2021)",
+      "fonte_url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html",
+      "ciencia": [
+        {
+          "tipo": "estudo",
+          "quem": "Escola de Medicina da Universidade de Washington (Nature)",
+          "texto": "Segundo a reportagem, um estudo publicado na Nature mostra que a presença de anticorpos nem sempre significa imunidade contra a reinfecção.",
+          "fonte_nome": "O Povo",
+          "fonte_url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html",
+          "data": "2021-06-18",
+          "ressalva": "A matéria cita o estudo sem detalhar números, e a análise de que a fala é 'perigosa' é do próprio jornal."
+        }
+      ],
+      "resposta": null,
+      "ressalva": "Cinco dias antes, em 12 de junho, ele havia perguntado se a vacina 'tem comprovação científica ou está em estado experimental ainda' (ver o registro sobre o TCU).",
+      "cronologia": [
+        { "data": "2021-06-12", "texto": "Diz que nada está 'comprovado cientificamente' e pergunta se a vacina é experimental.", "fonte_nome": "Poder360 (12/06/2021)", "fonte_url": "https://www.poder360.com.br/brasil/apos-motociata-bolsonaro-diz-que-vacina-nao-tem-comprovacao-e-defende-cloroquina/" },
+        { "data": "2021-06-17", "texto": "Em live, diz que quem se contaminou está vacinado 'de forma mais eficaz que a própria vacina'.", "fonte_nome": "O Povo (18/06/2021)", "fonte_url": "https://www.opovo.com.br/coronavirus/2021/06/18/bolsonaro-diz-que-contaminacao-por-covid-19-e-mais-eficaz-que-vacina.html" },
+        { "data": "2021-10-21", "texto": "Em outra live, associa falsamente a vacina à Aids; as plataformas removem o vídeo.", "fonte_nome": "Aos Fatos (25/10/2021)", "fonte_url": "https://www.aosfatos.org/noticias/youtube-derruba-live-de-bolsonaro-com-associacao-falsa-entre-vacinas-contra-covid-19-e-aids/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-comprovacao-tcu-2021", "motivo": "Cinco dias antes, disse que nada estava 'comprovado cientificamente'." },
+        { "id": "nz-jair-aids-2021", "motivo": "Outra fala de 2021 que levantou dúvidas sobre a vacina." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-fome-2022",
+      "pessoa": "jair",
+      "tema": "dados",
+      "data": "2022-08-26",
+      "titulo": "Diz que 'fome para valer não existe' e que 'não tem ninguém pedindo para comprar pão' na padaria, com 33 milhões de brasileiros na fome, segundo a Rede Penssan",
+      "resumo": "Em podcast, contestou o dado sobre a fome; no dia seguinte disse que 'o mundo, sem o Brasil, passa fome'.",
+      "detalhe": [
+        "Em 26 de agosto de 2022, em podcast e em outra ocasião no mesmo dia, Bolsonaro minimizou a fome no país: 'Fome para valer, não existe, como da forma que é falado' e 'se for a qualquer padaria, não tem ninguém pedindo para comprar pão. Não existe'. O levantamento da Rede Penssan, divulgado cerca de dois meses antes, apontava cerca de 33 milhões de pessoas passando fome. Em 27 de agosto, a apoiadores na Bahia, depois da repercussão negativa, disse: 'Cada vez mais o mundo olha para nós. O mundo, sem o Brasil, passa fome'."
+      ],
+      "fonte_nome": "DOL (agosto de 2022)",
+      "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil",
+      "fontes_extra": [
+        { "nome": "Aos Fatos: é falso que 33 milhões passem fome hoje; reportagem do JN é antiga (10/07/2026)", "url": "https://www.aosfatos.org/noticias/33-milhoes-passam-fome-brasil/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "dados",
+          "quem": "Rede Penssan (2º Inquérito Nacional)",
+          "texto": "Cerca de 33 milhões de pessoas passavam fome, dentro de 125,2 milhões em algum grau de insegurança alimentar, segundo o inquérito feito entre novembro de 2021 e abril de 2022, já no governo Bolsonaro.",
+          "fonte_nome": "Aos Fatos",
+          "fonte_url": "https://www.aosfatos.org/noticias/33-milhoes-passam-fome-brasil/",
+          "data": "2026-07-10",
+          "ressalva": "O Aos Fatos usa o dado para avisar que ele é antigo; a Rede Penssan não repetiu o inquérito, e o número não vale para 'hoje'."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "ONU (relatório de julho de 2022)",
+          "texto": "61,3 milhões de brasileiros viviam com algum grau de insegurança alimentar, e 15,4 milhões passaram fome em 2019-2021. Em 2014-2016, eram 37,5 milhões com insegurança alimentar e 3,9 milhões no nível grave.",
+          "fonte_nome": "DOL",
+          "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil",
+          "data": "2022-07"
+        },
+        {
+          "tipo": "dados",
+          "quem": "Datafolha (julho de 2022)",
+          "texto": "O percentual de lares com comida insuficiente subiu de 26% em maio para 33% em julho.",
+          "fonte_nome": "DOL",
+          "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil",
+          "data": "2022-07"
+        }
+      ],
+      "resposta": { "quem": "Bolsonaro", "texto": "No dia seguinte, disse a apoiadores que 'o mundo, sem o Brasil, passa fome'." },
+      "ressalva": "As pesquisas usam metodologias diferentes e não são diretamente comparáveis, como avisa a própria reportagem. Um estudo assinado pelo presidente do Ipea contestou o aumento da fome, mas foi criticado por outros especialistas. O dado mais recente do IBGE, de 2024, mostra 6,4 milhões de pessoas em insegurança alimentar grave (3,2% da população), segundo o Aos Fatos.",
+      "cronologia": [
+        { "data": "2022-06", "texto": "A Rede Penssan divulga o inquérito: cerca de 33 milhões de pessoas passando fome.", "fonte_nome": "DOL", "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil" },
+        { "data": "2022-07", "texto": "A ONU e o Datafolha divulgam números que apontam alta da insegurança alimentar.", "fonte_nome": "DOL", "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil" },
+        { "data": "2022-08-26", "texto": "Bolsonaro diz que fome 'para valer, não existe' e que ninguém pede pão na padaria.", "fonte_nome": "DOL", "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil" },
+        { "data": "2022-08-27", "texto": "Na Bahia, diz que 'o mundo, sem o Brasil, passa fome'.", "fonte_nome": "DOL", "fonte_url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil" }
+      ],
+      "consequencias": [
+        { "data": "2025-10", "texto": "O IBGE divulga que, em 2024, 6,4 milhões de pessoas estavam em insegurança alimentar grave, cerca de 3,2% da população.", "fonte_nome": "Aos Fatos (10/07/2026)", "fonte_url": "https://www.aosfatos.org/noticias/33-milhoes-passam-fome-brasil/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Pessoas com fome (insegurança alimentar grave), segundo a ONU",
+          "unidade": "milhões de pessoas",
+          "itens": [
+            { "nome": "2014-2016", "valor": 3.9 },
+            { "nome": "2019-2021", "valor": 15.4, "destaque": true }
+          ],
+          "leitura": "Mais que o triplo entre os dois períodos do relatório da ONU.",
+          "ressalva": "O relatório usa médias de três anos e metodologia própria; o número da Rede Penssan (33 milhões) vem de outra pesquisa e não é diretamente comparável.",
+          "fontes": [ { "nome": "DOL", "url": "https://dol.com.br/noticias/politica/768533/ao-contrario-do-que-disse-bolsonaro-fome-aumenta-no-brasil" } ]
+        },
+        {
+          "rotulo": "Insegurança alimentar grave: o inquérito citado e o dado mais recente do IBGE",
+          "unidade": "milhões de pessoas",
+          "itens": [
+            { "nome": "Rede Penssan (nov/2021 a abr/2022)", "valor": 33, "destaque": true },
+            { "nome": "IBGE (2024)", "valor": 6.4 }
+          ],
+          "leitura": "O Aos Fatos usa a comparação para avisar que o número de 33 milhões é de 2021-2022 e não vale para 'hoje'.",
+          "ressalva": "Pesquisas diferentes, com metodologias diferentes; a queda não anula a fala de 2022, feita quando o dado disponível apontava alta.",
+          "fontes": [ { "nome": "Aos Fatos (10/07/2026)", "url": "https://www.aosfatos.org/noticias/33-milhoes-passam-fome-brasil/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-aosfatos-1000-2020", "motivo": "Economia é o segundo tema das falas enganosas contadas pelo Aos Fatos; aqui, uma fala sobre fome." },
+        { "id": "nz-jair-inpe-2019", "motivo": "Outra vez em que contestou dados de instituições de pesquisa." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-fundo-amazonia-2019",
+      "pessoa": "jair",
+      "tema": "clima",
+      "data": "2019-08-15",
+      "titulo": "Manda a Alemanha 'reflorestar' com o dinheiro e diz que 'querem a sua soberania', depois de Alemanha e Noruega suspenderem repasses ligados ao Fundo Amazônia",
+      "resumo": "Os dois países congelaram R$ 288 milhões, a Noruega por discordar das mudanças na gestão do fundo; Bolsonaro falou em 'soberania' e em 'guerra comercial'.",
+      "detalhe": [
+        "Em agosto de 2019, a Alemanha suspendeu R$ 155 milhões para novos projetos de prevenção do desmatamento na Amazônia, e a Noruega confirmou, em 15 de agosto, a suspensão de R$ 133 milhões destinados ao Fundo Amazônia. O ministro do Meio Ambiente norueguês, Ola Elvestuen, disse discordar das mudanças na gestão do fundo: o governo suspendera o conselho e o comitê técnico. O Brasil era criticado no exterior pelo aumento do desmatamento.",
+        "Bolsonaro respondeu: 'Pega essa grana e refloreste a Alemanha, tá ok? Lá está precisando muito mais do que aqui'; perguntou se a Noruega 'não é aquela que mata baleia lá em cima, no Polo Norte'; e disse que 'elas não estão de olho na floresta amazônica, querem a sua soberania e a sua riqueza'. Acusou os críticos de usar a questão ambiental em uma guerra comercial e afirmou: 'Amazônia a gente tem que brigar para ser nossa'."
+      ],
+      "fonte_nome": "Money Times (15/08/2019)",
+      "fonte_url": "https://www.moneytimes.com.br/bolsonaro-ataca-alemanha-e-noruega-por-suspensao-de-recursos-para-acoes-ambientais/",
+      "fontes_extra": [
+        { "nome": "Jornal de Brasília: governo reativa o Fundo Amazônia (03/01/2023)", "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/governo-reativa-fundo-amazonia-e-alemanha-repassa-r-200-milhoes/" },
+        { "nome": "Money Times: Bolsonaro defendeu não realizar a COP-25 no Brasil (28/11/2018)", "url": "https://www.moneytimes.com.br/bolsonaro-defendeu-nao-realizar-cop-25-no-brasil/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "dados",
+          "quem": "Inpe (Prodes)",
+          "texto": "O desmatamento consolidado na Amazônia passou de 7.536 km² em 2018 para 10.129 km² em 2019, alta de 34%, a maior desde 2008.",
+          "fonte_nome": "Revista Pesquisa FAPESP",
+          "fonte_url": "https://revistapesquisa.fapesp.br/desmatamento-na-amazonia-cresceu-34-em-2019/",
+          "data": "2020-06-09"
+        }
+      ],
+      "resposta": { "quem": "Bolsonaro", "texto": "Disse que os críticos 'querem a sua soberania e a sua riqueza' e que a questão ambiental é usada numa guerra comercial. A reportagem não traz nota do ministério sobre o fundo." },
+      "ressalva": "A suspensão do fundo é uma disputa política e de governança. O registro entra pela tese de que o interesse externo é 'soberania' e pela contestação, no mesmo período, dos dados de desmatamento; a Money Times não informa o motivo oficial da Alemanha.",
+      "cronologia": [
+        { "data": "2018-11-28", "texto": "Ainda como presidente eleito, diz ter participado da decisão de retirar a candidatura do Brasil a sediar a COP-25 e cita o corredor 'Triplo A' e a perda de 'soberania'; o Itamaraty havia informado a ONU em 24 de novembro.", "fonte_nome": "Money Times (28/11/2018)", "fonte_url": "https://www.moneytimes.com.br/bolsonaro-defendeu-nao-realizar-cop-25-no-brasil/" },
+        { "data": "2019", "texto": "O governo Bolsonaro dissolve as instâncias de governança do Fundo Amazônia, contra a vontade de Noruega e Alemanha, que congelam os recursos.", "fonte_nome": "Jornal de Brasília (03/01/2023)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/governo-reativa-fundo-amazonia-e-alemanha-repassa-r-200-milhoes/" },
+        { "data": "2019-07-19", "texto": "Bolsonaro diz que dados do Inpe sobre desmatamento 'não eram verdadeiros'.", "fonte_nome": "Tribuna de Jundiaí (02/08/2019)", "fonte_url": "https://tribunadejundiai.com.br/politica/diretor-do-inpe-e-exonerado-apos-discordancia-de-bolsonaro-sobre-desmatamento/" },
+        { "data": "2019-08", "texto": "A Alemanha suspende R$ 155 milhões para novos projetos de prevenção do desmatamento.", "fonte_nome": "Money Times (15/08/2019)", "fonte_url": "https://www.moneytimes.com.br/bolsonaro-ataca-alemanha-e-noruega-por-suspensao-de-recursos-para-acoes-ambientais/" },
+        { "data": "2019-08-15", "texto": "A Noruega confirma a suspensão de R$ 133 milhões; Bolsonaro fala em 'reflorestar a Alemanha' e em 'soberania'.", "fonte_nome": "Money Times (15/08/2019)", "fonte_url": "https://www.moneytimes.com.br/bolsonaro-ataca-alemanha-e-noruega-por-suspensao-de-recursos-para-acoes-ambientais/" },
+        { "data": "2022-12-23", "texto": "A Alemanha assina com o KfW contrato de doação de 35 milhões de euros (cerca de R$ 200 milhões).", "fonte_nome": "Jornal de Brasília (03/01/2023)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/governo-reativa-fundo-amazonia-e-alemanha-repassa-r-200-milhoes/" }
+      ],
+      "consequencias": [
+        { "data": "2023-01-02", "texto": "O governo Lula restabelece a governança do Fundo Amazônia, com comitê técnico e comitê orientador, e retoma o fundo; 56 projetos aguardavam análise, pedindo R$ 2,2 bilhões.", "fonte_nome": "Jornal de Brasília (03/01/2023)", "fonte_url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/governo-reativa-fundo-amazonia-e-alemanha-repassa-r-200-milhoes/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Repasses suspensos em agosto de 2019",
+          "unidade": "R$ milhões",
+          "itens": [
+            { "nome": "Alemanha (novos projetos de prevenção do desmatamento)", "valor": 155 },
+            { "nome": "Noruega (Fundo Amazônia)", "valor": 133 }
+          ],
+          "leitura": "Somam R$ 288 milhões; a Alemanha não afetava, naquele momento, a verba já investida no fundo.",
+          "ressalva": "Bolsonaro citou 80 milhões de dólares para o caso alemão, valor diferente do que a reportagem apurou.",
+          "fontes": [ { "nome": "Money Times (15/08/2019)", "url": "https://www.moneytimes.com.br/bolsonaro-ataca-alemanha-e-noruega-por-suspensao-de-recursos-para-acoes-ambientais/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-inpe-2019", "motivo": "Poucas semanas de diferença em 2019: contestação dos dados do Inpe e disputa com os doadores do Fundo." },
+        { "id": "nz-jair-ongs-queimadas-2019", "motivo": "Crise das queimadas e disputa com os doadores no mesmo mês de agosto." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-dicaprio-2019",
+      "pessoa": "jair",
+      "tema": "clima",
+      "data": "2019-11-29",
+      "titulo": "Diz a Leonardo DiCaprio 'você está colaborando com a queimada na Amazônia' e fala em 'foto fabricada' paga por ONG, dias depois da prisão de brigadistas em Alter do Chão",
+      "resumo": "A acusação veio sem provas; a PF concluiu depois que não havia indício de participação de brigadistas ou ONGs nos incêndios.",
+      "detalhe": [
+        "Em 26 de novembro de 2019, na operação 'Fogo de Sairé', a Polícia Civil do Pará prendeu quatro brigadistas de Alter do Chão, suspeitos de iniciar queimadas para obter doações de ONGs e do ator Leonardo DiCaprio. Eles foram soltos dois dias depois, depois de o Ministério Público Federal afirmar que o inquérito não tinha elementos que ligassem os brigadistas ou ONGs às queimadas.",
+        "Segundo o Bahia Notícias, Bolsonaro disse num vídeo: 'Ô Leonardo DiCaprioa, você está colaborando com a queimada na Amazônia, assim não dá!', citando as prisões, sem apresentar provas. Em entrevista em frente ao Alvorada, em 29 de novembro, segundo a Rolling Stone, disse: 'Uma ONG ali pagou 70 mil reais por uma foto fabricada de queimada' e perguntou 'o que é mais fácil?', sugerindo que alguém atearia fogo no mato para fotografar. Afirmou que DiCaprio doaria 500 mil dólares à entidade, valor diferente do citado pelo filho Eduardo."
+      ],
+      "fonte_nome": "Bahia Notícias (29/11/2019)",
+      "fonte_url": "https://www.bahianoticias.com.br/cultura/noticia/36502-sem-provas-bolsonaro-acusa-dicaprio-de-colaborar-com-queimadas-na-amazonia",
+      "fontes_extra": [
+        { "nome": "Rolling Stone Brasil (29/11/2019)", "url": "https://rollingstone.com.br/?p=83224" },
+        { "nome": "Aos Fatos: é falso que a polícia descobriu que o WWF-Brasil financiou queimadas no Pará", "url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "Polícia Federal",
+          "texto": "Depois de uma perícia de quatro meses, concluiu que os incêndios começaram em pontos distantes dos apontados pela Polícia Civil e foram causados por ação humana, sem identificar quem os iniciou. Não encontrou indícios de participação de brigadistas ou ONGs e pediu o arquivamento do inquérito.",
+          "fonte_nome": "Aos Fatos",
+          "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/",
+          "ressalva": "A checagem não informa a data do relatório da PF."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "WWF-Brasil",
+          "texto": "Disse que os R$ 70 mil foram repassados por contrato com o Instituto Aquífero Alter do Chão para equipar a brigada, e que nunca foi chamada a prestar informações nem foi investigada, indiciada ou processada.",
+          "fonte_nome": "Aos Fatos",
+          "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/"
+        }
+      ],
+      "resposta": { "quem": "WWF-Brasil", "texto": "Afirmou que não adquiriu nenhuma foto ou imagem da Brigada nem recebeu doação do ator e que as informações em circulação são 'inverídicas' (segundo a Rolling Stone)." },
+      "ressalva": "A matéria do Bahia Notícias não traz resposta do WWF nem de DiCaprio; a do WWF vem da Rolling Stone e do Aos Fatos. Segundo o Aos Fatos, a Polícia Civil do Pará indiciou brigadistas e ONGs locais, mas o inquérito não foi concluído.",
+      "cronologia": [
+        { "data": "2019-09", "texto": "A Polícia Federal começa a investigar os incêndios em Alter do Chão.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" },
+        { "data": "2019-11-26", "texto": "Operação 'Fogo de Sairé': a Polícia Civil do Pará prende quatro brigadistas, suspeitos de iniciar incêndios para obter doações.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" },
+        { "data": "2019-11-28", "texto": "Os brigadistas são soltos; o MPF diz que o inquérito não ligava brigadistas ou ONGs às queimadas. No mesmo dia, Eduardo Bolsonaro acusa DiCaprio e o WWF nas redes.", "fonte_nome": "Bahia Notícias (29/11/2019)", "fonte_url": "https://www.bahianoticias.com.br/cultura/noticia/36502-sem-provas-bolsonaro-acusa-dicaprio-de-colaborar-com-queimadas-na-amazonia" },
+        { "data": "2019-11-29", "texto": "Jair Bolsonaro acusa DiCaprio de 'colaborar com a queimada' e fala em 'foto fabricada'.", "fonte_nome": "Rolling Stone Brasil (29/11/2019)", "fonte_url": "https://rollingstone.com.br/?p=83224" },
+        { "data": "2020-01", "texto": "O Ministério Público do Pará pede à Justiça que obrigue a Polícia Civil a aprofundar as investigações; repete o pedido em setembro de 2020.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" }
+      ],
+      "consequencias": [
+        { "data": "", "texto": "A PF pede o arquivamento do inquérito, sem apontar autores e sem indícios contra brigadistas ou ONGs. No inquérito da Polícia Civil, o governo do Pará trocou o delegado responsável e a Corregedoria foi acionada.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" }
+      ],
+      "relacionados": [
+        { "id": "nz-eduardo-dicaprio-2019", "motivo": "O filho publicou a acusação um dia antes, com valor diferente." },
+        { "id": "nz-jair-ongs-queimadas-2019", "motivo": "Duas vezes em 2019, em agosto e em novembro, apontou ONGs ou doadores de ONGs como suspeitos das queimadas." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-eduardo-dicaprio-2019",
+      "pessoa": "eduardo",
+      "tema": "clima",
+      "data": "2019-11-28",
+      "titulo": "Afirma que DiCaprio doou cerca de US$ 300 mil à ONG que 'tacou fogo na Amazônia' e que o WWF pagou R$ 70 mil por fotos; o WWF nega",
+      "resumo": "A publicação veio dois dias depois da prisão de brigadistas em Alter do Chão, que foram soltos no mesmo dia.",
+      "detalhe": [
+        "Em 28 de novembro de 2019, nas redes sociais, Eduardo Bolsonaro, então deputado federal, afirmou que Leonardo DiCaprio doou para a ONG 'que tacou fogo na Amazônia'. Segundo ele, o ator doou cerca de US$ 300 mil (aproximadamente R$ 1,268 milhão) ao WWF, que teria pago R$ 70 mil por fotos da floresta em chamas. No dia seguinte, Jair Bolsonaro falou em 500 mil dólares, valor diferente do citado pelo filho."
+      ],
+      "fonte_nome": "Rolling Stone Brasil (29/11/2019)",
+      "fonte_url": "https://rollingstone.com.br/?p=83224",
+      "fontes_extra": [
+        { "nome": "Aos Fatos: é falso que a polícia descobriu que o WWF-Brasil financiou queimadas no Pará", "url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "Polícia Federal",
+          "texto": "Depois de uma perícia de quatro meses, concluiu que os incêndios foram causados por ação humana, mas não encontrou indícios de participação de brigadistas ou ONGs e pediu o arquivamento do inquérito.",
+          "fonte_nome": "Aos Fatos",
+          "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/",
+          "ressalva": "A checagem não informa a data do relatório da PF."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "WWF-Brasil",
+          "texto": "Explicou que os R$ 70 mil foram repassados por contrato com o Instituto Aquífero Alter do Chão para equipar a brigada.",
+          "fonte_nome": "Aos Fatos",
+          "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/"
+        }
+      ],
+      "resposta": { "quem": "WWF-Brasil", "texto": "Disse que 'não adquiriu nenhuma foto ou imagem da Brigada, nem recebeu doação do ator Leonardo DiCaprio' e que as informações em circulação são 'inverídicas'." },
+      "ressalva": "A Rolling Stone não menciona as prisões em Alter do Chão; o contexto vem do Aos Fatos e do Bahia Notícias. O Aos Fatos cita que o delegado da Polícia Civil falou numa doação de US$ 500 mil de DiCaprio ao WWF, que o WWF nega.",
+      "cronologia": [
+        { "data": "2019-11-26", "texto": "A Polícia Civil do Pará prende quatro brigadistas de Alter do Chão.", "fonte_nome": "Aos Fatos", "fonte_url": "https://www.aosfatos.org/noticias/e-falso-que-policia-descobriu-que-WWF-Brasil-financiou-queimadas-no-para-em-2019/" },
+        { "data": "2019-11-28", "texto": "Eduardo acusa DiCaprio e o WWF; os brigadistas são soltos.", "fonte_nome": "Rolling Stone Brasil (29/11/2019)", "fonte_url": "https://rollingstone.com.br/?p=83224" },
+        { "data": "2019-11-29", "texto": "O WWF nega as acusações; Jair Bolsonaro repete a acusação com outro valor.", "fonte_nome": "Rolling Stone Brasil (29/11/2019)", "fonte_url": "https://rollingstone.com.br/?p=83224" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Doação atribuída a DiCaprio: valores citados por pai e filho",
+          "unidade": "US$ mil",
+          "itens": [
+            { "nome": "Eduardo Bolsonaro (28/11/2019)", "valor": 300 },
+            { "nome": "Jair Bolsonaro (29/11/2019)", "valor": 500 }
+          ],
+          "leitura": "Pai e filho citaram valores diferentes em dois dias seguidos; o WWF nega ter recebido doação do ator.",
+          "ressalva": "Os valores são das falas, não de documentos; o Aos Fatos registra que o delegado da Polícia Civil falou em US$ 500 mil ao WWF.",
+          "fontes": [ { "nome": "Rolling Stone Brasil (29/11/2019)", "url": "https://rollingstone.com.br/?p=83224" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-dicaprio-2019", "motivo": "O pai fez a mesma acusação no dia seguinte." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-fraude-2018-2020",
+      "pessoa": "jair",
+      "tema": "urnas",
+      "data": "2020-03-09",
+      "titulo": "Em Miami, diz ter 'provas' de que houve fraude em 2018 e de que 'foi eleito no primeiro turno'; um ano depois, não as havia apresentado",
+      "resumo": "Disse que as provas estavam 'nas minhas mãos' e seriam mostradas 'brevemente'; o resultado oficial foi de 46,03% no primeiro turno.",
+      "detalhe": [
+        "Em 9 de março de 2020, em entrevista a jornalistas em Miami (EUA), Bolsonaro disse: 'pelas provas que eu tenho nas minhas mãos, que vou mostrar brevemente' e 'no meu entender, houve fraude', afirmando que teria vencido no primeiro turno de 2018. Um ano depois, o Poder360 registrava que ele não havia apresentado as supostas evidências. O movimento Livres, dissidente do PSL, pediu ao governo que apresentasse as provas, e a AGU pediu à Justiça o fim da ação, alegando que a declaração foi informal e não um 'ato formal'. Os resultados oficiais mostram 46,03% dos votos no primeiro turno."
+      ],
+      "fonte_nome": "Poder360 (09/03/2021)",
+      "fonte_url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/",
+      "fontes_extra": [
+        { "nome": "CUT: TSE abre inquérito para investigar ataques de Bolsonaro ao sistema eleitoral (03/08/2021)", "url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "dados",
+          "quem": "Resultado oficial do primeiro turno de 2018",
+          "texto": "Bolsonaro teve 46,03% no primeiro turno, o que, segundo o Poder360, indica que ele não venceu a eleição já no primeiro turno.",
+          "fonte_nome": "Poder360",
+          "fonte_url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/",
+          "data": "2021-03-09"
+        },
+        {
+          "tipo": "orgao",
+          "quem": "TSE",
+          "texto": "Em 2 de agosto de 2021, o plenário decidiu por unanimidade abrir inquérito administrativo e incluir Bolsonaro no inquérito das fake news do STF; a Corregedoria já havia pedido que ele provasse as irregularidades de 2018, e ele não respondeu.",
+          "fonte_nome": "CUT",
+          "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/",
+          "data": "2021-08-02"
+        }
+      ],
+      "resposta": { "quem": "AGU", "texto": "Pediu à Justiça o fim de uma ação do movimento Livres, argumentando que a declaração foi informal, e não um 'ato formal'." },
+      "ressalva": "O Poder360 não relata auditoria ou perícia sobre a alegação. A Secretaria de Comunicação da Presidência não respondeu aos pedidos de comentário.",
+      "cronologia": [
+        { "data": "2018-10-07", "texto": "Primeiro turno de 2018: Bolsonaro tem 46,03% dos votos.", "fonte_nome": "Poder360 (09/03/2021)", "fonte_url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/" },
+        { "data": "2020-03-09", "texto": "Em Miami, diz ter provas de fraude e que as mostrará 'brevemente'.", "fonte_nome": "Poder360 (09/03/2021)", "fonte_url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/" },
+        { "data": "2021-03-09", "texto": "Um ano depois, o Poder360 registra que as provas não foram apresentadas.", "fonte_nome": "Poder360 (09/03/2021)", "fonte_url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/" },
+        { "data": "2021-07-29", "texto": "Em live, fala em 'indícios fortíssimos' de fraude, mas admite: 'Não temos provas'.", "fonte_nome": "Poder360 (19/07/2022)", "fonte_url": "https://www.poder360.com.br/midia/youtube-tira-do-ar-live-de-bolsonaro-de-2021-sobre-urnas/" },
+        { "data": "2021-08-02", "texto": "O TSE decide por unanimidade abrir inquérito e incluir Bolsonaro no inquérito das fake news do STF; o prazo de cinco dias para ele apresentar provas já havia vencido.", "fonte_nome": "CUT (03/08/2021)", "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" }
+      ],
+      "consequencias": [
+        { "data": "2021-08-02", "texto": "Inquérito administrativo do TSE e inclusão de Bolsonaro no inquérito das fake news; segundo integrantes do tribunal, ele poderia levar a questionamento do registro de candidatura ou à inelegibilidade.", "fonte_nome": "CUT (03/08/2021)", "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" },
+        { "data": "2023-06-30", "texto": "O TSE o torna inelegível por oito anos, por 5 votos a 2, por abuso de poder político na reunião com embaixadores de 2022.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Percentual de votos de Bolsonaro no primeiro turno de 2018",
+          "unidade": "% dos votos",
+          "itens": [
+            { "nome": "Resultado oficial", "valor": 46.03, "destaque": true },
+            { "nome": "Necessário para vencer no 1º turno (mais da metade dos válidos)", "valor": 50 }
+          ],
+          "leitura": "A regra é conhecida: para ganhar no primeiro turno é preciso mais de 50% dos votos válidos.",
+          "ressalva": "O segundo número é a regra eleitoral, não consta da matéria do Poder360.",
+          "fontes": [ { "nome": "Poder360 (09/03/2021)", "url": "https://www.poder360.com.br/governo/bolsonaro-completa-1-ano-sem-apresentar-provas-de-fraudes-nas-eleicoes/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-urnas-live-2021", "motivo": "Em 2020, disse ter provas de fraude; em 2021, na live, admitiu: 'Não temos provas'." },
+        { "id": "nz-jair-voto-impresso-2021", "motivo": "A tese de fraude embasou a campanha pelo voto impresso." },
+        { "id": "nz-flavio-urnas-2026", "motivo": "Os dois questionaram o processo eleitoral de 2018: o pai alegou fraude em 2020; Flávio escreveu, em 2018, que era 'impossível garantir a lisura das urnas sem o voto impresso'." }
+      ],
+      "ligacoes": ["f08-tse-jair-inelegivel-2023"]
+    },
+    {
+      "id": "nz-jair-voto-impresso-2021",
+      "pessoa": "jair",
+      "tema": "urnas",
+      "data": "2021-08-10",
+      "titulo": "Câmara rejeita por 229 a 218 a PEC do voto impresso, defendida por Bolsonaro, horas depois de um desfile militar na Esplanada",
+      "resumo": "A proposta precisava de 308 votos; Lira disse esperar que o assunto fique 'definitivamente enterrado'.",
+      "detalhe": [
+        "Em 10 de agosto de 2021, o plenário da Câmara rejeitou a PEC 135/19, da deputada Bia Kicis, que tornava obrigatório o voto impresso: foram 229 votos a favor, 218 contra e 1 abstenção, quando eram necessários 308. O presidente da Câmara, Arthur Lira, agradeceu aos deputados pelo 'comportamento democrático' e disse esperar que o assunto fique 'definitivamente enterrado'.",
+        "Horas antes, Bolsonaro assistiu a um desfile militar inédito na Praça dos Três Poderes. A oposição viu o gesto como tentativa de intimidação do Parlamento; bolsonaristas disseram que a coincidência de datas foi casual, e o deputado Carlos Jordy afirmou que a operação ocorre desde 1988. Bolsonaro alegava fraude no sistema eleitoral, inclusive em 2018, mas admitia não ter provas."
+      ],
+      "fonte_nome": "Agência Câmara (10/08/2021)",
+      "fonte_url": "https://www.camara.leg.br/noticias/792343-camara-rejeita-proposta-que-tornava-obrigatorio-o-voto-impresso/",
+      "fontes_extra": [
+        { "nome": "A Gazeta: Câmara dos Deputados sepulta a PEC do voto impresso (10/08/2021)", "url": "https://www.agazeta.com.br/brasil/camara-dos-deputados-sepulta-pec-do-voto-impresso-0821" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "imprensa",
+          "quem": "A Gazeta",
+          "texto": "Segundo a reportagem, Bolsonaro alega fraude no sistema eleitoral, inclusive em 2018, mas 'admite não ter provas'; a matéria afirma também que o voto eletrônico já é auditável e que ele foi eleito várias vezes pelas urnas eletrônicas.",
+          "fonte_nome": "A Gazeta",
+          "fonte_url": "https://www.agazeta.com.br/brasil/camara-dos-deputados-sepulta-pec-do-voto-impresso-0821",
+          "data": "2021-08-10",
+          "ressalva": "A afirmação sobre auditoria é da matéria, sem detalhar as etapas."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "TSE",
+          "texto": "Oito dias antes, em 2 de agosto de 2021, o plenário decidiu por unanimidade abrir inquérito administrativo sobre as acusações repetidas e sem provas de fraude no sistema eleitoral e incluir Bolsonaro no inquérito das fake news do STF.",
+          "fonte_nome": "CUT",
+          "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/",
+          "data": "2021-08-02"
+        }
+      ],
+      "resposta": { "quem": "Bolsonaristas", "texto": "Disseram que a coincidência entre o desfile e a votação foi casual; o deputado Carlos Jordy (PSL-RJ) afirmou que a operação ocorre desde 1988." },
+      "cronologia": [
+        { "data": "2021-07-29", "texto": "Em live, Bolsonaro fala em 'indícios fortíssimos' de fraude e defende o voto impresso, mas admite: 'Não temos provas'.", "fonte_nome": "Poder360 (19/07/2022)", "fonte_url": "https://www.poder360.com.br/midia/youtube-tira-do-ar-live-de-bolsonaro-de-2021-sobre-urnas/" },
+        { "data": "2021-08-02", "texto": "O TSE decide por unanimidade abrir inquérito administrativo sobre os ataques às urnas e incluir Bolsonaro no inquérito das fake news.", "fonte_nome": "CUT (03/08/2021)", "fonte_url": "https://www.cut.org.br/noticias/tse-abre-inquerito-para-investigar-ataques-de-bolsonaro-ao-sistema-eleitoral-8e8b/" },
+        { "data": "2021-08-10", "texto": "Desfile militar na Esplanada e, à noite, a PEC do voto impresso é rejeitada na Câmara.", "fonte_nome": "A Gazeta (10/08/2021)", "fonte_url": "https://www.agazeta.com.br/brasil/camara-dos-deputados-sepulta-pec-do-voto-impresso-0821" },
+        { "data": "2022-07", "texto": "Reunião com embaixadores: Bolsonaro volta a atacar as urnas.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "consequencias": [
+        { "data": "2021-08-10", "texto": "A PEC é rejeitada e arquivada; Lira diz esperar que o assunto fique 'definitivamente enterrado'.", "fonte_nome": "Agência Câmara", "fonte_url": "https://www.camara.leg.br/noticias/792343-camara-rejeita-proposta-que-tornava-obrigatorio-o-voto-impresso/" },
+        { "data": "2023-06-30", "texto": "O TSE torna Bolsonaro inelegível por oito anos, por 5 votos a 2, pelo uso da reunião com embaixadores de 2022 para atacar o sistema eleitoral.", "fonte_nome": "InfoMoney (30/06/2023)", "fonte_url": "https://www.infomoney.com.br/politica/tse-forma-maioria-e-torna-bolsonaro-inelegivel-ate-2030-por-abuso-de-poder-politico-em-reuniao-com-embaixadores/amp/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Votação da PEC do voto impresso (10/08/2021)",
+          "unidade": "votos",
+          "itens": [
+            { "nome": "A favor", "valor": 229 },
+            { "nome": "Contra", "valor": 218 },
+            { "nome": "Mínimo para aprovar uma PEC", "valor": 308, "destaque": true }
+          ],
+          "leitura": "A proposta teve mais votos a favor que contra, mas ficou 79 votos abaixo do mínimo exigido para emendas constitucionais.",
+          "ressalva": "Houve ainda uma abstenção.",
+          "fontes": [ { "nome": "Agência Câmara (10/08/2021)", "url": "https://www.camara.leg.br/noticias/792343-camara-rejeita-proposta-que-tornava-obrigatorio-o-voto-impresso/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-urnas-live-2021", "motivo": "A live de 29/07/2021 era a campanha pela PEC." },
+        { "id": "nz-jair-embaixadores-2022", "motivo": "A tese de fraude chegou à reunião com embaixadores em julho de 2022." },
+        { "id": "nz-eduardo-urnas-2020", "motivo": "Eduardo já defendia o voto impresso desde a eleição municipal de 2020." }
+      ],
+      "ligacoes": ["f08-tse-jair-inelegivel-2023"]
+    },
+    {
+      "id": "nz-eduardo-urnas-2020",
+      "pessoa": "eduardo",
+      "tema": "urnas",
+      "data": "2020-11-15",
+      "titulo": "Após o atraso na apuração das eleições municipais, fala em ataque hacker ao TSE e diz que, com o voto impresso, 'as eleições estariam garantidas'",
+      "resumo": "O TSE disse que a tentativa de ataque não teve sucesso e não teve relação com o atraso, causado por falha técnica.",
+      "detalhe": [
+        "Em 15 de novembro de 2020, a apuração das eleições municipais atrasou por problemas técnicos no TSE: às 23h, a cidade de São Paulo tinha só 37,77% das urnas apuradas. Eduardo Bolsonaro, então deputado federal, citou notícias de que o TSE foi atacado por hackers e afirmou que, com o voto impresso, 'as eleições estariam garantidas'. Disse ainda que a falta de transparência gera desconfiança quanto ao atraso e a uma possível manipulação. Aliados de Bolsonaro, como Marco Feliciano, Bia Kicis, Carla Zambelli e Filipe Barros, também criticaram o tribunal e defenderam o voto impresso."
+      ],
+      "fonte_nome": "Exame (16/11/2020)",
+      "fonte_url": "https://exame.com/brasil/deputados-bolsonaristas-atacam-tse-e-defendem-voto-impresso/",
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "TSE (ministro Luís Roberto Barroso)",
+          "texto": "Disse em coletiva que não há risco de o resultado não refletir os votos, chamou o problema de 'pequeno acidente de percurso' que causou só atraso na divulgação e afirmou que a tentativa de ataque não teve sucesso e não tem relação com o atraso, causado por falha técnica.",
+          "fonte_nome": "Exame",
+          "fonte_url": "https://exame.com/brasil/deputados-bolsonaristas-atacam-tse-e-defendem-voto-impresso/",
+          "data": "2020-11-16"
+        }
+      ],
+      "resposta": null,
+      "ressalva": "A reportagem resume a fala de Eduardo, não a reproduz por inteiro; ele mesmo citou que o TSE negou o ataque.",
+      "cronologia": [
+        { "data": "2020-11-15", "texto": "Primeiro turno das eleições municipais: a apuração atrasa por falha técnica no TSE.", "fonte_nome": "Exame (16/11/2020)", "fonte_url": "https://exame.com/brasil/deputados-bolsonaristas-atacam-tse-e-defendem-voto-impresso/" },
+        { "data": "2020-11-16", "texto": "Barroso diz que não há risco para o resultado e que o ataque não teve sucesso nem relação com o atraso.", "fonte_nome": "Exame (16/11/2020)", "fonte_url": "https://exame.com/brasil/deputados-bolsonaristas-atacam-tse-e-defendem-voto-impresso/" },
+        { "data": "2021-08-10", "texto": "A Câmara rejeita a PEC do voto impresso por 229 a 218.", "fonte_nome": "Agência Câmara (10/08/2021)", "fonte_url": "https://www.camara.leg.br/noticias/792343-camara-rejeita-proposta-que-tornava-obrigatorio-o-voto-impresso/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Urnas apuradas na cidade de São Paulo às 23h do dia 15/11/2020",
+          "unidade": "% das urnas",
+          "itens": [
+            { "nome": "Apuradas", "valor": 37.77, "destaque": true },
+            { "nome": "Restantes", "valor": 62.23 }
+          ],
+          "leitura": "O atraso foi real; o TSE o atribuiu a falha técnica, sem relação com o ataque.",
+          "ressalva": "O percentual restante é a diferença entre 100% e o dado da reportagem.",
+          "fontes": [ { "nome": "Exame (16/11/2020)", "url": "https://exame.com/brasil/deputados-bolsonaristas-atacam-tse-e-defendem-voto-impresso/" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-voto-impresso-2021", "motivo": "O voto impresso foi a pauta de Jair Bolsonaro em 2021." },
+        { "id": "nz-jair-urnas-live-2021", "motivo": "O mesmo debate sobre fraude e voto impresso, com cerca de um ano de diferença." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-eduardo-covid-vacinas-2021",
+      "pessoa": "eduardo",
+      "tema": "vacinas",
+      "data": "2021-01-19",
+      "titulo": "Indicou a hidroxicloroquina em 'ao menos 32 mensagens' no Twitter, repetiu a recusa da CoronaVac e, em junho de 2021, ligou reações adversas a vacinas que 'não seguiram protocolos'",
+      "resumo": "O Congresso em Foco o listou entre os deputados 'pró-cloroquina'; em agosto de 2021, ele se vacinou e agradeceu ao governo.",
+      "detalhe": [
+        "Em 19 de janeiro de 2021, o Congresso em Foco registrou que Eduardo Bolsonaro, então deputado federal, exaltou o pai e indicou a hidroxicloroquina em 'ao menos 32 mensagens no Twitter' e que, em outubro de 2020, replicou a posição do presidente de que o governo não compraria a CoronaVac. No mesmo dia 19, elogiou o envio de doses da CoronaVac pela Força Aérea e pelo Ministério da Saúde e disse, sem provas, que a crítica do presidente se devia ao Butantan não querer passar o imunizante pelo crivo da Anvisa.",
+        "Em 9 de março de 2021, publicou que 'agora' a arma é a vacina, com imagem do Zé Gotinha com uma seringa como fuzil; depois de críticas, apagou e repostou: 'nossa arma é a vacina'. Em 10 de março, em live, criticou a imprensa por, na avaliação dele, cobrir 'apenas a máscara', com palavrão. Em junho de 2021, em post no Facebook contra um possível 'passaporte de imunização', afirmou, segundo a Folhapress, que as vacinas não seguiram protocolos e que por isso houve reações adversas. Em 25 de agosto de 2021, foi vacinado pelo ministro Marcelo Queiroga e agradeceu ao governo Bolsonaro pela compra das vacinas."
+      ],
+      "fonte_nome": "Congresso em Foco (19/01/2021)",
+      "fonte_url": "https://www.congressoemfoco.com.br/legislativo/parlamentares-pro-cloroquina-pro-vacina/",
+      "fontes_extra": [
+        { "nome": "Congresso em Foco: governo diz que sempre apoiou a vacinação, mas as declarações mostram o contrário", "url": "https://congressoemfoco.com.br/saude/governo-diz-que-sempre-apoiou-vacinacao-declaracoes-mostram-o-contrario" },
+        { "nome": "DOL: Eduardo critica a cobertura da imprensa sobre máscaras (11/03/2021)", "url": "https://dol.com.br/noticias/brasil/643371/eduardo-bolsonaro-diz-para-populacao-enfiar-no-rabo-mascaras-contra-a-covid-19" },
+        { "nome": "Diário do Nordeste (Folhapress): Eduardo é vacinado por Queiroga (26/08/2021)", "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/eduardo-bolsonaro-e-vacinado-contra-covid-por-queiroga-1.3127866" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "estudo",
+          "quem": "Coalizão Covid-19 Brasil (NEJM)",
+          "texto": "Estudo com 667 pacientes com covid-19 leve ou moderada, internados em 55 hospitais brasileiros, não mostrou melhora clínica em 15 dias com hidroxicloroquina, sozinha ou com azitromicina. Houve mais alterações no eletrocardiograma e em exames do fígado.",
+          "fonte_nome": "Forbes Brasil",
+          "fonte_url": "https://forbes.com.br/colunas/2020/07/hidroxicloroquina-nao-traz-melhoria-em-hospitalizados-com-covid-19-leve-ou-moderada-diz-estudo-brasileiro/",
+          "data": "2020-07-23",
+          "ressalva": "O estudo avaliou pacientes internados; o resultado vale para esse grupo."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "Anvisa",
+          "texto": "Em 17 de janeiro de 2021, a diretoria aprovou por unanimidade o uso emergencial da CoronaVac e da vacina de Oxford/AstraZeneca; a área técnica fez ressalvas ao uso.",
+          "fonte_nome": "A Gazeta",
+          "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121",
+          "data": "2021-01-17",
+          "ressalva": "A reportagem sobre o post de junho não traz o texto original de Eduardo nem checagem da afirmação sobre protocolos."
+        }
+      ],
+      "resposta": { "quem": "Eduardo Bolsonaro", "texto": "Em 25 de agosto de 2021, ao se vacinar, agradeceu ao governo e ao Ministério da Saúde pela compra das vacinas." },
+      "ressalva": "O Congresso em Foco cita a contagem de 32 mensagens a partir de uma busca no Twitter, sem explicar quem a fez nem o método; trate o número como aproximação. A fala sobre máscaras (10/03/2021) era uma crítica à cobertura da imprensa; a matéria do DOL não traz reações. Em julho de 2021, o Facebook restringiu a conta dele por 30 dias por publicações atribuídas a Hitler, não por este tema.",
+      "cronologia": [
+        { "data": "2020-10", "texto": "Replica a posição do pai de que o governo não compraria a CoronaVac.", "fonte_nome": "Congresso em Foco (19/01/2021)", "fonte_url": "https://www.congressoemfoco.com.br/legislativo/parlamentares-pro-cloroquina-pro-vacina/" },
+        { "data": "2021-01-17", "texto": "A Anvisa aprova a CoronaVac e a vacina de Oxford.", "fonte_nome": "A Gazeta (17/01/2021)", "fonte_url": "https://www.agazeta.com.br/brasil/anvisa-aprova-por-unanimidade-uso-emergencial-de-vacinas-coronavac-e-de-oxford-0121" },
+        { "data": "2021-01-19", "texto": "Elogia o envio de doses da CoronaVac e diz, sem provas, que a crítica do presidente se devia ao Butantan.", "fonte_nome": "Congresso em Foco (19/01/2021)", "fonte_url": "https://www.congressoemfoco.com.br/legislativo/parlamentares-pro-cloroquina-pro-vacina/" },
+        { "data": "2021-03-09", "texto": "Publica que 'agora' a arma é a vacina e, depois de críticas, reposta 'nossa arma é a vacina'.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://congressoemfoco.com.br/saude/governo-diz-que-sempre-apoiou-vacinacao-declaracoes-mostram-o-contrario" },
+        { "data": "2021-03-10", "texto": "Em live, critica a imprensa por dar atenção excessiva à máscara.", "fonte_nome": "DOL (11/03/2021)", "fonte_url": "https://dol.com.br/noticias/brasil/643371/eduardo-bolsonaro-diz-para-populacao-enfiar-no-rabo-mascaras-contra-a-covid-19" },
+        { "data": "2021-06", "texto": "Em post sobre o 'passaporte de imunização', diz que as vacinas não seguiram protocolos, o que teria causado reações adversas.", "fonte_nome": "Diário do Nordeste (Folhapress, 26/08/2021)", "fonte_url": "https://diariodonordeste.verdesmares.com.br/pontopoder/eduardo-bolsonaro-e-vacinado-contra-covid-por-queiroga-1.3127866" },
+        { "data": "2021-08-25", "texto": "É vacinado por Marcelo Queiroga e agradece ao governo pela compra das vacinas.", "fonte_nome": "Diário do Nordeste (26/08/2021)", "fonte_url": "https://diariodonordeste.verdesmares.com.br/pontopoder/eduardo-bolsonaro-e-vacinado-contra-covid-por-queiroga-1.3127866" }
+      ],
+      "consequencias": [
+        { "data": "2021-10-26", "texto": "O relatório final da CPI da Pandemia pede o indiciamento de Eduardo por incitação ao crime (art. 286 do Código Penal); a reportagem não traz a fundamentação específica.", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-coronavac-2020", "motivo": "Repetiu a posição do pai sobre não comprar a CoronaVac." },
+        { "id": "nz-jair-cloroquina-2020", "motivo": "Ecoou a defesa da hidroxicloroquina feita pelo presidente." },
+        { "id": "nz-jair-mascaras-2020", "motivo": "Em março de 2021, criticou a cobertura sobre máscaras." }
+      ],
+      "ligacoes": ["j06-cpi-pandemia-relatorio-final-2021"]
+    },
+    {
+      "id": "nz-flavio-cpi-tratamento-2021",
+      "pessoa": "flavio",
+      "tema": "covid",
+      "data": "2021-06-18",
+      "titulo": "Na CPI da Covid, defende o 'tratamento precoce' e diz que 'os verdadeiros negacionistas' são os que tentam impedir 'as pessoas de salvar suas vidas'",
+      "resumo": "Em sessão da CPI da qual não era membro, atacou o relator Renan Calheiros; em setembro, publicou no Twitter sobre 'tratamento preventivo' e 'precoce'.",
+      "detalhe": [
+        "Em 18 de junho de 2021, durante sessão da CPI da Covid, o senador Flávio Bolsonaro, que não era membro da comissão, discursou a favor do 'tratamento precoce' e disse que a população 'xinga de genocida' quem está 'tentando salvar vidas'. Afirmou: 'Sabemos quem são os verdadeiros negacionistas, aqueles que tentam impedir as pessoas de salvar suas vidas'. Horas antes, o relator Renan Calheiros deixara a sessão, e Flávio pediu a um colega que apresentasse representação para substituí-lo.",
+        "Em 29 de setembro de 2021, no dia em que o empresário Luciano Hang depôs à CPI, Flávio escreveu no Twitter que 'tratamento preventivo' é 'antes de estar doente' e 'tratamento imediato (=precoce)' é 'no início da doença', 'sempre com acompanhamento médico', e concluiu: 'Mas com a covid, não pode'. A CPI investigava a Prevent Senior, acusada de prescrever medicamentos sem eficácia comprovada."
+      ],
+      "fonte_nome": "Estado de Minas (18/06/2021)",
+      "fonte_url": "https://www.em.com.br/app/noticia/politica/2021/06/18/interna_politica,1278212/flavio-bolsonaro-xingam-de-genocida-aqueles-que-querem-salvar-vidas.shtml",
+      "fontes_extra": [
+        { "nome": "Correio Braziliense: Flávio reclama por que não pode tratamento preventivo para covid (30/09/2021)", "url": "https://www.correiobraziliense.com.br/politica/2021/09/4952671-flavio-reclama-por-que-nao-pode-tratamento-preventivo-para-covid.html" }
+      ],
+      "ciencia": [
+        {
+          "tipo": "orgao",
+          "quem": "Ministério da Saúde",
+          "texto": "Em documentos enviados à CPI em julho de 2021, o ministério admitiu que hidroxicloroquina, cloroquina, azitromicina e outros remédios do 'kit covid' não tiveram benefício clínico em pacientes internados e não devem ser usados, e que não há evidência que justifique a ivermectina nesse grupo.",
+          "fonte_nome": "Congresso em Foco",
+          "fonte_url": "https://congressoemfoco.com.br/noticia/21691/saude-admite-ineficacia-de-cloroquina-e-outros-medicamentos-do-kit-covid",
+          "data": "2021-07-14"
+        },
+        {
+          "tipo": "estudo",
+          "quem": "Ensaio TOGETHER (NEJM, 2022)",
+          "texto": "Ensaio randomizado com placebo, em 12 clínicas de atenção básica de Minas Gerais: a ivermectina não reduziu a internação nem a permanência prolongada em emergência entre pacientes ambulatoriais com covid-19 diagnosticada cedo. Eventos: 14,7% (ivermectina) contra 16,3% (placebo); razão de risco 0,90 (intervalo de 95% de 0,70 a 1,16).",
+          "fonte_nome": "NEJM (PubMed Central)",
+          "fonte_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006771",
+          "data": "2022-03-30",
+          "ressalva": "O estudo testa a ivermectina, um dos remédios do 'tratamento precoce'; as falas de Flávio relatadas não citam o medicamento pelo nome."
+        }
+      ],
+      "resposta": { "quem": "Flávio Bolsonaro", "texto": "Disse que 'os verdadeiros negacionistas' são os que tentam impedir as pessoas de salvar suas vidas e pediu a substituição do relator." },
+      "ressalva": "A reportagem do Estado de Minas afirma apenas que o tratamento não tem comprovação científica contra a covid-19, sem detalhar estudos; a análise dos remédios vem das fontes ao lado. O relatório da CPI pediu o indiciamento de Flávio por incitação ao crime, sem fundamentação específica na reportagem consultada.",
+      "cronologia": [
+        { "data": "2021-06-18", "texto": "Discurso na CPI em defesa do 'tratamento precoce' e pedido para trocar o relator.", "fonte_nome": "Estado de Minas (18/06/2021)", "fonte_url": "https://www.em.com.br/app/noticia/politica/2021/06/18/interna_politica,1278212/flavio-bolsonaro-xingam-de-genocida-aqueles-que-querem-salvar-vidas.shtml" },
+        { "data": "2021-07-14", "texto": "O Ministério da Saúde admite à CPI que o 'kit covid' não teve benefício clínico em internados.", "fonte_nome": "Congresso em Foco (14/07/2021)", "fonte_url": "https://congressoemfoco.com.br/noticia/21691/saude-admite-ineficacia-de-cloroquina-e-outros-medicamentos-do-kit-covid" },
+        { "data": "2021-09-29", "texto": "Flávio publica no Twitter a distinção entre tratamento 'preventivo' e 'precoce', no dia do depoimento de Luciano Hang.", "fonte_nome": "Correio Braziliense (30/09/2021)", "fonte_url": "https://www.correiobraziliense.com.br/politica/2021/09/4952671-flavio-reclama-por-que-nao-pode-tratamento-preventivo-para-covid.html" },
+        { "data": "2021-10-26", "texto": "O relatório final da CPI pede o indiciamento de Flávio por incitação ao crime.", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" },
+        { "data": "2022-03-30", "texto": "O NEJM publica o ensaio TOGETHER: a ivermectina não reduziu internações.", "fonte_nome": "NEJM (PMC)", "fonte_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006771" }
+      ],
+      "consequencias": [
+        { "data": "2021-10-26", "texto": "A CPI da Pandemia aprova o relatório por 7 votos a 4 e pede o indiciamento de 80 pessoas; Flávio, Eduardo e Carlos Bolsonaro aparecem por incitação ao crime (art. 286 do Código Penal).", "fonte_nome": "InfoMoney (26/10/2021)", "fonte_url": "https://www.infomoney.com.br/?p=1722518" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Ivermectina contra placebo: internação ou emergência prolongada em até 28 dias",
+          "unidade": "% dos pacientes",
+          "itens": [
+            { "nome": "Ivermectina (679 pacientes)", "valor": 14.7 },
+            { "nome": "Placebo (679 pacientes)", "valor": 16.3 }
+          ],
+          "leitura": "A diferença não foi estatisticamente significativa (razão de risco 0,90; intervalo de confiança 0,70 a 1,16).",
+          "ressalva": "O estudo é sobre ivermectina em pacientes ambulatoriais de Minas Gerais; não avalia os outros remédios do 'tratamento precoce'.",
+          "fontes": [ { "nome": "NEJM (PubMed Central)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9006771" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-cloroquina-2020", "motivo": "Defende no Senado o mesmo 'tratamento precoce' do presidente." },
+        { "id": "nz-flavio-cloroquina-2020", "motivo": "O próprio Flávio tomou cloroquina e azitromicina ao ter covid-19, em 2020." },
+        { "id": "nz-jair-tratecov-2021", "motivo": "A CPI investigou o aplicativo e a crise de Manaus." }
+      ],
+      "ligacoes": ["cpi01-covid-incitacao-2021", "j06-cpi-pandemia-relatorio-final-2021"]
+    },
+    {
+      "id": "nz-jair-santa-cruz-2019",
+      "pessoa": "jair",
+      "tema": "historia",
+      "data": "2019-07-29",
+      "titulo": "Diz que, se o presidente da OAB quiser saber como o pai desapareceu, 'eu conto', e sugere que Fernando Santa Cruz foi morto por colegas de grupo; dias depois, a comissão que atestou a morte pelo Estado é reformulada",
+      "resumo": "A Comissão de Mortos e Desaparecidos havia emitido, cerca de uma semana antes, certidão de óbito que indica morte 'causada pelo Estado brasileiro'.",
+      "detalhe": [
+        "Em 29 de julho de 2019, Bolsonaro disse: 'Um dia, se o presidente da OAB quiser saber como é que o pai dele desapareceu no período militar, eu conto'. Em transmissão ao vivo no mesmo dia, sugeriu que Fernando Santa Cruz teria sido morto por integrantes da Ação Popular do Rio de Janeiro, a quem chamou de 'grupo terrorista' e 'o grupo mais sanguinário e violento da guerrilha lá de Pernambuco', segundo a carta dos familiares.",
+        "A Comissão sobre Mortos e Desaparecidos, ligada ao Ministério da Mulher, da Família e dos Direitos Humanos, havia emitido a certidão de óbito cerca de uma semana antes (24 de julho, segundo a carta) classificando a morte como 'não natural, violenta, causada pelo Estado brasileiro'. O relatório da Comissão Nacional da Verdade diz que ele foi 'preso e morto por agentes do Estado brasileiro', em 1974. Em 1º de agosto, o Diário Oficial publicou a substituição de 4 dos 7 integrantes da comissão, inclusive a presidente, a procuradora Eugênia Augusta Gonzaga; os familiares chamaram a medida de 'evidente retaliação' e enviaram carta à Comissão Interamericana de Direitos Humanos."
+      ],
+      "fonte_nome": "Brasil de Fato (01/08/2019)",
+      "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/",
+      "ciencia": [
+        {
+          "tipo": "estudo",
+          "quem": "Comissão Nacional da Verdade",
+          "texto": "O relatório final (2014) registra que Fernando Santa Cruz foi 'preso e morto por agentes do Estado brasileiro' em 1974, segundo a carta dos familiares reproduzida pela reportagem.",
+          "fonte_nome": "Brasil de Fato",
+          "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/",
+          "data": "2019-08-01",
+          "ressalva": "A citação do relatório vem da carta dos familiares; a reportagem registra que o texto da certidão aparece com pequena variação de redação."
+        },
+        {
+          "tipo": "orgao",
+          "quem": "Comissão de Mortos e Desaparecidos Políticos",
+          "texto": "A certidão de óbito, emitida cerca de uma semana antes da fala, classificou a morte como 'não natural, violenta, causada pelo Estado brasileiro'.",
+          "fonte_nome": "Brasil de Fato",
+          "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/",
+          "data": "2019-07-24"
+        }
+      ],
+      "resposta": null,
+      "ressalva": "A reportagem do Brasil de Fato reproduz a carta dos familiares e o posicionamento deles; não traz resposta do Planalto à reformulação da comissão.",
+      "cronologia": [
+        { "data": "1974", "texto": "Fernando Santa Cruz desaparece; a CNV o considera 'preso e morto por agentes do Estado brasileiro'.", "fonte_nome": "Brasil de Fato (01/08/2019)", "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/" },
+        { "data": "2019-07-24", "texto": "A Comissão de Mortos e Desaparecidos emite a certidão de óbito, que indica morte causada pelo Estado.", "fonte_nome": "Brasil de Fato (01/08/2019)", "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/" },
+        { "data": "2019-07-29", "texto": "Bolsonaro diz que 'conta' como o pai do presidente da OAB desapareceu e, em live, aponta a Ação Popular.", "fonte_nome": "Brasil de Fato (01/08/2019)", "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/" },
+        { "data": "2019-08-01", "texto": "O Diário Oficial publica a troca de 4 dos 7 integrantes da comissão, incluindo a presidente; familiares enviam carta à CIDH, da OEA.", "fonte_nome": "Brasil de Fato (01/08/2019)", "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/" }
+      ],
+      "consequencias": [
+        { "data": "2019-08-01", "texto": "A comissão é reformulada e os familiares recorrem à CIDH, pedindo nota de repúdio e pedido de desculpas do Estado às famílias.", "fonte_nome": "Brasil de Fato", "fonte_url": "https://www.brasildefato.com.br/2019/08/01/familiares-de-mortos-e-desaparecidos-vao-a-oea-contra-declaracoes-de-jair-bolsonaro/" }
+      ],
+      "numeros": [
+        {
+          "rotulo": "Comissão Nacional da Verdade: mortes e desaparecimentos na ditadura",
+          "unidade": "casos",
+          "itens": [
+            { "nome": "Mortos e desaparecidos confirmados", "valor": 434, "destaque": true },
+            { "nome": "Dos quais, desaparecidos", "valor": 210 }
+          ],
+          "leitura": "Santa Cruz é um dos desaparecidos reconhecidos como mortos por agentes do Estado.",
+          "ressalva": "O relatório é de dezembro de 2014.",
+          "fontes": [ { "nome": "Congresso em Foco", "url": "https://www.congressoemfoco.com.br/noticia/53424/comissao-aponta-434-mortos-e-desaparecidos-na-ditadura" } ]
+        }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-31marco-2019", "motivo": "Quatro meses antes, mandou celebrar o 31 de março de 1964." },
+        { "id": "nz-jair-ustra-2016", "motivo": "Em 2016, homenageou o coronel Ustra, apontado como torturador pela Justiça." },
+        { "id": "nz-eduardo-ai5-2019", "motivo": "Quatro meses depois, Eduardo falou em um 'novo AI-5'." }
+      ],
+      "ligacoes": []
+    },
+    {
+      "id": "nz-jair-ustra-2016",
+      "pessoa": "jair",
+      "tema": "historia",
+      "data": "2016-04-17",
+      "titulo": "Ao votar pelo impeachment de Dilma, dedica o voto 'à memória do coronel Carlos Alberto Brilhante Ustra, o pavor de Dilma Rousseff'",
+      "resumo": "Segundo o Poder360, Ustra chefiou o DOI-Codi de São Paulo nos anos 1970 e foi 'declarado torturador pela Justiça'.",
+      "detalhe": [
+        "Em 17 de abril de 2016, na votação em que a Câmara aprovou a abertura do processo de impeachment de Dilma Rousseff, o então deputado Jair Bolsonaro disse: 'Pela memória do coronel Carlos Alberto Brilhante Ustra, o pavor de Dilma Rousseff'. Segundo o Poder360, Ustra foi 'declarado torturador pela Justiça', chefiou o DOI-Codi de São Paulo nos anos 1970, quando militantes políticos foram torturados no local, e virou um dos principais símbolos da repressão política no Brasil.",
+        "O Poder360 lembra que parte dos simpatizantes da ditadura diz que Ustra foi vítima de um processo de difamação, e que o governo Dilma criou a Comissão Nacional da Verdade, o que desagradou integrantes das Forças Armadas."
+      ],
+      "fonte_nome": "Poder360 (17/04/2021)",
+      "fonte_url": "https://www.poder360.com.br/governo/ha-5-anos-camara-abria-impeachment-de-dilma-e-bolsonaro-louvava-ustra/",
+      "ciencia": [
+        {
+          "tipo": "estudo",
+          "quem": "Comissão Nacional da Verdade",
+          "texto": "O relatório final (2014) confirmou 434 mortes e desaparecimentos e registra prática sistemática de detenções ilegais e arbitrárias e de tortura, como política de Estado.",
+          "fonte_nome": "Congresso em Foco",
+          "fonte_url": "https://www.congressoemfoco.com.br/noticia/53424/comissao-aponta-434-mortos-e-desaparecidos-na-ditadura",
+          "data": "2014-12-10"
+        }
+      ],
+      "resposta": { "quem": "Simpatizantes da ditadura (segundo o Poder360)", "texto": "Dizem que Ustra sofreu um processo de difamação." },
+      "ressalva": "O Poder360 não informa a data da decisão que declarou Ustra torturador; o registro é de uma fala feita antes de o autor ser presidente.",
+      "cronologia": [
+        { "data": "2014-12-10", "texto": "A CNV entrega o relatório final, com 434 mortos e desaparecidos.", "fonte_nome": "Congresso em Foco", "fonte_url": "https://www.congressoemfoco.com.br/noticia/53424/comissao-aponta-434-mortos-e-desaparecidos-na-ditadura" },
+        { "data": "2016-04-17", "texto": "Bolsonaro dedica o voto ao coronel Ustra na votação do impeachment.", "fonte_nome": "Poder360 (17/04/2021)", "fonte_url": "https://www.poder360.com.br/governo/ha-5-anos-camara-abria-impeachment-de-dilma-e-bolsonaro-louvava-ustra/" },
+        { "data": "2016-05-12", "texto": "Dilma é afastada quando o Senado aprova o processo.", "fonte_nome": "Poder360 (17/04/2021)", "fonte_url": "https://www.poder360.com.br/governo/ha-5-anos-camara-abria-impeachment-de-dilma-e-bolsonaro-louvava-ustra/" },
+        { "data": "2016-08-31", "texto": "O Senado cassa o mandato de Dilma por 61 votos a 20.", "fonte_nome": "Poder360 (17/04/2021)", "fonte_url": "https://www.poder360.com.br/governo/ha-5-anos-camara-abria-impeachment-de-dilma-e-bolsonaro-louvava-ustra/" }
+      ],
+      "consequencias": [
+        { "data": "2018", "texto": "Bolsonaro usou na campanha o slogan 'Brasil acima de tudo, Deus acima de todos', que já aparecia em seu voto de 2016.", "fonte_nome": "Poder360 (17/04/2021)", "fonte_url": "https://www.poder360.com.br/governo/ha-5-anos-camara-abria-impeachment-de-dilma-e-bolsonaro-louvava-ustra/" }
+      ],
+      "relacionados": [
+        { "id": "nz-jair-santa-cruz-2019", "motivo": "Em 2019, já presidente, contestou a morte de um desaparecido político." },
+        { "id": "nz-jair-31marco-2019", "motivo": "Em 2019, mandou celebrar o golpe de 1964." },
+        { "id": "nz-eduardo-ai5-2019", "motivo": "Em 2019, Eduardo falou em um 'novo AI-5'." }
+      ],
+      "ligacoes": []
     }
   ]
 };

@@ -564,6 +564,92 @@ footer.foot p { margin: 0 0 6px; max-width: 80ch; }
 .nz-note { display: grid; gap: 8px; align-content: start; padding: 14px 16px; border: 1px dashed var(--border-strong); border-radius: 12px; }
 .nz-note p { margin: 0; font-size: 14px; color: var(--ink-2); }
 
+/* mapa de ligações */
+.nz-map { margin-top: 30px; }
+.nz-map-lead { margin: 0 0 10px; max-width: 78ch; font-size: 14px; color: var(--ink-2); }
+.nz-map-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 0 0 10px; font-size: 12.5px; color: var(--ink-2); }
+.nz-leg { display: inline-flex; align-items: center; gap: 6px; }
+.nz-map-swipe { display: none; margin: 0 0 6px; font-size: 12px; color: var(--muted); }
+@media (max-width: 899px) { .nz-map-swipe { display: block; } }
+.nz-map-scroll { overflow-x: auto; border: 1px solid var(--border); border-radius: 14px; background: var(--surface); -webkit-overflow-scrolling: touch; }
+.nz-map-svg { display: block; width: 100%; min-width: 880px; height: auto; }
+.nz-lane-line { stroke: var(--grid); stroke-width: 1; }
+.nz-lane-lbl { fill: var(--ink-2); font: 600 11.5px var(--font); }
+.nz-year-tick { stroke: var(--axis); stroke-width: 1; stroke-dasharray: 2 4; }
+.nz-year-lbl { fill: var(--muted); font: 600 11px var(--font); font-variant-numeric: tabular-nums; }
+.nz-link { fill: none; stroke: var(--ink-2); stroke-opacity: .3; stroke-width: 1.25; transition: stroke-opacity .15s, stroke-width .15s; }
+.nz-map.has-active .nz-link { stroke-opacity: .06; }
+.nz-map.has-active .nz-link.is-hot { stroke-opacity: .95; stroke-width: 2.25; stroke: var(--ink); }
+.nz-link.is-off { stroke-opacity: .08; }
+.nz-node { cursor: pointer; outline: none; transition: opacity .15s; }
+.nz-node .hit { fill: transparent; pointer-events: all; }
+.nz-node .ring { fill: none; stroke: transparent; stroke-width: 2; }
+.nz-node .dot { fill: var(--p, var(--muted)); stroke: var(--surface); stroke-width: 2; }
+.nz-node:hover .ring, .nz-node.is-self .ring { stroke: var(--ink); }
+.nz-node:focus-visible .ring { stroke: var(--ink); stroke-width: 2.5; }
+.nz-node.is-off { opacity: .2; }
+.nz-map.has-active .nz-node:not(.is-hot) { opacity: .28; }
+.nz-map-info { margin-top: 12px; padding: 12px 14px; min-height: 64px; border: 1px dashed var(--border-strong); border-radius: 12px; }
+.nz-map-info p { margin: 0; }
+.nz-map-hint { font-size: 13px; color: var(--muted); }
+.nz-map-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 12px; color: var(--muted); }
+.nz-map-title { margin-top: 6px !important; color: var(--ink); font-size: 15px; font-weight: 650; line-height: 1.35; }
+.nz-map-rel { display: grid; gap: 8px; margin: 10px 0 0; padding: 0; list-style: none; }
+.nz-map-rel li { display: grid; gap: 2px; padding-left: 12px; border-left: 2px solid var(--border-strong); font-size: 13px; }
+.nz-map-rel b { color: var(--ink); font-weight: 600; }
+.nz-map-rel span { color: var(--ink-2); }
+.nz-map-open { margin-top: 10px; }
+
+/* resumo do cartão: o que há dentro */
+.nz-extras { margin: 0; font-size: 12.5px; color: var(--muted); }
+
+/* cronologia e desdobramentos */
+.nz-tl { list-style: none; margin: 0; padding: 0; }
+.nz-tl li { position: relative; display: grid; grid-template-columns: 92px minmax(0, 1fr); column-gap: 22px; padding-bottom: 14px; }
+.nz-tl li::before { content: ''; position: absolute; left: 102px; top: 12px; bottom: -2px; width: 2px; background: var(--axis); }
+.nz-tl li:last-child::before { display: none; }
+.nz-tl li::after { content: ''; position: absolute; left: 98px; top: 5px; width: 10px; height: 10px; border-radius: 50%; background: var(--surface); border: 2px solid var(--ink-2); }
+.nz-tl li.is-core::after { background: var(--ink); border-color: var(--ink); }
+.nz-tl--after li::after { border-color: var(--c-fato); }
+.nz-tl--after li::before { background: rgba(57, 135, 229, .35); }
+.nz-tl time { padding-top: 1px; font-size: 12px; font-weight: 600; color: var(--ink-2); font-variant-numeric: tabular-nums; text-align: right; }
+.nz-tl li p { margin: 0; font-size: 14px; color: var(--ink-2); }
+.nz-tl .crit-src { margin-top: 4px; }
+@media (max-width: 560px) {
+  .nz-tl li { grid-template-columns: minmax(0, 1fr); padding-left: 22px; row-gap: 2px; }
+  .nz-tl li::before { left: 4px; top: 14px; }
+  .nz-tl li::after { left: 0; top: 4px; }
+  .nz-tl time { text-align: left; }
+}
+
+/* quadros de números */
+.nz-num { padding: 12px 14px; border-radius: 10px; background: var(--surface-2); }
+.nz-num + .nz-num { margin-top: 10px; }
+.nz-num h4 { margin: 0; color: var(--ink); font-size: 13.5px; font-weight: 600; line-height: 1.35; }
+.nz-unit { margin: 2px 0 0; font-size: 12px; color: var(--muted); }
+.nz-bar-row { display: grid; grid-template-columns: minmax(110px, 38%) minmax(0, 1fr) minmax(52px, auto); gap: 10px; align-items: center; margin-top: 8px; font-size: 13px; }
+.nz-bar-row .lbl { color: var(--ink-2); line-height: 1.3; }
+.nz-bar-row .track { height: 10px; border-radius: 5px; background: var(--grid); overflow: hidden; }
+.nz-bar-row .fill { display: block; height: 100%; border-radius: 5px; background: var(--ink-2); opacity: .75; }
+.nz-bar-row.is-hi .fill { background: var(--p, var(--ink)); opacity: 1; }
+.nz-bar-row .val { color: var(--ink); font-weight: 650; font-variant-numeric: tabular-nums; text-align: right; }
+.nz-num p.nz-read { margin: 10px 0 0; font-size: 14px; color: var(--ink); }
+.nz-num p.ressalva { margin: 6px 0 0; font-size: 12.5px; color: var(--muted); }
+.nz-num p.ressalva b { color: var(--ink-2); font-weight: 600; }
+@media (max-width: 560px) {
+  .nz-bar-row { grid-template-columns: minmax(0, 1fr) auto; row-gap: 4px; }
+  .nz-bar-row .track { grid-column: 1 / -1; grid-row: 2; }
+}
+
+/* casos ligados */
+.nz-rel { display: grid; gap: 10px; margin: 0; padding: 0; list-style: none; }
+.nz-rel li { display: grid; gap: 4px; }
+.nz-rel-btn { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; width: 100%; padding: 8px 12px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface-2); color: var(--ink); text-align: left; font: 500 13.5px/1.35 var(--font); cursor: pointer; }
+.nz-rel-btn:hover { border-color: var(--border-strong); background: var(--surface-3); }
+.nz-rel-d { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.nz-rel-t { flex: 1 1 240px; min-width: 0; }
+.nz-rel-m { margin: 0; padding-left: 12px; font-size: 13px; color: var(--ink-2); }
+
 @media (prefers-reduced-motion: reduce) {
   * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }

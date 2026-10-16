@@ -219,10 +219,21 @@
       <div class="pl-intro">
         <h2 class="ex-title">Negacionismo e desinformação científica: Jair, Flávio e a família</h2>
         <p class="ex-lead" id="nz-lead"></p>
-        <p class="pl-scope">Cada registro traz o que foi dito ou feito, com a fonte e a data, e o que dizem a ciência e os dados (estudos, órgãos oficiais e checagens), com ressalvas. Onde quem foi citado respondeu, a resposta está no cartão. A palavra "negacionismo" é a usada pela imprensa e pela pesquisa para esse conjunto: o painel registra falas, atos e dados, e não rotula cada pessoa. Números de mortes, queimadas e desmatamento mostram a dimensão do problema e não atribuem a uma declaração isolada um resultado. Quem ficou sem registro aparece no fim da página, com o que encontrei.</p>
+        <p class="pl-scope">Cada registro traz o que foi dito ou feito, com a fonte e a data; a cronologia do caso, com uma fonte em cada passo; o que dizem a ciência e os dados (estudos, órgãos oficiais e checagens), com ressalvas; quadros de números, com a fonte de cada valor; o que veio depois; e as ligações com os outros casos. Onde quem foi citado respondeu, a resposta está no cartão. A palavra "negacionismo" é a usada pela imprensa e pela pesquisa para esse conjunto: o painel registra falas, atos e dados, e não rotula cada pessoa. Números de mortes, queimadas e desmatamento mostram a dimensão do problema e não atribuem a uma declaração isolada um resultado; a cronologia mostra a ordem dos fatos, não prova que um causou o outro. Quem ficou sem registro, ou só com registro parcial, aparece no fim da página, com o que encontrei.</p>
       </div>
 
       <div class="pl-summary" id="nz-summary"></div>
+
+      <section class="nz-map" id="nz-map" aria-labelledby="nz-map-h">
+        <h3 id="nz-map-h" class="pl-h">Mapa de ligações entre os casos</h3>
+        <p class="nz-map-lead">Cada ponto é um registro: a cor é de quem falou ou fez, a linha horizontal é o tema, e a ordem da esquerda para a direita é a cronológica (o espaçamento não é uma escala de tempo). Cada arco liga casos que se relacionam, pelo mesmo tema, pela mesma sequência de fatos ou pela mesma fala. Os pontos esmaecidos estão fora dos filtros abaixo.</p>
+        <div class="nz-map-legend" id="nz-map-legend" aria-label="Cores: quem falou ou fez"></div>
+        <p class="nz-map-swipe">Deslize para os lados para ver o mapa inteiro.</p>
+        <div class="nz-map-scroll">
+          <svg id="nz-map-svg" class="nz-map-svg" role="group" aria-label="Mapa dos registros por tema e data, com as ligações entre eles. Use as setas do teclado para percorrer os pontos." focusable="false"></svg>
+        </div>
+        <div id="nz-map-info" class="nz-map-info" aria-live="polite"></div>
+      </section>
 
       <section class="pl-filters" aria-label="Filtros dos registros">
         <div class="pl-bars-wrap">
@@ -251,7 +262,7 @@
       <div class="pl-list" id="nz-list"></div>
 
       <section id="nz-notes-sec" class="nz-notes-sec" aria-labelledby="nz-notes-h" hidden>
-        <h3 id="nz-notes-h" class="pl-h">Sem registro nas fontes consultadas</h3>
+        <h3 id="nz-notes-h" class="pl-h">Sem registro, ou só com registro parcial, nas fontes consultadas</h3>
         <div class="nz-notes" id="nz-notes"></div>
       </section>
     </div>
